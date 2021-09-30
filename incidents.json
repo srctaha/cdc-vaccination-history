@@ -1,5 +1,5 @@
 {
-  "runid": 2171,
+  "runid": 2172,
   "vaccination_data": [
     {
       "Date": "2021-09-29",
@@ -48,8 +48,8 @@
       "Series_Complete_Pfizer_65Plus": 21517717,
       "Series_Complete_Janssen_65Plus": 2165220,
       "Series_Complete_Unk_Manuf_65Plus": 2349733,
-      "Series_Complete_Yes": 185537265,
-      "Series_Complete_Pop_Pct": 55.9,
+      "Series_Complete_Yes": 184335263,
+      "Series_Complete_Pop_Pct": 55.5,
       "Series_Complete_18Plus": 172515045,
       "Series_Complete_18PlusPop_Pct": 66.8,
       "Series_Complete_65Plus": 45552669,
@@ -3830,8 +3830,8 @@
       "Series_Complete_Pfizer_65Plus": 1373053,
       "Series_Complete_Janssen_65Plus": 161735,
       "Series_Complete_Unk_Manuf_65Plus": 2302798,
-      "Series_Complete_Yes": 15993914,
-      "Series_Complete_Pop_Pct": 55.2,
+      "Series_Complete_Yes": 14791912,
+      "Series_Complete_Pop_Pct": 51,
       "Series_Complete_18Plus": 13638859,
       "Series_Complete_18PlusPop_Pct": 63.2,
       "Series_Complete_65Plus": 2945971,
