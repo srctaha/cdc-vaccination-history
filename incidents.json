@@ -1,5 +1,5 @@
 {
-  "runid": 2173,
+  "runid": 2174,
   "vaccination_data": [
     {
       "Date": "2021-09-30",
@@ -71,7 +71,18 @@
       "Series_Complete_Unk_Manuf_12Plus": 108424,
       "Administered_12Plus_Entity": 392546333,
       "Count_70pct_vacc": 39,
-      "additional_doses": 4031464
+      "additional_doses": 4031464,
+      "Additional_Doses_Vax_Pct": 2.2,
+      "Additional_Doses_50Plus": 3352688,
+      "Additional_Doses_50Plus_Vax_Pct": 3.6,
+      "Additional_Doses_18Plus": 4013630,
+      "Additional_Doses_18Plus_Vax_Pct": 2.3,
+      "Additional_Doses_65Plus": 2497872,
+      "Additional_Doses_65Plus_Vax_Pct": 5.5,
+      "Additional_Doses_Moderna": 1309943,
+      "Additional_Doses_Pfizer": 2710777,
+      "Additional_Doses_Janssen": 7547,
+      "Additional_Doses_Unk_Manuf": 3197
     },
     {
       "Date": "2021-09-30",
