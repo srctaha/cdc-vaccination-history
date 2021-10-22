@@ -1,5 +1,5 @@
 {
-  "runid": 2203,
+  "runid": 2206,
   "vaccination_data": [
     {
       "Date": "2021-10-21",
@@ -152,7 +152,15 @@
       "Series_Complete_Pfizer_12Plus": 202488,
       "Series_Complete_Janssen_12Plus": 33358,
       "Series_Complete_Unk_Manuf_12Plus": 70,
-      "Administered_12Plus_Entity": 790668
+      "Administered_12Plus_Entity": 790668,
+      "additional_doses": 37109,
+      "Additional_Doses_Vax_Pct": 9.7,
+      "Additional_Doses_50Plus": 26282,
+      "Additional_Doses_50Plus_Vax_Pct": 15.6,
+      "Additional_Doses_18Plus": 36947,
+      "Additional_Doses_18Plus_Vax_Pct": 10.4,
+      "Additional_Doses_65Plus": 15901,
+      "Additional_Doses_65Plus_Vax_Pct": 21.2
     },
     {
       "Date": "2021-10-21",
@@ -222,7 +230,15 @@
       "Series_Complete_Pfizer_12Plus": 1099640,
       "Series_Complete_Janssen_12Plus": 142587,
       "Series_Complete_Unk_Manuf_12Plus": 427,
-      "Administered_12Plus_Entity": 4575919
+      "Administered_12Plus_Entity": 4575919,
+      "additional_doses": 134615,
+      "Additional_Doses_Vax_Pct": 6.2,
+      "Additional_Doses_50Plus": 113302,
+      "Additional_Doses_50Plus_Vax_Pct": 9.1,
+      "Additional_Doses_18Plus": 134294,
+      "Additional_Doses_18Plus_Vax_Pct": 6.5,
+      "Additional_Doses_65Plus": 85455,
+      "Additional_Doses_65Plus_Vax_Pct": 13.2
     },
     {
       "Date": "2021-10-21",
@@ -292,7 +308,15 @@
       "Series_Complete_Pfizer_12Plus": 719173,
       "Series_Complete_Janssen_12Plus": 98909,
       "Series_Complete_Unk_Manuf_12Plus": 740,
-      "Administered_12Plus_Entity": 3065170
+      "Administered_12Plus_Entity": 3065170,
+      "additional_doses": 95994,
+      "Additional_Doses_Vax_Pct": 6.7,
+      "Additional_Doses_50Plus": 75840,
+      "Additional_Doses_50Plus_Vax_Pct": 10.1,
+      "Additional_Doses_18Plus": 95807,
+      "Additional_Doses_18Plus_Vax_Pct": 7.2,
+      "Additional_Doses_65Plus": 56253,
+      "Additional_Doses_65Plus_Vax_Pct": 14.4
     },
     {
       "Date": "2021-10-21",
@@ -362,7 +386,15 @@
       "Series_Complete_Pfizer_12Plus": 21955,
       "Series_Complete_Janssen_12Plus": 555,
       "Series_Complete_Unk_Manuf_12Plus": 0,
-      "Administered_12Plus_Entity": 65423
+      "Administered_12Plus_Entity": 65423,
+      "additional_doses": 20,
+      "Additional_Doses_Vax_Pct": 0,
+      "Additional_Doses_50Plus": 8,
+      "Additional_Doses_50Plus_Vax_Pct": 0,
+      "Additional_Doses_18Plus": 16,
+      "Additional_Doses_18Plus_Vax_Pct": 0,
+      "Additional_Doses_65Plus": 1,
+      "Additional_Doses_65Plus_Vax_Pct": 0
     },
     {
       "Date": "2021-10-21",
@@ -432,7 +464,15 @@
       "Series_Complete_Pfizer_12Plus": 2052331,
       "Series_Complete_Janssen_12Plus": 286585,
       "Series_Complete_Unk_Manuf_12Plus": 4553,
-      "Administered_12Plus_Entity": 8050028
+      "Administered_12Plus_Entity": 8050028,
+      "additional_doses": 234894,
+      "Additional_Doses_Vax_Pct": 6.1,
+      "Additional_Doses_50Plus": 196536,
+      "Additional_Doses_50Plus_Vax_Pct": 10.1,
+      "Additional_Doses_18Plus": 234139,
+      "Additional_Doses_18Plus_Vax_Pct": 6.5,
+      "Additional_Doses_65Plus": 152772,
+      "Additional_Doses_65Plus_Vax_Pct": 14.7
     },
     {
       "Date": "2021-10-21",
@@ -502,7 +542,15 @@
       "Series_Complete_Pfizer_12Plus": 62355,
       "Series_Complete_Janssen_12Plus": 11873,
       "Series_Complete_Unk_Manuf_12Plus": 0,
-      "Administered_12Plus_Entity": 235845
+      "Administered_12Plus_Entity": 235845,
+      "additional_doses": 1344,
+      "Additional_Doses_Vax_Pct": 1.2,
+      "Additional_Doses_50Plus": 485,
+      "Additional_Doses_50Plus_Vax_Pct": 2,
+      "Additional_Doses_18Plus": 1344,
+      "Additional_Doses_18Plus_Vax_Pct": 1.2,
+      "Additional_Doses_65Plus": 84,
+      "Additional_Doses_65Plus_Vax_Pct": 2.8
     },
     {
       "Date": "2021-10-21",
@@ -572,7 +620,15 @@
       "Series_Complete_Pfizer_12Plus": 13318171,
       "Series_Complete_Janssen_12Plus": 1890013,
       "Series_Complete_Unk_Manuf_12Plus": 4129,
-      "Administered_12Plus_Entity": 51760586
+      "Administered_12Plus_Entity": 51760586,
+      "additional_doses": 1381200,
+      "Additional_Doses_Vax_Pct": 5.7,
+      "Additional_Doses_50Plus": 1079731,
+      "Additional_Doses_50Plus_Vax_Pct": 10.3,
+      "Additional_Doses_18Plus": 1378787,
+      "Additional_Doses_18Plus_Vax_Pct": 6.2,
+      "Additional_Doses_65Plus": 794340,
+      "Additional_Doses_65Plus_Vax_Pct": 16.5
     },
     {
       "Date": "2021-10-21",
@@ -642,7 +698,15 @@
       "Series_Complete_Pfizer_12Plus": 1902516,
       "Series_Complete_Janssen_12Plus": 271938,
       "Series_Complete_Unk_Manuf_12Plus": 1568,
-      "Administered_12Plus_Entity": 7252633
+      "Administered_12Plus_Entity": 7252633,
+      "additional_doses": 279350,
+      "Additional_Doses_Vax_Pct": 7.9,
+      "Additional_Doses_50Plus": 216933,
+      "Additional_Doses_50Plus_Vax_Pct": 14.2,
+      "Additional_Doses_18Plus": 278762,
+      "Additional_Doses_18Plus_Vax_Pct": 8.5,
+      "Additional_Doses_65Plus": 171100,
+      "Additional_Doses_65Plus_Vax_Pct": 23.7
     },
     {
       "Date": "2021-10-21",
@@ -712,7 +776,15 @@
       "Series_Complete_Pfizer_12Plus": 1403946,
       "Series_Complete_Janssen_12Plus": 208233,
       "Series_Complete_Unk_Manuf_12Plus": 398,
-      "Administered_12Plus_Entity": 5174737
+      "Administered_12Plus_Entity": 5174737,
+      "additional_doses": 159353,
+      "Additional_Doses_Vax_Pct": 6.3,
+      "Additional_Doses_50Plus": 144307,
+      "Additional_Doses_50Plus_Vax_Pct": 11.5,
+      "Additional_Doses_18Plus": 159158,
+      "Additional_Doses_18Plus_Vax_Pct": 6.8,
+      "Additional_Doses_65Plus": 120643,
+      "Additional_Doses_65Plus_Vax_Pct": 20.5
     },
     {
       "Date": "2021-10-21",
@@ -782,7 +854,15 @@
       "Series_Complete_Pfizer_12Plus": 242553,
       "Series_Complete_Janssen_12Plus": 35164,
       "Series_Complete_Unk_Manuf_12Plus": 272,
-      "Administered_12Plus_Entity": 940795
+      "Administered_12Plus_Entity": 940795,
+      "additional_doses": 20693,
+      "Additional_Doses_Vax_Pct": 4.7,
+      "Additional_Doses_50Plus": 15012,
+      "Additional_Doses_50Plus_Vax_Pct": 9.1,
+      "Additional_Doses_18Plus": 20646,
+      "Additional_Doses_18Plus_Vax_Pct": 4.9,
+      "Additional_Doses_65Plus": 11016,
+      "Additional_Doses_65Plus_Vax_Pct": 14.8
     },
     {
       "Date": "2021-10-21",
@@ -852,7 +932,15 @@
       "Series_Complete_Pfizer_12Plus": 1505357,
       "Series_Complete_Janssen_12Plus": 233055,
       "Series_Complete_Unk_Manuf_12Plus": 50,
-      "Administered_12Plus_Entity": 6120072
+      "Administered_12Plus_Entity": 6120072,
+      "additional_doses": 233,
+      "Additional_Doses_Vax_Pct": 0,
+      "Additional_Doses_50Plus": 5,
+      "Additional_Doses_50Plus_Vax_Pct": 0,
+      "Additional_Doses_18Plus": 231,
+      "Additional_Doses_18Plus_Vax_Pct": 0,
+      "Additional_Doses_65Plus": 1,
+      "Additional_Doses_65Plus_Vax_Pct": 0
     },
     {
       "Date": "2021-10-21",
@@ -922,7 +1010,15 @@
       "Series_Complete_Pfizer_12Plus": 315619,
       "Series_Complete_Janssen_12Plus": 51053,
       "Series_Complete_Unk_Manuf_12Plus": 491,
-      "Administered_12Plus_Entity": 1227938
+      "Administered_12Plus_Entity": 1227938,
+      "additional_doses": 37414,
+      "Additional_Doses_Vax_Pct": 6.4,
+      "Additional_Doses_50Plus": 33511,
+      "Additional_Doses_50Plus_Vax_Pct": 10.4,
+      "Additional_Doses_18Plus": 37360,
+      "Additional_Doses_18Plus_Vax_Pct": 6.8,
+      "Additional_Doses_65Plus": 27237,
+      "Additional_Doses_65Plus_Vax_Pct": 16.2
     },
     {
       "Date": "2021-10-21",
@@ -992,7 +1088,15 @@
       "Series_Complete_Pfizer_12Plus": 6963238,
       "Series_Complete_Janssen_12Plus": 1208341,
       "Series_Complete_Unk_Manuf_12Plus": 29827,
-      "Administered_12Plus_Entity": 27055147
+      "Administered_12Plus_Entity": 27055147,
+      "additional_doses": 892426,
+      "Additional_Doses_Vax_Pct": 7,
+      "Additional_Doses_50Plus": 798104,
+      "Additional_Doses_50Plus_Vax_Pct": 11.2,
+      "Additional_Doses_18Plus": 890970,
+      "Additional_Doses_18Plus_Vax_Pct": 7.4,
+      "Additional_Doses_65Plus": 642853,
+      "Additional_Doses_65Plus_Vax_Pct": 16.6
     },
     {
       "Date": "2021-10-21",
@@ -1062,7 +1166,15 @@
       "Series_Complete_Pfizer_12Plus": 685,
       "Series_Complete_Janssen_12Plus": 11254,
       "Series_Complete_Unk_Manuf_12Plus": 1,
-      "Administered_12Plus_Entity": 75109
+      "Administered_12Plus_Entity": 75109,
+      "additional_doses": 51,
+      "Additional_Doses_Vax_Pct": 0.1,
+      "Additional_Doses_50Plus": 14,
+      "Additional_Doses_50Plus_Vax_Pct": 0.1,
+      "Additional_Doses_18Plus": 49,
+      "Additional_Doses_18Plus_Vax_Pct": 0.1,
+      "Additional_Doses_65Plus": 3,
+      "Additional_Doses_65Plus_Vax_Pct": 0
     },
     {
       "Date": "2021-10-21",
@@ -1132,7 +1244,15 @@
       "Series_Complete_Pfizer_12Plus": 2777922,
       "Series_Complete_Janssen_12Plus": 277371,
       "Series_Complete_Unk_Manuf_12Plus": 3134,
-      "Administered_12Plus_Entity": 10712404
+      "Administered_12Plus_Entity": 10712404,
+      "additional_doses": 244965,
+      "Additional_Doses_Vax_Pct": 4.8,
+      "Additional_Doses_50Plus": 203257,
+      "Additional_Doses_50Plus_Vax_Pct": 8.1,
+      "Additional_Doses_18Plus": 244362,
+      "Additional_Doses_18Plus_Vax_Pct": 5.1,
+      "Additional_Doses_65Plus": 150471,
+      "Additional_Doses_65Plus_Vax_Pct": 12.7
     },
     {
       "Date": "2021-10-21",
@@ -1202,7 +1322,15 @@
       "Series_Complete_Pfizer_12Plus": 72268,
       "Series_Complete_Janssen_12Plus": 9507,
       "Series_Complete_Unk_Manuf_12Plus": 0,
-      "Administered_12Plus_Entity": 227722
+      "Administered_12Plus_Entity": 227722,
+      "additional_doses": 5626,
+      "Additional_Doses_Vax_Pct": 4.7,
+      "Additional_Doses_50Plus": 4269,
+      "Additional_Doses_50Plus_Vax_Pct": 9.9,
+      "Additional_Doses_18Plus": 5624,
+      "Additional_Doses_18Plus_Vax_Pct": 5.2,
+      "Additional_Doses_65Plus": 2602,
+      "Additional_Doses_65Plus_Vax_Pct": 16.9
     },
     {
       "Date": "2021-10-21",
@@ -1272,7 +1400,15 @@
       "Series_Complete_Pfizer_12Plus": 497273,
       "Series_Complete_Janssen_12Plus": 51661,
       "Series_Complete_Unk_Manuf_12Plus": 18118,
-      "Administered_12Plus_Entity": 1736350
+      "Administered_12Plus_Entity": 1736350,
+      "additional_doses": 55143,
+      "Additional_Doses_Vax_Pct": 6.5,
+      "Additional_Doses_50Plus": 43662,
+      "Additional_Doses_50Plus_Vax_Pct": 10,
+      "Additional_Doses_18Plus": 55038,
+      "Additional_Doses_18Plus_Vax_Pct": 6.9,
+      "Additional_Doses_65Plus": 32423,
+      "Additional_Doses_65Plus_Vax_Pct": 13.8
     },
     {
       "Date": "2021-10-21",
@@ -1342,7 +1478,15 @@
       "Series_Complete_Pfizer_12Plus": 919939,
       "Series_Complete_Janssen_12Plus": 146012,
       "Series_Complete_Unk_Manuf_12Plus": 241,
-      "Administered_12Plus_Entity": 3548247
+      "Administered_12Plus_Entity": 3548247,
+      "additional_doses": 129752,
+      "Additional_Doses_Vax_Pct": 7.4,
+      "Additional_Doses_50Plus": 110919,
+      "Additional_Doses_50Plus_Vax_Pct": 11.9,
+      "Additional_Doses_18Plus": 129585,
+      "Additional_Doses_18Plus_Vax_Pct": 7.9,
+      "Additional_Doses_65Plus": 88791,
+      "Additional_Doses_65Plus_Vax_Pct": 17.9
     },
     {
       "Date": "2021-10-21",
@@ -1412,7 +1556,15 @@
       "Series_Complete_Pfizer_12Plus": 0,
       "Series_Complete_Janssen_12Plus": 0,
       "Series_Complete_Unk_Manuf_12Plus": 0,
-      "Administered_12Plus_Entity": 0
+      "Administered_12Plus_Entity": 0,
+      "additional_doses": 65816,
+      "Additional_Doses_Vax_Pct": 8.5,
+      "Additional_Doses_50Plus": 55830,
+      "Additional_Doses_50Plus_Vax_Pct": 12.8,
+      "Additional_Doses_18Plus": 65814,
+      "Additional_Doses_18Plus_Vax_Pct": 8.5,
+      "Additional_Doses_65Plus": 43815,
+      "Additional_Doses_65Plus_Vax_Pct": 18.4
     },
     {
       "Date": "2021-10-21",
@@ -1482,7 +1634,15 @@
       "Series_Complete_Pfizer_12Plus": 364228,
       "Series_Complete_Janssen_12Plus": 33199,
       "Series_Complete_Unk_Manuf_12Plus": 5,
-      "Administered_12Plus_Entity": 1698481
+      "Administered_12Plus_Entity": 1698481,
+      "additional_doses": 37659,
+      "Additional_Doses_Vax_Pct": 5,
+      "Additional_Doses_50Plus": 27649,
+      "Additional_Doses_50Plus_Vax_Pct": 8.1,
+      "Additional_Doses_18Plus": 37551,
+      "Additional_Doses_18Plus_Vax_Pct": 5.4,
+      "Additional_Doses_65Plus": 15442,
+      "Additional_Doses_65Plus_Vax_Pct": 11.8
     },
     {
       "Date": "2021-10-21",
@@ -1552,7 +1712,15 @@
       "Series_Complete_Pfizer_12Plus": 3920410,
       "Series_Complete_Janssen_12Plus": 544590,
       "Series_Complete_Unk_Manuf_12Plus": 6577,
-      "Administered_12Plus_Entity": 15399926
+      "Administered_12Plus_Entity": 15399926,
+      "additional_doses": 266408,
+      "Additional_Doses_Vax_Pct": 3.8,
+      "Additional_Doses_50Plus": 216061,
+      "Additional_Doses_50Plus_Vax_Pct": 6.4,
+      "Additional_Doses_18Plus": 265756,
+      "Additional_Doses_18Plus_Vax_Pct": 4.1,
+      "Additional_Doses_65Plus": 163774,
+      "Additional_Doses_65Plus_Vax_Pct": 10.1
     },
     {
       "Date": "2021-10-21",
@@ -1622,7 +1790,15 @@
       "Series_Complete_Pfizer_12Plus": 1878532,
       "Series_Complete_Janssen_12Plus": 255530,
       "Series_Complete_Unk_Manuf_12Plus": 7419,
-      "Administered_12Plus_Entity": 6960551
+      "Administered_12Plus_Entity": 6960551,
+      "additional_doses": 237121,
+      "Additional_Doses_Vax_Pct": 7.1,
+      "Additional_Doses_50Plus": 205183,
+      "Additional_Doses_50Plus_Vax_Pct": 11.4,
+      "Additional_Doses_18Plus": 236659,
+      "Additional_Doses_18Plus_Vax_Pct": 7.5,
+      "Additional_Doses_65Plus": 162345,
+      "Additional_Doses_65Plus_Vax_Pct": 17.7
     },
     {
       "Date": "2021-10-21",
@@ -1692,7 +1868,15 @@
       "Series_Complete_Pfizer_12Plus": 842267,
       "Series_Complete_Janssen_12Plus": 107780,
       "Series_Complete_Unk_Manuf_12Plus": 488,
-      "Administered_12Plus_Entity": 3107173
+      "Administered_12Plus_Entity": 3107173,
+      "additional_doses": 94675,
+      "Additional_Doses_Vax_Pct": 6.1,
+      "Additional_Doses_50Plus": 79574,
+      "Additional_Doses_50Plus_Vax_Pct": 10.2,
+      "Additional_Doses_18Plus": 94454,
+      "Additional_Doses_18Plus_Vax_Pct": 6.6,
+      "Additional_Doses_65Plus": 63191,
+      "Additional_Doses_65Plus_Vax_Pct": 15.5
     },
     {
       "Date": "2021-10-21",
@@ -1762,7 +1946,15 @@
       "Series_Complete_Pfizer_12Plus": 1255442,
       "Series_Complete_Janssen_12Plus": 201403,
       "Series_Complete_Unk_Manuf_12Plus": 1375,
-      "Administered_12Plus_Entity": 5097434
+      "Administered_12Plus_Entity": 5097434,
+      "additional_doses": 174297,
+      "Additional_Doses_Vax_Pct": 7.1,
+      "Additional_Doses_50Plus": 148163,
+      "Additional_Doses_50Plus_Vax_Pct": 11.5,
+      "Additional_Doses_18Plus": 174029,
+      "Additional_Doses_18Plus_Vax_Pct": 7.6,
+      "Additional_Doses_65Plus": 113584,
+      "Additional_Doses_65Plus_Vax_Pct": 17.7
     },
     {
       "Date": "2021-10-21",
@@ -1832,7 +2024,15 @@
       "Series_Complete_Pfizer_12Plus": 1142922,
       "Series_Complete_Janssen_12Plus": 154770,
       "Series_Complete_Unk_Manuf_12Plus": 951,
-      "Administered_12Plus_Entity": 4608234
+      "Administered_12Plus_Entity": 4608234,
+      "additional_doses": 165264,
+      "Additional_Doses_Vax_Pct": 7.5,
+      "Additional_Doses_50Plus": 140506,
+      "Additional_Doses_50Plus_Vax_Pct": 11.6,
+      "Additional_Doses_18Plus": 164956,
+      "Additional_Doses_18Plus_Vax_Pct": 7.9,
+      "Additional_Doses_65Plus": 107063,
+      "Additional_Doses_65Plus_Vax_Pct": 17.3
     },
     {
       "Date": "2021-10-21",
@@ -1902,7 +2102,15 @@
       "Series_Complete_Pfizer_12Plus": 2651140,
       "Series_Complete_Janssen_12Plus": 344002,
       "Series_Complete_Unk_Manuf_12Plus": 135,
-      "Administered_12Plus_Entity": 10005336
+      "Administered_12Plus_Entity": 10005336,
+      "additional_doses": 276051,
+      "Additional_Doses_Vax_Pct": 5.7,
+      "Additional_Doses_50Plus": 228996,
+      "Additional_Doses_50Plus_Vax_Pct": 10.1,
+      "Additional_Doses_18Plus": 275580,
+      "Additional_Doses_18Plus_Vax_Pct": 6.2,
+      "Additional_Doses_65Plus": 175541,
+      "Additional_Doses_65Plus_Vax_Pct": 16.7
     },
     {
       "Date": "2021-10-21",
@@ -1972,7 +2180,15 @@
       "Series_Complete_Pfizer_12Plus": 2261133,
       "Series_Complete_Janssen_12Plus": 296771,
       "Series_Complete_Unk_Manuf_12Plus": 3207,
-      "Administered_12Plus_Entity": 8062700
+      "Administered_12Plus_Entity": 8062700,
+      "additional_doses": 254248,
+      "Additional_Doses_Vax_Pct": 6.4,
+      "Additional_Doses_50Plus": 208262,
+      "Additional_Doses_50Plus_Vax_Pct": 11,
+      "Additional_Doses_18Plus": 253704,
+      "Additional_Doses_18Plus_Vax_Pct": 6.9,
+      "Additional_Doses_65Plus": 156556,
+      "Additional_Doses_65Plus_Vax_Pct": 17.8
     },
     {
       "Date": "2021-10-21",
@@ -2042,7 +2258,15 @@
       "Series_Complete_Pfizer_12Plus": 466219,
       "Series_Complete_Janssen_12Plus": 118424,
       "Series_Complete_Unk_Manuf_12Plus": 316,
-      "Administered_12Plus_Entity": 1856062
+      "Administered_12Plus_Entity": 1856062,
+      "additional_doses": 62167,
+      "Additional_Doses_Vax_Pct": 6.6,
+      "Additional_Doses_50Plus": 55226,
+      "Additional_Doses_50Plus_Vax_Pct": 10.5,
+      "Additional_Doses_18Plus": 62094,
+      "Additional_Doses_18Plus_Vax_Pct": 7,
+      "Additional_Doses_65Plus": 45416,
+      "Additional_Doses_65Plus_Vax_Pct": 16.8
     },
     {
       "Date": "2021-10-21",
@@ -2112,7 +2336,15 @@
       "Series_Complete_Pfizer_12Plus": 15,
       "Series_Complete_Janssen_12Plus": 2130,
       "Series_Complete_Unk_Manuf_12Plus": 1,
-      "Administered_12Plus_Entity": 41317
+      "Administered_12Plus_Entity": 41317,
+      "additional_doses": 8,
+      "Additional_Doses_Vax_Pct": 0,
+      "Additional_Doses_50Plus": 3,
+      "Additional_Doses_50Plus_Vax_Pct": 0,
+      "Additional_Doses_18Plus": 8,
+      "Additional_Doses_18Plus_Vax_Pct": 0,
+      "Additional_Doses_65Plus": 0,
+      "Additional_Doses_65Plus_Vax_Pct": 0
     },
     {
       "Date": "2021-10-21",
@@ -2182,7 +2414,15 @@
       "Series_Complete_Pfizer_12Plus": 2908314,
       "Series_Complete_Janssen_12Plus": 376681,
       "Series_Complete_Unk_Manuf_12Plus": 917,
-      "Administered_12Plus_Entity": 10903123
+      "Administered_12Plus_Entity": 10903123,
+      "additional_doses": 405446,
+      "Additional_Doses_Vax_Pct": 7.6,
+      "Additional_Doses_50Plus": 342883,
+      "Additional_Doses_50Plus_Vax_Pct": 11.7,
+      "Additional_Doses_18Plus": 404869,
+      "Additional_Doses_18Plus_Vax_Pct": 8.1,
+      "Additional_Doses_65Plus": 263414,
+      "Additional_Doses_65Plus_Vax_Pct": 17.7
     },
     {
       "Date": "2021-10-21",
@@ -2252,7 +2492,15 @@
       "Series_Complete_Pfizer_12Plus": 1856711,
       "Series_Complete_Janssen_12Plus": 300008,
       "Series_Complete_Unk_Manuf_12Plus": 787,
-      "Administered_12Plus_Entity": 6800807
+      "Administered_12Plus_Entity": 6800807,
+      "additional_doses": 291385,
+      "Additional_Doses_Vax_Pct": 8.7,
+      "Additional_Doses_50Plus": 239894,
+      "Additional_Doses_50Plus_Vax_Pct": 14.4,
+      "Additional_Doses_18Plus": 290933,
+      "Additional_Doses_18Plus_Vax_Pct": 9.3,
+      "Additional_Doses_65Plus": 191051,
+      "Additional_Doses_65Plus_Vax_Pct": 22.8
     },
     {
       "Date": "2021-10-21",
@@ -2322,7 +2570,15 @@
       "Series_Complete_Pfizer_12Plus": 1745641,
       "Series_Complete_Janssen_12Plus": 212193,
       "Series_Complete_Unk_Manuf_12Plus": 490,
-      "Administered_12Plus_Entity": 6399813
+      "Administered_12Plus_Entity": 6399813,
+      "additional_doses": 217671,
+      "Additional_Doses_Vax_Pct": 7.2,
+      "Additional_Doses_50Plus": 182591,
+      "Additional_Doses_50Plus_Vax_Pct": 11.2,
+      "Additional_Doses_18Plus": 217313,
+      "Additional_Doses_18Plus_Vax_Pct": 7.6,
+      "Additional_Doses_65Plus": 141558,
+      "Additional_Doses_65Plus_Vax_Pct": 16.6
     },
     {
       "Date": "2021-10-21",
@@ -2392,7 +2648,15 @@
       "Series_Complete_Pfizer_12Plus": 29153,
       "Series_Complete_Janssen_12Plus": 806,
       "Series_Complete_Unk_Manuf_12Plus": 0,
-      "Administered_12Plus_Entity": 71634
+      "Administered_12Plus_Entity": 71634,
+      "additional_doses": 1772,
+      "Additional_Doses_Vax_Pct": 5.1,
+      "Additional_Doses_50Plus": 1286,
+      "Additional_Doses_50Plus_Vax_Pct": 10.3,
+      "Additional_Doses_18Plus": 1771,
+      "Additional_Doses_18Plus_Vax_Pct": 5.8,
+      "Additional_Doses_65Plus": 626,
+      "Additional_Doses_65Plus_Vax_Pct": 21.6
     },
     {
       "Date": "2021-10-21",
@@ -2462,7 +2726,15 @@
       "Series_Complete_Pfizer_12Plus": 734007,
       "Series_Complete_Janssen_12Plus": 74096,
       "Series_Complete_Unk_Manuf_12Plus": 455,
-      "Administered_12Plus_Entity": 2815226
+      "Administered_12Plus_Entity": 2815226,
+      "additional_doses": 87952,
+      "Additional_Doses_Vax_Pct": 6.5,
+      "Additional_Doses_50Plus": 76085,
+      "Additional_Doses_50Plus_Vax_Pct": 10,
+      "Additional_Doses_18Plus": 87727,
+      "Additional_Doses_18Plus_Vax_Pct": 6.9,
+      "Additional_Doses_65Plus": 56250,
+      "Additional_Doses_65Plus_Vax_Pct": 14.5
     },
     {
       "Date": "2021-10-21",
@@ -2532,7 +2804,15 @@
       "Series_Complete_Pfizer_12Plus": 267691,
       "Series_Complete_Janssen_12Plus": 47416,
       "Series_Complete_Unk_Manuf_12Plus": 306,
-      "Administered_12Plus_Entity": 1075409
+      "Administered_12Plus_Entity": 1075409,
+      "additional_doses": 49583,
+      "Additional_Doses_Vax_Pct": 9.2,
+      "Additional_Doses_50Plus": 41835,
+      "Additional_Doses_50Plus_Vax_Pct": 13.9,
+      "Additional_Doses_18Plus": 49495,
+      "Additional_Doses_18Plus_Vax_Pct": 9.8,
+      "Additional_Doses_65Plus": 32764,
+      "Additional_Doses_65Plus_Vax_Pct": 19.4
     },
     {
       "Date": "2021-10-21",
@@ -2602,7 +2882,15 @@
       "Series_Complete_Pfizer_12Plus": 3068148,
       "Series_Complete_Janssen_12Plus": 418387,
       "Series_Complete_Unk_Manuf_12Plus": 101,
-      "Administered_12Plus_Entity": 11472569
+      "Administered_12Plus_Entity": 11472569,
+      "additional_doses": 241674,
+      "Additional_Doses_Vax_Pct": 4.4,
+      "Additional_Doses_50Plus": 195837,
+      "Additional_Doses_50Plus_Vax_Pct": 6.9,
+      "Additional_Doses_18Plus": 241413,
+      "Additional_Doses_18Plus_Vax_Pct": 4.7,
+      "Additional_Doses_65Plus": 145107,
+      "Additional_Doses_65Plus_Vax_Pct": 10.1
     },
     {
       "Date": "2021-10-21",
@@ -2672,7 +2960,15 @@
       "Series_Complete_Pfizer_12Plus": 182753,
       "Series_Complete_Janssen_12Plus": 30387,
       "Series_Complete_Unk_Manuf_12Plus": 2,
-      "Administered_12Plus_Entity": 731203
+      "Administered_12Plus_Entity": 731203,
+      "additional_doses": 28630,
+      "Additional_Doses_Vax_Pct": 8.2,
+      "Additional_Doses_50Plus": 23371,
+      "Additional_Doses_50Plus_Vax_Pct": 13.1,
+      "Additional_Doses_18Plus": 28597,
+      "Additional_Doses_18Plus_Vax_Pct": 8.6,
+      "Additional_Doses_65Plus": 17718,
+      "Additional_Doses_65Plus_Vax_Pct": 18.9
     },
     {
       "Date": "2021-10-21",
@@ -2742,7 +3038,15 @@
       "Series_Complete_Pfizer_12Plus": 609518,
       "Series_Complete_Janssen_12Plus": 80002,
       "Series_Complete_Unk_Manuf_12Plus": 1298,
-      "Administered_12Plus_Entity": 2175722
+      "Administered_12Plus_Entity": 2175722,
+      "additional_doses": 80464,
+      "Additional_Doses_Vax_Pct": 7.4,
+      "Additional_Doses_50Plus": 67363,
+      "Additional_Doses_50Plus_Vax_Pct": 12.6,
+      "Additional_Doses_18Plus": 80310,
+      "Additional_Doses_18Plus_Vax_Pct": 7.9,
+      "Additional_Doses_65Plus": 54809,
+      "Additional_Doses_65Plus_Vax_Pct": 19.7
     },
     {
       "Date": "2021-10-21",
@@ -2812,7 +3116,15 @@
       "Series_Complete_Pfizer_12Plus": 453921,
       "Series_Complete_Janssen_12Plus": 70495,
       "Series_Complete_Unk_Manuf_12Plus": 59,
-      "Administered_12Plus_Entity": 1844840
+      "Administered_12Plus_Entity": 1844840,
+      "additional_doses": 11165,
+      "Additional_Doses_Vax_Pct": 1.3,
+      "Additional_Doses_50Plus": 9247,
+      "Additional_Doses_50Plus_Vax_Pct": 1.9,
+      "Additional_Doses_18Plus": 11139,
+      "Additional_Doses_18Plus_Vax_Pct": 1.3,
+      "Additional_Doses_65Plus": 6784,
+      "Additional_Doses_65Plus_Vax_Pct": 3
     },
     {
       "Date": "2021-10-21",
@@ -2882,7 +3194,15 @@
       "Series_Complete_Pfizer_12Plus": 3256065,
       "Series_Complete_Janssen_12Plus": 456618,
       "Series_Complete_Unk_Manuf_12Plus": 185,
-      "Administered_12Plus_Entity": 11914057
+      "Administered_12Plus_Entity": 11914057,
+      "additional_doses": 346974,
+      "Additional_Doses_Vax_Pct": 5.9,
+      "Additional_Doses_50Plus": 289342,
+      "Additional_Doses_50Plus_Vax_Pct": 10.2,
+      "Additional_Doses_18Plus": 346249,
+      "Additional_Doses_18Plus_Vax_Pct": 6.3,
+      "Additional_Doses_65Plus": 205960,
+      "Additional_Doses_65Plus_Vax_Pct": 15.9
     },
     {
       "Date": "2021-10-21",
@@ -2952,7 +3272,15 @@
       "Series_Complete_Pfizer_12Plus": 715733,
       "Series_Complete_Janssen_12Plus": 98633,
       "Series_Complete_Unk_Manuf_12Plus": 1771,
-      "Administered_12Plus_Entity": 2594685
+      "Administered_12Plus_Entity": 2594685,
+      "additional_doses": 112765,
+      "Additional_Doses_Vax_Pct": 8.3,
+      "Additional_Doses_50Plus": 90006,
+      "Additional_Doses_50Plus_Vax_Pct": 13.4,
+      "Additional_Doses_18Plus": 112564,
+      "Additional_Doses_18Plus_Vax_Pct": 9,
+      "Additional_Doses_65Plus": 61014,
+      "Additional_Doses_65Plus_Vax_Pct": 17.8
     },
     {
       "Date": "2021-10-21",
@@ -3022,7 +3350,15 @@
       "Series_Complete_Pfizer_12Plus": 897733,
       "Series_Complete_Janssen_12Plus": 152568,
       "Series_Complete_Unk_Manuf_12Plus": 38,
-      "Administered_12Plus_Entity": 3415713
+      "Administered_12Plus_Entity": 3415713,
+      "additional_doses": 85899,
+      "Additional_Doses_Vax_Pct": 5.3,
+      "Additional_Doses_50Plus": 72971,
+      "Additional_Doses_50Plus_Vax_Pct": 9.2,
+      "Additional_Doses_18Plus": 85797,
+      "Additional_Doses_18Plus_Vax_Pct": 5.6,
+      "Additional_Doses_65Plus": 57198,
+      "Additional_Doses_65Plus_Vax_Pct": 14.7
     },
     {
       "Date": "2021-10-21",
@@ -3092,7 +3428,15 @@
       "Series_Complete_Pfizer_12Plus": 7145640,
       "Series_Complete_Janssen_12Plus": 1099862,
       "Series_Complete_Unk_Manuf_12Plus": 2606,
-      "Administered_12Plus_Entity": 26650506
+      "Administered_12Plus_Entity": 26650506,
+      "additional_doses": 482616,
+      "Additional_Doses_Vax_Pct": 3.7,
+      "Additional_Doses_50Plus": 405371,
+      "Additional_Doses_50Plus_Vax_Pct": 6.7,
+      "Additional_Doses_18Plus": 481742,
+      "Additional_Doses_18Plus_Vax_Pct": 4,
+      "Additional_Doses_65Plus": 294180,
+      "Additional_Doses_65Plus_Vax_Pct": 10.5
     },
     {
       "Date": "2021-10-21",
@@ -3162,7 +3506,15 @@
       "Series_Complete_Pfizer_12Plus": 3285440,
       "Series_Complete_Janssen_12Plus": 493979,
       "Series_Complete_Unk_Manuf_12Plus": 4553,
-      "Administered_12Plus_Entity": 12377180
+      "Administered_12Plus_Entity": 12377180,
+      "additional_doses": 401956,
+      "Additional_Doses_Vax_Pct": 6.6,
+      "Additional_Doses_50Plus": 352349,
+      "Additional_Doses_50Plus_Vax_Pct": 10.6,
+      "Additional_Doses_18Plus": 401090,
+      "Additional_Doses_18Plus_Vax_Pct": 7,
+      "Additional_Doses_65Plus": 285596,
+      "Additional_Doses_65Plus_Vax_Pct": 16.6
     },
     {
       "Date": "2021-10-21",
@@ -3232,7 +3584,15 @@
       "Series_Complete_Pfizer_12Plus": 1053288,
       "Series_Complete_Janssen_12Plus": 122080,
       "Series_Complete_Unk_Manuf_12Plus": 127,
-      "Administered_12Plus_Entity": 3826049
+      "Administered_12Plus_Entity": 3826049,
+      "additional_doses": 144370,
+      "Additional_Doses_Vax_Pct": 7.4,
+      "Additional_Doses_50Plus": 119911,
+      "Additional_Doses_50Plus_Vax_Pct": 11.9,
+      "Additional_Doses_18Plus": 144175,
+      "Additional_Doses_18Plus_Vax_Pct": 7.8,
+      "Additional_Doses_65Plus": 89617,
+      "Additional_Doses_65Plus_Vax_Pct": 17.3
     },
     {
       "Date": "2021-10-21",
@@ -3302,7 +3662,15 @@
       "Series_Complete_Pfizer_12Plus": 1455334,
       "Series_Complete_Janssen_12Plus": 224390,
       "Series_Complete_Unk_Manuf_12Plus": 1050,
-      "Administered_12Plus_Entity": 5340211
+      "Administered_12Plus_Entity": 5340211,
+      "additional_doses": 185723,
+      "Additional_Doses_Vax_Pct": 7,
+      "Additional_Doses_50Plus": 146511,
+      "Additional_Doses_50Plus_Vax_Pct": 11.6,
+      "Additional_Doses_18Plus": 185451,
+      "Additional_Doses_18Plus_Vax_Pct": 7.5,
+      "Additional_Doses_65Plus": 115014,
+      "Additional_Doses_65Plus_Vax_Pct": 17.2
     },
     {
       "Date": "2021-10-21",
@@ -3372,7 +3740,15 @@
       "Series_Complete_Pfizer_12Plus": 4114155,
       "Series_Complete_Janssen_12Plus": 670021,
       "Series_Complete_Unk_Manuf_12Plus": 519,
-      "Administered_12Plus_Entity": 16733298
+      "Administered_12Plus_Entity": 16733298,
+      "additional_doses": 294836,
+      "Additional_Doses_Vax_Pct": 3.8,
+      "Additional_Doses_50Plus": 243773,
+      "Additional_Doses_50Plus_Vax_Pct": 5.8,
+      "Additional_Doses_18Plus": 294177,
+      "Additional_Doses_18Plus_Vax_Pct": 4,
+      "Additional_Doses_65Plus": 180457,
+      "Additional_Doses_65Plus_Vax_Pct": 8.3
     },
     {
       "Date": "2021-10-21",
@@ -3442,7 +3818,15 @@
       "Series_Complete_Pfizer_12Plus": 1306035,
       "Series_Complete_Janssen_12Plus": 133837,
       "Series_Complete_Unk_Manuf_12Plus": 62,
-      "Administered_12Plus_Entity": 4843463
+      "Administered_12Plus_Entity": 4843463,
+      "additional_doses": 106462,
+      "Additional_Doses_Vax_Pct": 4.5,
+      "Additional_Doses_50Plus": 78132,
+      "Additional_Doses_50Plus_Vax_Pct": 6.9,
+      "Additional_Doses_18Plus": 106121,
+      "Additional_Doses_18Plus_Vax_Pct": 4.9,
+      "Additional_Doses_65Plus": 49965,
+      "Additional_Doses_65Plus_Vax_Pct": 8.8
     },
     {
       "Date": "2021-10-21",
@@ -3512,7 +3896,15 @@
       "Series_Complete_Pfizer_12Plus": 420140,
       "Series_Complete_Janssen_12Plus": 54384,
       "Series_Complete_Unk_Manuf_12Plus": 215,
-      "Administered_12Plus_Entity": 1476392
+      "Administered_12Plus_Entity": 1476392,
+      "additional_doses": 46722,
+      "Additional_Doses_Vax_Pct": 6.2,
+      "Additional_Doses_50Plus": 40431,
+      "Additional_Doses_50Plus_Vax_Pct": 10.8,
+      "Additional_Doses_18Plus": 46604,
+      "Additional_Doses_18Plus_Vax_Pct": 6.7,
+      "Additional_Doses_65Plus": 32056,
+      "Additional_Doses_65Plus_Vax_Pct": 17.9
     },
     {
       "Date": "2021-10-21",
@@ -3582,7 +3974,15 @@
       "Series_Complete_Pfizer_12Plus": 1715,
       "Series_Complete_Janssen_12Plus": 2338,
       "Series_Complete_Unk_Manuf_12Plus": 0,
-      "Administered_12Plus_Entity": 31518
+      "Administered_12Plus_Entity": 31518,
+      "additional_doses": 529,
+      "Additional_Doses_Vax_Pct": 3.3,
+      "Additional_Doses_50Plus": 505,
+      "Additional_Doses_50Plus_Vax_Pct": 9,
+      "Additional_Doses_18Plus": 529,
+      "Additional_Doses_18Plus_Vax_Pct": 3.6,
+      "Additional_Doses_65Plus": 384,
+      "Additional_Doses_65Plus_Vax_Pct": 22.4
     },
     {
       "Date": "2021-10-21",
@@ -3652,7 +4052,15 @@
       "Series_Complete_Pfizer_12Plus": 1414133,
       "Series_Complete_Janssen_12Plus": 181685,
       "Series_Complete_Unk_Manuf_12Plus": 288,
-      "Administered_12Plus_Entity": 5317003
+      "Administered_12Plus_Entity": 5317003,
+      "additional_doses": 209883,
+      "Additional_Doses_Vax_Pct": 8.2,
+      "Additional_Doses_50Plus": 182141,
+      "Additional_Doses_50Plus_Vax_Pct": 12.6,
+      "Additional_Doses_18Plus": 209603,
+      "Additional_Doses_18Plus_Vax_Pct": 8.7,
+      "Additional_Doses_65Plus": 148943,
+      "Additional_Doses_65Plus_Vax_Pct": 19.3
     },
     {
       "Date": "2021-10-21",
@@ -3722,7 +4130,15 @@
       "Series_Complete_Pfizer_12Plus": 248114,
       "Series_Complete_Janssen_12Plus": 32488,
       "Series_Complete_Unk_Manuf_12Plus": 22,
-      "Administered_12Plus_Entity": 873293
+      "Administered_12Plus_Entity": 873293,
+      "additional_doses": 33503,
+      "Additional_Doses_Vax_Pct": 7.2,
+      "Additional_Doses_50Plus": 28863,
+      "Additional_Doses_50Plus_Vax_Pct": 11.6,
+      "Additional_Doses_18Plus": 33476,
+      "Additional_Doses_18Plus_Vax_Pct": 7.7,
+      "Additional_Doses_65Plus": 22547,
+      "Additional_Doses_65Plus_Vax_Pct": 17
     },
     {
       "Date": "2021-10-21",
@@ -3792,7 +4208,15 @@
       "Series_Complete_Pfizer_12Plus": 1816568,
       "Series_Complete_Janssen_12Plus": 205380,
       "Series_Complete_Unk_Manuf_12Plus": 8239,
-      "Administered_12Plus_Entity": 7052889
+      "Administered_12Plus_Entity": 7052889,
+      "additional_doses": 277528,
+      "Additional_Doses_Vax_Pct": 8.6,
+      "Additional_Doses_50Plus": 228192,
+      "Additional_Doses_50Plus_Vax_Pct": 12.9,
+      "Additional_Doses_18Plus": 276836,
+      "Additional_Doses_18Plus_Vax_Pct": 9,
+      "Additional_Doses_65Plus": 172506,
+      "Additional_Doses_65Plus_Vax_Pct": 18.9
     },
     {
       "Date": "2021-10-21",
@@ -3862,7 +4286,15 @@
       "Series_Complete_Pfizer_12Plus": 8470709,
       "Series_Complete_Janssen_12Plus": 1227955,
       "Series_Complete_Unk_Manuf_12Plus": 134,
-      "Administered_12Plus_Entity": 32823573
+      "Administered_12Plus_Entity": 32823573,
+      "additional_doses": 1012482,
+      "Additional_Doses_Vax_Pct": 6.6,
+      "Additional_Doses_50Plus": 783262,
+      "Additional_Doses_50Plus_Vax_Pct": 11.8,
+      "Additional_Doses_18Plus": 1009111,
+      "Additional_Doses_18Plus_Vax_Pct": 7.1,
+      "Additional_Doses_65Plus": 527663,
+      "Additional_Doses_65Plus_Vax_Pct": 17.6
     },
     {
       "Date": "2021-10-21",
@@ -3932,7 +4364,15 @@
       "Series_Complete_Pfizer_12Plus": 951073,
       "Series_Complete_Janssen_12Plus": 147278,
       "Series_Complete_Unk_Manuf_12Plus": 6,
-      "Administered_12Plus_Entity": 3558411
+      "Administered_12Plus_Entity": 3558411,
+      "additional_doses": 86852,
+      "Additional_Doses_Vax_Pct": 5.1,
+      "Additional_Doses_50Plus": 71499,
+      "Additional_Doses_50Plus_Vax_Pct": 10.9,
+      "Additional_Doses_18Plus": 86519,
+      "Additional_Doses_18Plus_Vax_Pct": 5.6,
+      "Additional_Doses_65Plus": 57931,
+      "Additional_Doses_65Plus_Vax_Pct": 18.5
     },
     {
       "Date": "2021-10-21",
@@ -4002,7 +4442,15 @@
       "Series_Complete_Pfizer_12Plus": 3059530,
       "Series_Complete_Janssen_12Plus": 397799,
       "Series_Complete_Unk_Manuf_12Plus": 2586,
-      "Administered_12Plus_Entity": 10853795
+      "Administered_12Plus_Entity": 10853795,
+      "additional_doses": 336244,
+      "Additional_Doses_Vax_Pct": 6.3,
+      "Additional_Doses_50Plus": 274256,
+      "Additional_Doses_50Plus_Vax_Pct": 10.9,
+      "Additional_Doses_18Plus": 335584,
+      "Additional_Doses_18Plus_Vax_Pct": 6.8,
+      "Additional_Doses_65Plus": 203626,
+      "Additional_Doses_65Plus_Vax_Pct": 17.2
     },
     {
       "Date": "2021-10-21",
@@ -4072,7 +4520,15 @@
       "Series_Complete_Pfizer_12Plus": 1231736,
       "Series_Complete_Janssen_12Plus": 218153,
       "Series_Complete_Unk_Manuf_12Plus": 9,
-      "Administered_12Plus_Entity": 5898739
+      "Administered_12Plus_Entity": 5898739,
+      "additional_doses": 181765,
+      "Additional_Doses_Vax_Pct": 6.8,
+      "Additional_Doses_50Plus": 176717,
+      "Additional_Doses_50Plus_Vax_Pct": 8.4,
+      "Additional_Doses_18Plus": 181765,
+      "Additional_Doses_18Plus_Vax_Pct": 6.8,
+      "Additional_Doses_65Plus": 149577,
+      "Additional_Doses_65Plus_Vax_Pct": 10.8
     },
     {
       "Date": "2021-10-21",
@@ -4142,7 +4598,15 @@
       "Series_Complete_Pfizer_12Plus": 34059,
       "Series_Complete_Janssen_12Plus": 1433,
       "Series_Complete_Unk_Manuf_12Plus": 3,
-      "Administered_12Plus_Entity": 105972
+      "Administered_12Plus_Entity": 105972,
+      "additional_doses": 2017,
+      "Additional_Doses_Vax_Pct": 4.1,
+      "Additional_Doses_50Plus": 1747,
+      "Additional_Doses_50Plus_Vax_Pct": 6.1,
+      "Additional_Doses_18Plus": 2016,
+      "Additional_Doses_18Plus_Vax_Pct": 4.3,
+      "Additional_Doses_65Plus": 1249,
+      "Additional_Doses_65Plus_Vax_Pct": 9.1
     },
     {
       "Date": "2021-10-21",
@@ -4212,7 +4676,15 @@
       "Series_Complete_Pfizer_12Plus": 232764,
       "Series_Complete_Janssen_12Plus": 43172,
       "Series_Complete_Unk_Manuf_12Plus": 254,
-      "Administered_12Plus_Entity": 923041
+      "Administered_12Plus_Entity": 923041,
+      "additional_doses": 39063,
+      "Additional_Doses_Vax_Pct": 8.8,
+      "Additional_Doses_50Plus": 34214,
+      "Additional_Doses_50Plus_Vax_Pct": 14.5,
+      "Additional_Doses_18Plus": 39009,
+      "Additional_Doses_18Plus_Vax_Pct": 9.4,
+      "Additional_Doses_65Plus": 28478,
+      "Additional_Doses_65Plus_Vax_Pct": 23.5
     },
     {
       "Date": "2021-10-21",
@@ -4282,7 +4754,15 @@
       "Series_Complete_Pfizer_12Plus": 2628439,
       "Series_Complete_Janssen_12Plus": 402217,
       "Series_Complete_Unk_Manuf_12Plus": 2425,
-      "Administered_12Plus_Entity": 9708996
+      "Administered_12Plus_Entity": 9708996,
+      "additional_doses": 317775,
+      "Additional_Doses_Vax_Pct": 6.6,
+      "Additional_Doses_50Plus": 260093,
+      "Additional_Doses_50Plus_Vax_Pct": 11.8,
+      "Additional_Doses_18Plus": 316967,
+      "Additional_Doses_18Plus_Vax_Pct": 7,
+      "Additional_Doses_65Plus": 200854,
+      "Additional_Doses_65Plus_Vax_Pct": 18.6
     },
     {
       "Date": "2021-10-21",
@@ -4352,7 +4832,15 @@
       "Series_Complete_Pfizer_12Plus": 1841431,
       "Series_Complete_Janssen_12Plus": 272126,
       "Series_Complete_Unk_Manuf_12Plus": 420,
-      "Administered_12Plus_Entity": 6980100
+      "Administered_12Plus_Entity": 6980100,
+      "additional_doses": 278800,
+      "Additional_Doses_Vax_Pct": 8.2,
+      "Additional_Doses_50Plus": 229763,
+      "Additional_Doses_50Plus_Vax_Pct": 12.7,
+      "Additional_Doses_18Plus": 278437,
+      "Additional_Doses_18Plus_Vax_Pct": 8.8,
+      "Additional_Doses_65Plus": 181242,
+      "Additional_Doses_65Plus_Vax_Pct": 19.4
     },
     {
       "Date": "2021-10-21",
@@ -4422,7 +4910,15 @@
       "Series_Complete_Pfizer_12Plus": 369729,
       "Series_Complete_Janssen_12Plus": 44091,
       "Series_Complete_Unk_Manuf_12Plus": 254,
-      "Administered_12Plus_Entity": 1484679
+      "Administered_12Plus_Entity": 1484679,
+      "additional_doses": 39932,
+      "Additional_Doses_Vax_Pct": 5.4,
+      "Additional_Doses_50Plus": 32630,
+      "Additional_Doses_50Plus_Vax_Pct": 7.2,
+      "Additional_Doses_18Plus": 39889,
+      "Additional_Doses_18Plus_Vax_Pct": 5.6,
+      "Additional_Doses_65Plus": 23079,
+      "Additional_Doses_65Plus_Vax_Pct": 8.7
     },
     {
       "Date": "2021-10-21",
@@ -4492,7 +4988,15 @@
       "Series_Complete_Pfizer_12Plus": 121940,
       "Series_Complete_Janssen_12Plus": 22711,
       "Series_Complete_Unk_Manuf_12Plus": 86,
-      "Administered_12Plus_Entity": 512666
+      "Administered_12Plus_Entity": 512666,
+      "additional_doses": 21246,
+      "Additional_Doses_Vax_Pct": 8.4,
+      "Additional_Doses_50Plus": 18229,
+      "Additional_Doses_50Plus_Vax_Pct": 12.9,
+      "Additional_Doses_18Plus": 21199,
+      "Additional_Doses_18Plus_Vax_Pct": 8.9,
+      "Additional_Doses_65Plus": 14168,
+      "Additional_Doses_65Plus_Vax_Pct": 18.2
     }
   ]
 }
