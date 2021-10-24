@@ -1,5 +1,5 @@
 {
-  "runid": 2210,
+  "runid": 2211,
   "vaccination_data": [
     {
       "Date": "2021-10-24",
@@ -74,7 +74,7 @@
       "additional_doses": 12888226,
       "Additional_Doses_Vax_Pct": 6.8,
       "Additional_Doses_50Plus": 10618740,
-      "Additional_Doses_50Plus_Vax_Pct": 22.9,
+      "Additional_Doses_50Plus_Vax_Pct": 11.3,
       "Additional_Doses_18Plus": 12864032,
       "Additional_Doses_18Plus_Vax_Pct": 7.2,
       "Additional_Doses_65Plus": 7993957,
