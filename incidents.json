@@ -1,5 +1,5 @@
 {
-  "runid": 2236,
+  "runid": 2237,
   "vaccination_data": [
     {
       "Date": "2021-11-04",
@@ -200,7 +200,11 @@
       "Additional_Doses_18Plus": 59494,
       "Additional_Doses_18Plus_Vax_Pct": 16.6,
       "Additional_Doses_65Plus": 26290,
-      "Additional_Doses_65Plus_Vax_Pct": 34.8
+      "Additional_Doses_65Plus_Vax_Pct": 34.8,
+      "Additional_Doses_Moderna": 18584,
+      "Additional_Doses_Pfizer": 40854,
+      "Additional_Doses_Janssen": 250,
+      "Additional_Doses_Unk_Manuf": 7
     },
     {
       "Date": "2021-11-04",
@@ -278,7 +282,11 @@
       "Additional_Doses_18Plus": 247426,
       "Additional_Doses_18Plus_Vax_Pct": 11.8,
       "Additional_Doses_65Plus": 160047,
-      "Additional_Doses_65Plus_Vax_Pct": 24.4
+      "Additional_Doses_65Plus_Vax_Pct": 24.4,
+      "Additional_Doses_Moderna": 97179,
+      "Additional_Doses_Pfizer": 148347,
+      "Additional_Doses_Janssen": 2262,
+      "Additional_Doses_Unk_Manuf": 10
     },
     {
       "Date": "2021-11-04",
@@ -356,7 +364,11 @@
       "Additional_Doses_18Plus": 175722,
       "Additional_Doses_18Plus_Vax_Pct": 12.9,
       "Additional_Doses_65Plus": 107171,
-      "Additional_Doses_65Plus_Vax_Pct": 26.9
+      "Additional_Doses_65Plus_Vax_Pct": 26.9,
+      "Additional_Doses_Moderna": 59127,
+      "Additional_Doses_Pfizer": 115546,
+      "Additional_Doses_Janssen": 899,
+      "Additional_Doses_Unk_Manuf": 379
     },
     {
       "Date": "2021-11-04",
@@ -434,7 +446,11 @@
       "Additional_Doses_18Plus": 313,
       "Additional_Doses_18Plus_Vax_Pct": 1.2,
       "Additional_Doses_65Plus": 85,
-      "Additional_Doses_65Plus_Vax_Pct": 3.2
+      "Additional_Doses_65Plus_Vax_Pct": 3.2,
+      "Additional_Doses_Moderna": 77,
+      "Additional_Doses_Pfizer": 240,
+      "Additional_Doses_Janssen": 0,
+      "Additional_Doses_Unk_Manuf": 0
     },
     {
       "Date": "2021-11-04",
@@ -512,7 +528,11 @@
       "Additional_Doses_18Plus": 412299,
       "Additional_Doses_18Plus_Vax_Pct": 11.4,
       "Additional_Doses_65Plus": 264108,
-      "Additional_Doses_65Plus_Vax_Pct": 25.1
+      "Additional_Doses_65Plus_Vax_Pct": 25.1,
+      "Additional_Doses_Moderna": 107126,
+      "Additional_Doses_Pfizer": 303864,
+      "Additional_Doses_Janssen": 2037,
+      "Additional_Doses_Unk_Manuf": 174
     },
     {
       "Date": "2021-11-04",
@@ -590,7 +610,11 @@
       "Additional_Doses_18Plus": 4825,
       "Additional_Doses_18Plus_Vax_Pct": 4,
       "Additional_Doses_65Plus": 281,
-      "Additional_Doses_65Plus_Vax_Pct": 8
+      "Additional_Doses_65Plus_Vax_Pct": 8,
+      "Additional_Doses_Moderna": 2045,
+      "Additional_Doses_Pfizer": 2724,
+      "Additional_Doses_Janssen": 36,
+      "Additional_Doses_Unk_Manuf": 20
     },
     {
       "Date": "2021-11-04",
@@ -668,7 +692,11 @@
       "Additional_Doses_18Plus": 2536873,
       "Additional_Doses_18Plus_Vax_Pct": 11.3,
       "Additional_Doses_65Plus": 1400936,
-      "Additional_Doses_65Plus_Vax_Pct": 28.8
+      "Additional_Doses_65Plus_Vax_Pct": 28.8,
+      "Additional_Doses_Moderna": 796831,
+      "Additional_Doses_Pfizer": 1720065,
+      "Additional_Doses_Janssen": 22613,
+      "Additional_Doses_Unk_Manuf": 235
     },
     {
       "Date": "2021-11-04",
@@ -746,7 +774,11 @@
       "Additional_Doses_18Plus": 517077,
       "Additional_Doses_18Plus_Vax_Pct": 15.6,
       "Additional_Doses_65Plus": 289731,
-      "Additional_Doses_65Plus_Vax_Pct": 39.7
+      "Additional_Doses_65Plus_Vax_Pct": 39.7,
+      "Additional_Doses_Moderna": 172539,
+      "Additional_Doses_Pfizer": 340818,
+      "Additional_Doses_Janssen": 4357,
+      "Additional_Doses_Unk_Manuf": 89
     },
     {
       "Date": "2021-11-04",
@@ -824,7 +856,11 @@
       "Additional_Doses_18Plus": 305053,
       "Additional_Doses_18Plus_Vax_Pct": 13,
       "Additional_Doses_65Plus": 207482,
-      "Additional_Doses_65Plus_Vax_Pct": 35.2
+      "Additional_Doses_65Plus_Vax_Pct": 35.2,
+      "Additional_Doses_Moderna": 90121,
+      "Additional_Doses_Pfizer": 213185,
+      "Additional_Doses_Janssen": 1739,
+      "Additional_Doses_Unk_Manuf": 224
     },
     {
       "Date": "2021-11-04",
@@ -902,7 +938,11 @@
       "Additional_Doses_18Plus": 39176,
       "Additional_Doses_18Plus_Vax_Pct": 9.2,
       "Additional_Doses_65Plus": 18609,
-      "Additional_Doses_65Plus_Vax_Pct": 24.7
+      "Additional_Doses_65Plus_Vax_Pct": 24.7,
+      "Additional_Doses_Moderna": 12307,
+      "Additional_Doses_Pfizer": 26758,
+      "Additional_Doses_Janssen": 159,
+      "Additional_Doses_Unk_Manuf": 5
     },
     {
       "Date": "2021-11-04",
@@ -980,7 +1020,11 @@
       "Additional_Doses_18Plus": 588,
       "Additional_Doses_18Plus_Vax_Pct": 0,
       "Additional_Doses_65Plus": 10,
-      "Additional_Doses_65Plus_Vax_Pct": 0
+      "Additional_Doses_65Plus_Vax_Pct": 0,
+      "Additional_Doses_Moderna": 153,
+      "Additional_Doses_Pfizer": 427,
+      "Additional_Doses_Janssen": 10,
+      "Additional_Doses_Unk_Manuf": 0
     },
     {
       "Date": "2021-11-04",
@@ -1058,7 +1102,11 @@
       "Additional_Doses_18Plus": 72358,
       "Additional_Doses_18Plus_Vax_Pct": 13.2,
       "Additional_Doses_65Plus": 50676,
-      "Additional_Doses_65Plus_Vax_Pct": 29.8
+      "Additional_Doses_65Plus_Vax_Pct": 29.8,
+      "Additional_Doses_Moderna": 22390,
+      "Additional_Doses_Pfizer": 49698,
+      "Additional_Doses_Janssen": 327,
+      "Additional_Doses_Unk_Manuf": 7
     },
     {
       "Date": "2021-11-04",
@@ -1136,7 +1184,11 @@
       "Additional_Doses_18Plus": 1445298,
       "Additional_Doses_18Plus_Vax_Pct": 11.9,
       "Additional_Doses_65Plus": 1019011,
-      "Additional_Doses_65Plus_Vax_Pct": 26.2
+      "Additional_Doses_65Plus_Vax_Pct": 26.2,
+      "Additional_Doses_Moderna": 536463,
+      "Additional_Doses_Pfizer": 898286,
+      "Additional_Doses_Janssen": 9994,
+      "Additional_Doses_Unk_Manuf": 2211
     },
     {
       "Date": "2021-11-04",
@@ -1214,7 +1266,11 @@
       "Additional_Doses_18Plus": 266,
       "Additional_Doses_18Plus_Vax_Pct": 0.7,
       "Additional_Doses_65Plus": 24,
-      "Additional_Doses_65Plus_Vax_Pct": 0.7
+      "Additional_Doses_65Plus_Vax_Pct": 0.7,
+      "Additional_Doses_Moderna": 251,
+      "Additional_Doses_Pfizer": 6,
+      "Additional_Doses_Janssen": 11,
+      "Additional_Doses_Unk_Manuf": 0
     },
     {
       "Date": "2021-11-04",
@@ -1292,7 +1348,11 @@
       "Additional_Doses_18Plus": 523301,
       "Additional_Doses_18Plus_Vax_Pct": 10.8,
       "Additional_Doses_65Plus": 312971,
-      "Additional_Doses_65Plus_Vax_Pct": 26
+      "Additional_Doses_65Plus_Vax_Pct": 26,
+      "Additional_Doses_Moderna": 197906,
+      "Additional_Doses_Pfizer": 322973,
+      "Additional_Doses_Janssen": 2894,
+      "Additional_Doses_Unk_Manuf": 271
     },
     {
       "Date": "2021-11-04",
@@ -1370,7 +1430,11 @@
       "Additional_Doses_18Plus": 10511,
       "Additional_Doses_18Plus_Vax_Pct": 9.6,
       "Additional_Doses_65Plus": 4363,
-      "Additional_Doses_65Plus_Vax_Pct": 28
+      "Additional_Doses_65Plus_Vax_Pct": 28,
+      "Additional_Doses_Moderna": 1617,
+      "Additional_Doses_Pfizer": 8878,
+      "Additional_Doses_Janssen": 23,
+      "Additional_Doses_Unk_Manuf": 0
     },
     {
       "Date": "2021-11-04",
@@ -1448,7 +1512,11 @@
       "Additional_Doses_18Plus": 82397,
       "Additional_Doses_18Plus_Vax_Pct": 10.3,
       "Additional_Doses_65Plus": 48180,
-      "Additional_Doses_65Plus_Vax_Pct": 20.5
+      "Additional_Doses_65Plus_Vax_Pct": 20.5,
+      "Additional_Doses_Moderna": 13425,
+      "Additional_Doses_Pfizer": 68796,
+      "Additional_Doses_Janssen": 301,
+      "Additional_Doses_Unk_Manuf": 1
     },
     {
       "Date": "2021-11-04",
@@ -1526,7 +1594,11 @@
       "Additional_Doses_18Plus": 269013,
       "Additional_Doses_18Plus_Vax_Pct": 16.3,
       "Additional_Doses_65Plus": 175245,
-      "Additional_Doses_65Plus_Vax_Pct": 35.2
+      "Additional_Doses_65Plus_Vax_Pct": 35.2,
+      "Additional_Doses_Moderna": 93554,
+      "Additional_Doses_Pfizer": 174232,
+      "Additional_Doses_Janssen": 1455,
+      "Additional_Doses_Unk_Manuf": 2
     },
     {
       "Date": "2021-11-04",
@@ -1604,7 +1676,11 @@
       "Additional_Doses_18Plus": 122749,
       "Additional_Doses_18Plus_Vax_Pct": 15.6,
       "Additional_Doses_65Plus": 78419,
-      "Additional_Doses_65Plus_Vax_Pct": 32.5
+      "Additional_Doses_65Plus_Vax_Pct": 32.5,
+      "Additional_Doses_Moderna": 36542,
+      "Additional_Doses_Pfizer": 85392,
+      "Additional_Doses_Janssen": 784,
+      "Additional_Doses_Unk_Manuf": 33
     },
     {
       "Date": "2021-11-04",
@@ -1682,7 +1758,11 @@
       "Additional_Doses_18Plus": 65034,
       "Additional_Doses_18Plus_Vax_Pct": 9.2,
       "Additional_Doses_65Plus": 25713,
-      "Additional_Doses_65Plus_Vax_Pct": 19.3
+      "Additional_Doses_65Plus_Vax_Pct": 19.3,
+      "Additional_Doses_Moderna": 17133,
+      "Additional_Doses_Pfizer": 47812,
+      "Additional_Doses_Janssen": 123,
+      "Additional_Doses_Unk_Manuf": 111
     },
     {
       "Date": "2021-11-04",
@@ -1760,7 +1840,11 @@
       "Additional_Doses_18Plus": 933870,
       "Additional_Doses_18Plus_Vax_Pct": 13.1,
       "Additional_Doses_65Plus": 540381,
-      "Additional_Doses_65Plus_Vax_Pct": 30.7
+      "Additional_Doses_65Plus_Vax_Pct": 30.7,
+      "Additional_Doses_Moderna": 277074,
+      "Additional_Doses_Pfizer": 652380,
+      "Additional_Doses_Janssen": 5166,
+      "Additional_Doses_Unk_Manuf": 351
     },
     {
       "Date": "2021-11-04",
@@ -1838,7 +1922,11 @@
       "Additional_Doses_18Plus": 421882,
       "Additional_Doses_18Plus_Vax_Pct": 13.3,
       "Additional_Doses_65Plus": 281524,
-      "Additional_Doses_65Plus_Vax_Pct": 30.6
+      "Additional_Doses_65Plus_Vax_Pct": 30.6,
+      "Additional_Doses_Moderna": 112789,
+      "Additional_Doses_Pfizer": 306122,
+      "Additional_Doses_Janssen": 3243,
+      "Additional_Doses_Unk_Manuf": 256
     },
     {
       "Date": "2021-11-04",
@@ -1916,7 +2004,11 @@
       "Additional_Doses_18Plus": 177637,
       "Additional_Doses_18Plus_Vax_Pct": 12.2,
       "Additional_Doses_65Plus": 112237,
-      "Additional_Doses_65Plus_Vax_Pct": 27.3
+      "Additional_Doses_65Plus_Vax_Pct": 27.3,
+      "Additional_Doses_Moderna": 53237,
+      "Additional_Doses_Pfizer": 123578,
+      "Additional_Doses_Janssen": 1044,
+      "Additional_Doses_Unk_Manuf": 57
     },
     {
       "Date": "2021-11-04",
@@ -1994,7 +2086,11 @@
       "Additional_Doses_18Plus": 301456,
       "Additional_Doses_18Plus_Vax_Pct": 14,
       "Additional_Doses_65Plus": 187869,
-      "Additional_Doses_65Plus_Vax_Pct": 30.4
+      "Additional_Doses_65Plus_Vax_Pct": 30.4,
+      "Additional_Doses_Moderna": 94168,
+      "Additional_Doses_Pfizer": 204864,
+      "Additional_Doses_Janssen": 2688,
+      "Additional_Doses_Unk_Manuf": 64
     },
     {
       "Date": "2021-11-04",
@@ -2072,7 +2168,11 @@
       "Additional_Doses_18Plus": 260546,
       "Additional_Doses_18Plus_Vax_Pct": 12.4,
       "Additional_Doses_65Plus": 164916,
-      "Additional_Doses_65Plus_Vax_Pct": 26.6
+      "Additional_Doses_65Plus_Vax_Pct": 26.6,
+      "Additional_Doses_Moderna": 69545,
+      "Additional_Doses_Pfizer": 190086,
+      "Additional_Doses_Janssen": 1259,
+      "Additional_Doses_Unk_Manuf": 12
     },
     {
       "Date": "2021-11-04",
@@ -2150,7 +2250,11 @@
       "Additional_Doses_18Plus": 531838,
       "Additional_Doses_18Plus_Vax_Pct": 11.9,
       "Additional_Doses_65Plus": 313054,
-      "Additional_Doses_65Plus_Vax_Pct": 29.6
+      "Additional_Doses_65Plus_Vax_Pct": 29.6,
+      "Additional_Doses_Moderna": 160250,
+      "Additional_Doses_Pfizer": 369751,
+      "Additional_Doses_Janssen": 2228,
+      "Additional_Doses_Unk_Manuf": 144
     },
     {
       "Date": "2021-11-04",
@@ -2228,7 +2332,11 @@
       "Additional_Doses_18Plus": 502470,
       "Additional_Doses_18Plus_Vax_Pct": 13.6,
       "Additional_Doses_65Plus": 290088,
-      "Additional_Doses_65Plus_Vax_Pct": 33.3
+      "Additional_Doses_65Plus_Vax_Pct": 33.3,
+      "Additional_Doses_Moderna": 172051,
+      "Additional_Doses_Pfizer": 324988,
+      "Additional_Doses_Janssen": 5994,
+      "Additional_Doses_Unk_Manuf": 92
     },
     {
       "Date": "2021-11-04",
@@ -2306,7 +2414,11 @@
       "Additional_Doses_18Plus": 130244,
       "Additional_Doses_18Plus_Vax_Pct": 14.5,
       "Additional_Doses_65Plus": 88799,
-      "Additional_Doses_65Plus_Vax_Pct": 32.7
+      "Additional_Doses_65Plus_Vax_Pct": 32.7,
+      "Additional_Doses_Moderna": 40008,
+      "Additional_Doses_Pfizer": 89124,
+      "Additional_Doses_Janssen": 1057,
+      "Additional_Doses_Unk_Manuf": 140
     },
     {
       "Date": "2021-11-04",
@@ -2384,7 +2496,11 @@
       "Additional_Doses_18Plus": 105,
       "Additional_Doses_18Plus_Vax_Pct": 0.5,
       "Additional_Doses_65Plus": 10,
-      "Additional_Doses_65Plus_Vax_Pct": 0.9
+      "Additional_Doses_65Plus_Vax_Pct": 0.9,
+      "Additional_Doses_Moderna": 102,
+      "Additional_Doses_Pfizer": 3,
+      "Additional_Doses_Janssen": 0,
+      "Additional_Doses_Unk_Manuf": 0
     },
     {
       "Date": "2021-11-04",
@@ -2462,7 +2578,11 @@
       "Additional_Doses_18Plus": 789279,
       "Additional_Doses_18Plus_Vax_Pct": 15.6,
       "Additional_Doses_65Plus": 484939,
-      "Additional_Doses_65Plus_Vax_Pct": 32.4
+      "Additional_Doses_65Plus_Vax_Pct": 32.4,
+      "Additional_Doses_Moderna": 232210,
+      "Additional_Doses_Pfizer": 552559,
+      "Additional_Doses_Janssen": 5237,
+      "Additional_Doses_Unk_Manuf": 17
     },
     {
       "Date": "2021-11-04",
@@ -2540,7 +2660,11 @@
       "Additional_Doses_18Plus": 541717,
       "Additional_Doses_18Plus_Vax_Pct": 16.9,
       "Additional_Doses_65Plus": 336122,
-      "Additional_Doses_65Plus_Vax_Pct": 39.1
+      "Additional_Doses_65Plus_Vax_Pct": 39.1,
+      "Additional_Doses_Moderna": 130660,
+      "Additional_Doses_Pfizer": 407320,
+      "Additional_Doses_Janssen": 3797,
+      "Additional_Doses_Unk_Manuf": 442
     },
     {
       "Date": "2021-11-04",
@@ -2618,7 +2742,11 @@
       "Additional_Doses_18Plus": 378247,
       "Additional_Doses_18Plus_Vax_Pct": 13.1,
       "Additional_Doses_65Plus": 241231,
-      "Additional_Doses_65Plus_Vax_Pct": 28.2
+      "Additional_Doses_65Plus_Vax_Pct": 28.2,
+      "Additional_Doses_Moderna": 92734,
+      "Additional_Doses_Pfizer": 284016,
+      "Additional_Doses_Janssen": 1887,
+      "Additional_Doses_Unk_Manuf": 31
     },
     {
       "Date": "2021-11-04",
@@ -2696,7 +2824,11 @@
       "Additional_Doses_18Plus": 3288,
       "Additional_Doses_18Plus_Vax_Pct": 10.7,
       "Additional_Doses_65Plus": 913,
-      "Additional_Doses_65Plus_Vax_Pct": 31.4
+      "Additional_Doses_65Plus_Vax_Pct": 31.4,
+      "Additional_Doses_Moderna": 270,
+      "Additional_Doses_Pfizer": 3017,
+      "Additional_Doses_Janssen": 3,
+      "Additional_Doses_Unk_Manuf": 0
     },
     {
       "Date": "2021-11-04",
@@ -2774,7 +2906,11 @@
       "Additional_Doses_18Plus": 148061,
       "Additional_Doses_18Plus_Vax_Pct": 11.5,
       "Additional_Doses_65Plus": 94833,
-      "Additional_Doses_65Plus_Vax_Pct": 24.3
+      "Additional_Doses_65Plus_Vax_Pct": 24.3,
+      "Additional_Doses_Moderna": 58009,
+      "Additional_Doses_Pfizer": 89463,
+      "Additional_Doses_Janssen": 650,
+      "Additional_Doses_Unk_Manuf": 192
     },
     {
       "Date": "2021-11-04",
@@ -2852,7 +2988,11 @@
       "Additional_Doses_18Plus": 88321,
       "Additional_Doses_18Plus_Vax_Pct": 17.2,
       "Additional_Doses_65Plus": 55760,
-      "Additional_Doses_65Plus_Vax_Pct": 32.8
+      "Additional_Doses_65Plus_Vax_Pct": 32.8,
+      "Additional_Doses_Moderna": 27126,
+      "Additional_Doses_Pfizer": 60385,
+      "Additional_Doses_Janssen": 767,
+      "Additional_Doses_Unk_Manuf": 161
     },
     {
       "Date": "2021-11-04",
@@ -2930,7 +3070,11 @@
       "Additional_Doses_18Plus": 421897,
       "Additional_Doses_18Plus_Vax_Pct": 8.1,
       "Additional_Doses_65Plus": 240939,
-      "Additional_Doses_65Plus_Vax_Pct": 16.8
+      "Additional_Doses_65Plus_Vax_Pct": 16.8,
+      "Additional_Doses_Moderna": 117772,
+      "Additional_Doses_Pfizer": 301028,
+      "Additional_Doses_Janssen": 3435,
+      "Additional_Doses_Unk_Manuf": 7
     },
     {
       "Date": "2021-11-04",
@@ -3008,7 +3152,11 @@
       "Additional_Doses_18Plus": 51506,
       "Additional_Doses_18Plus_Vax_Pct": 15,
       "Additional_Doses_65Plus": 30698,
-      "Additional_Doses_65Plus_Vax_Pct": 31.6
+      "Additional_Doses_65Plus_Vax_Pct": 31.6,
+      "Additional_Doses_Moderna": 13431,
+      "Additional_Doses_Pfizer": 37840,
+      "Additional_Doses_Janssen": 273,
+      "Additional_Doses_Unk_Manuf": 2
     },
     {
       "Date": "2021-11-04",
@@ -3086,7 +3234,11 @@
       "Additional_Doses_18Plus": 144644,
       "Additional_Doses_18Plus_Vax_Pct": 14.2,
       "Additional_Doses_65Plus": 89347,
-      "Additional_Doses_65Plus_Vax_Pct": 32.1
+      "Additional_Doses_65Plus_Vax_Pct": 32.1,
+      "Additional_Doses_Moderna": 32573,
+      "Additional_Doses_Pfizer": 111439,
+      "Additional_Doses_Janssen": 736,
+      "Additional_Doses_Unk_Manuf": 76
     },
     {
       "Date": "2021-11-04",
@@ -3164,7 +3316,11 @@
       "Additional_Doses_18Plus": 22677,
       "Additional_Doses_18Plus_Vax_Pct": 2.8,
       "Additional_Doses_65Plus": 13795,
-      "Additional_Doses_65Plus_Vax_Pct": 6.1
+      "Additional_Doses_65Plus_Vax_Pct": 6.1,
+      "Additional_Doses_Moderna": 5505,
+      "Additional_Doses_Pfizer": 17063,
+      "Additional_Doses_Janssen": 132,
+      "Additional_Doses_Unk_Manuf": 7
     },
     {
       "Date": "2021-11-04",
@@ -3242,7 +3398,11 @@
       "Additional_Doses_18Plus": 630143,
       "Additional_Doses_18Plus_Vax_Pct": 11.5,
       "Additional_Doses_65Plus": 358582,
-      "Additional_Doses_65Plus_Vax_Pct": 27.6
+      "Additional_Doses_65Plus_Vax_Pct": 27.6,
+      "Additional_Doses_Moderna": 212829,
+      "Additional_Doses_Pfizer": 411472,
+      "Additional_Doses_Janssen": 6698,
+      "Additional_Doses_Unk_Manuf": 4
     },
     {
       "Date": "2021-11-04",
@@ -3320,7 +3480,11 @@
       "Additional_Doses_18Plus": 193836,
       "Additional_Doses_18Plus_Vax_Pct": 16,
       "Additional_Doses_65Plus": 103897,
-      "Additional_Doses_65Plus_Vax_Pct": 31.1
+      "Additional_Doses_65Plus_Vax_Pct": 31.1,
+      "Additional_Doses_Moderna": 46644,
+      "Additional_Doses_Pfizer": 146653,
+      "Additional_Doses_Janssen": 752,
+      "Additional_Doses_Unk_Manuf": 27
     },
     {
       "Date": "2021-11-04",
@@ -3398,7 +3562,11 @@
       "Additional_Doses_18Plus": 159637,
       "Additional_Doses_18Plus_Vax_Pct": 10.4,
       "Additional_Doses_65Plus": 101868,
-      "Additional_Doses_65Plus_Vax_Pct": 25.9
+      "Additional_Doses_65Plus_Vax_Pct": 25.9,
+      "Additional_Doses_Moderna": 45714,
+      "Additional_Doses_Pfizer": 113017,
+      "Additional_Doses_Janssen": 1020,
+      "Additional_Doses_Unk_Manuf": 0
     },
     {
       "Date": "2021-11-04",
@@ -3476,7 +3644,11 @@
       "Additional_Doses_18Plus": 866226,
       "Additional_Doses_18Plus_Vax_Pct": 7.1,
       "Additional_Doses_65Plus": 516688,
-      "Additional_Doses_65Plus_Vax_Pct": 18.3
+      "Additional_Doses_65Plus_Vax_Pct": 18.3,
+      "Additional_Doses_Moderna": 234654,
+      "Additional_Doses_Pfizer": 626570,
+      "Additional_Doses_Janssen": 6035,
+      "Additional_Doses_Unk_Manuf": 23
     },
     {
       "Date": "2021-11-04",
@@ -3554,7 +3726,11 @@
       "Additional_Doses_18Plus": 798699,
       "Additional_Doses_18Plus_Vax_Pct": 13.9,
       "Additional_Doses_65Plus": 526564,
-      "Additional_Doses_65Plus_Vax_Pct": 30.4
+      "Additional_Doses_65Plus_Vax_Pct": 30.4,
+      "Additional_Doses_Moderna": 234497,
+      "Additional_Doses_Pfizer": 557262,
+      "Additional_Doses_Janssen": 7796,
+      "Additional_Doses_Unk_Manuf": 182
     },
     {
       "Date": "2021-11-04",
@@ -3632,7 +3808,11 @@
       "Additional_Doses_18Plus": 240510,
       "Additional_Doses_18Plus_Vax_Pct": 12.9,
       "Additional_Doses_65Plus": 151756,
-      "Additional_Doses_65Plus_Vax_Pct": 29
+      "Additional_Doses_65Plus_Vax_Pct": 29,
+      "Additional_Doses_Moderna": 84241,
+      "Additional_Doses_Pfizer": 155166,
+      "Additional_Doses_Janssen": 1334,
+      "Additional_Doses_Unk_Manuf": 12
     },
     {
       "Date": "2021-11-04",
@@ -3710,7 +3890,11 @@
       "Additional_Doses_18Plus": 347457,
       "Additional_Doses_18Plus_Vax_Pct": 14,
       "Additional_Doses_65Plus": 213886,
-      "Additional_Doses_65Plus_Vax_Pct": 31.8
+      "Additional_Doses_65Plus_Vax_Pct": 31.8,
+      "Additional_Doses_Moderna": 94219,
+      "Additional_Doses_Pfizer": 250297,
+      "Additional_Doses_Janssen": 3114,
+      "Additional_Doses_Unk_Manuf": 155
     },
     {
       "Date": "2021-11-04",
@@ -3788,7 +3972,11 @@
       "Additional_Doses_18Plus": 570235,
       "Additional_Doses_18Plus_Vax_Pct": 7.8,
       "Additional_Doses_65Plus": 346643,
-      "Additional_Doses_65Plus_Vax_Pct": 15.9
+      "Additional_Doses_65Plus_Vax_Pct": 15.9,
+      "Additional_Doses_Moderna": 178827,
+      "Additional_Doses_Pfizer": 388348,
+      "Additional_Doses_Janssen": 3825,
+      "Additional_Doses_Unk_Manuf": 18
     },
     {
       "Date": "2021-11-04",
@@ -3866,7 +4054,11 @@
       "Additional_Doses_18Plus": 196801,
       "Additional_Doses_18Plus_Vax_Pct": 9.1,
       "Additional_Doses_65Plus": 92495,
-      "Additional_Doses_65Plus_Vax_Pct": 16.2
+      "Additional_Doses_65Plus_Vax_Pct": 16.2,
+      "Additional_Doses_Moderna": 42976,
+      "Additional_Doses_Pfizer": 153490,
+      "Additional_Doses_Janssen": 711,
+      "Additional_Doses_Unk_Manuf": 4
     },
     {
       "Date": "2021-11-04",
@@ -3944,7 +4136,11 @@
       "Additional_Doses_18Plus": 94302,
       "Additional_Doses_18Plus_Vax_Pct": 13.4,
       "Additional_Doses_65Plus": 60822,
-      "Additional_Doses_65Plus_Vax_Pct": 33.9
+      "Additional_Doses_65Plus_Vax_Pct": 33.9,
+      "Additional_Doses_Moderna": 29120,
+      "Additional_Doses_Pfizer": 64677,
+      "Additional_Doses_Janssen": 637,
+      "Additional_Doses_Unk_Manuf": 2
     },
     {
       "Date": "2021-11-04",
@@ -4022,7 +4218,11 @@
       "Additional_Doses_18Plus": 804,
       "Additional_Doses_18Plus_Vax_Pct": 5.6,
       "Additional_Doses_65Plus": 489,
-      "Additional_Doses_65Plus_Vax_Pct": 28.5
+      "Additional_Doses_65Plus_Vax_Pct": 28.5,
+      "Additional_Doses_Moderna": 798,
+      "Additional_Doses_Pfizer": 6,
+      "Additional_Doses_Janssen": 0,
+      "Additional_Doses_Unk_Manuf": 0
     },
     {
       "Date": "2021-11-04",
@@ -4100,7 +4300,11 @@
       "Additional_Doses_18Plus": 333503,
       "Additional_Doses_18Plus_Vax_Pct": 13.7,
       "Additional_Doses_65Plus": 230538,
-      "Additional_Doses_65Plus_Vax_Pct": 29.6
+      "Additional_Doses_65Plus_Vax_Pct": 29.6,
+      "Additional_Doses_Moderna": 86342,
+      "Additional_Doses_Pfizer": 244188,
+      "Additional_Doses_Janssen": 3122,
+      "Additional_Doses_Unk_Manuf": 180
     },
     {
       "Date": "2021-11-04",
@@ -4178,7 +4382,11 @@
       "Additional_Doses_18Plus": 62406,
       "Additional_Doses_18Plus_Vax_Pct": 14.2,
       "Additional_Doses_65Plus": 39776,
-      "Additional_Doses_65Plus_Vax_Pct": 29.6
+      "Additional_Doses_65Plus_Vax_Pct": 29.6,
+      "Additional_Doses_Moderna": 18540,
+      "Additional_Doses_Pfizer": 43548,
+      "Additional_Doses_Janssen": 353,
+      "Additional_Doses_Unk_Manuf": 1
     },
     {
       "Date": "2021-11-04",
@@ -4256,7 +4464,11 @@
       "Additional_Doses_18Plus": 463617,
       "Additional_Doses_18Plus_Vax_Pct": 14.9,
       "Additional_Doses_65Plus": 286422,
-      "Additional_Doses_65Plus_Vax_Pct": 31.2
+      "Additional_Doses_65Plus_Vax_Pct": 31.2,
+      "Additional_Doses_Moderna": 149505,
+      "Additional_Doses_Pfizer": 310522,
+      "Additional_Doses_Janssen": 3222,
+      "Additional_Doses_Unk_Manuf": 1183
     },
     {
       "Date": "2021-11-04",
@@ -4334,7 +4546,11 @@
       "Additional_Doses_18Plus": 1674464,
       "Additional_Doses_18Plus_Vax_Pct": 11.7,
       "Additional_Doses_65Plus": 871616,
-      "Additional_Doses_65Plus_Vax_Pct": 28.5
+      "Additional_Doses_65Plus_Vax_Pct": 28.5,
+      "Additional_Doses_Moderna": 631912,
+      "Additional_Doses_Pfizer": 1034853,
+      "Additional_Doses_Janssen": 11371,
+      "Additional_Doses_Unk_Manuf": 61
     },
     {
       "Date": "2021-11-04",
@@ -4412,7 +4628,11 @@
       "Additional_Doses_18Plus": 150994,
       "Additional_Doses_18Plus_Vax_Pct": 9.6,
       "Additional_Doses_65Plus": 93907,
-      "Additional_Doses_65Plus_Vax_Pct": 29.6
+      "Additional_Doses_65Plus_Vax_Pct": 29.6,
+      "Additional_Doses_Moderna": 23535,
+      "Additional_Doses_Pfizer": 127184,
+      "Additional_Doses_Janssen": 559,
+      "Additional_Doses_Unk_Manuf": 127
     },
     {
       "Date": "2021-11-04",
@@ -4490,7 +4710,11 @@
       "Additional_Doses_18Plus": 668006,
       "Additional_Doses_18Plus_Vax_Pct": 13.4,
       "Additional_Doses_65Plus": 385601,
-      "Additional_Doses_65Plus_Vax_Pct": 32.3
+      "Additional_Doses_65Plus_Vax_Pct": 32.3,
+      "Additional_Doses_Moderna": 219360,
+      "Additional_Doses_Pfizer": 442758,
+      "Additional_Doses_Janssen": 6244,
+      "Additional_Doses_Unk_Manuf": 463
     },
     {
       "Date": "2021-11-04",
@@ -4568,7 +4792,11 @@
       "Additional_Doses_18Plus": 329078,
       "Additional_Doses_18Plus_Vax_Pct": 11.5,
       "Additional_Doses_65Plus": 261071,
-      "Additional_Doses_65Plus_Vax_Pct": 17.7
+      "Additional_Doses_65Plus_Vax_Pct": 17.7,
+      "Additional_Doses_Moderna": 91406,
+      "Additional_Doses_Pfizer": 236642,
+      "Additional_Doses_Janssen": 1013,
+      "Additional_Doses_Unk_Manuf": 22
     },
     {
       "Date": "2021-11-04",
@@ -4646,7 +4874,11 @@
       "Additional_Doses_18Plus": 3294,
       "Additional_Doses_18Plus_Vax_Pct": 7,
       "Additional_Doses_65Plus": 1946,
-      "Additional_Doses_65Plus_Vax_Pct": 14.1
+      "Additional_Doses_65Plus_Vax_Pct": 14.1,
+      "Additional_Doses_Moderna": 655,
+      "Additional_Doses_Pfizer": 2631,
+      "Additional_Doses_Janssen": 9,
+      "Additional_Doses_Unk_Manuf": 0
     },
     {
       "Date": "2021-11-04",
@@ -4724,7 +4956,11 @@
       "Additional_Doses_18Plus": 78227,
       "Additional_Doses_18Plus_Vax_Pct": 18.8,
       "Additional_Doses_65Plus": 50038,
-      "Additional_Doses_65Plus_Vax_Pct": 41
+      "Additional_Doses_65Plus_Vax_Pct": 41,
+      "Additional_Doses_Moderna": 21098,
+      "Additional_Doses_Pfizer": 56410,
+      "Additional_Doses_Janssen": 781,
+      "Additional_Doses_Unk_Manuf": 12
     },
     {
       "Date": "2021-11-04",
@@ -4802,7 +5038,11 @@
       "Additional_Doses_18Plus": 614391,
       "Additional_Doses_18Plus_Vax_Pct": 13.6,
       "Additional_Doses_65Plus": 370787,
-      "Additional_Doses_65Plus_Vax_Pct": 34.1
+      "Additional_Doses_65Plus_Vax_Pct": 34.1,
+      "Additional_Doses_Moderna": 180415,
+      "Additional_Doses_Pfizer": 430404,
+      "Additional_Doses_Janssen": 4388,
+      "Additional_Doses_Unk_Manuf": 139
     },
     {
       "Date": "2021-11-04",
@@ -4880,7 +5120,11 @@
       "Additional_Doses_18Plus": 513029,
       "Additional_Doses_18Plus_Vax_Pct": 16,
       "Additional_Doses_65Plus": 313075,
-      "Additional_Doses_65Plus_Vax_Pct": 33.5
+      "Additional_Doses_65Plus_Vax_Pct": 33.5,
+      "Additional_Doses_Moderna": 120482,
+      "Additional_Doses_Pfizer": 390522,
+      "Additional_Doses_Janssen": 2462,
+      "Additional_Doses_Unk_Manuf": 38
     },
     {
       "Date": "2021-11-04",
@@ -4958,7 +5202,11 @@
       "Additional_Doses_18Plus": 46381,
       "Additional_Doses_18Plus_Vax_Pct": 6.6,
       "Additional_Doses_65Plus": 26664,
-      "Additional_Doses_65Plus_Vax_Pct": 10.1
+      "Additional_Doses_65Plus_Vax_Pct": 10.1,
+      "Additional_Doses_Moderna": 10494,
+      "Additional_Doses_Pfizer": 35826,
+      "Additional_Doses_Janssen": 96,
+      "Additional_Doses_Unk_Manuf": 11
     },
     {
       "Date": "2021-11-04",
@@ -5036,7 +5284,11 @@
       "Additional_Doses_18Plus": 38165,
       "Additional_Doses_18Plus_Vax_Pct": 15.7,
       "Additional_Doses_65Plus": 25094,
-      "Additional_Doses_65Plus_Vax_Pct": 31.8
+      "Additional_Doses_65Plus_Vax_Pct": 31.8,
+      "Additional_Doses_Moderna": 11585,
+      "Additional_Doses_Pfizer": 26358,
+      "Additional_Doses_Janssen": 258,
+      "Additional_Doses_Unk_Manuf": 25
     }
   ]
 }
