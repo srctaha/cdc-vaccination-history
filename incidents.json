@@ -1,5 +1,5 @@
 {
-  "runid": 2259,
+  "runid": 2263,
   "vaccination_data": [
     {
       "Date": "2021-11-18",
@@ -122,7 +122,18 @@
       "Unk_Moderna_Booster_Pct": 31.3,
       "Unk_Pfizer_Booster_Pct": 66.5,
       "Unk_Janssen_Booster_Pct": 0.7,
-      "Unk_Unk_Booster_Pct": 1.4
+      "Unk_Unk_Booster_Pct": 1.4,
+      "Administered_Dose1_Recip_5Plus": 228534723,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 73.2,
+      "Series_Complete_5PlusPop_Pct": 62.7,
+      "Series_Complete_5Plus": 195703807,
+      "Administered_5Plus": 446207420,
+      "Admin_Per_100k_5Plus": 142894,
+      "Distributed_Per_100k_5Plus": 179703,
+      "Series_Complete_Moderna_5Plus": 71476122,
+      "Series_Complete_Pfizer_5Plus": 108410309,
+      "Series_Complete_Janssen_5Plus": 15693667,
+      "Series_Complete_Unk_Manuf_5Plus": 123709
     },
     {
       "Date": "2021-11-18",
@@ -204,7 +215,18 @@
       "Additional_Doses_Moderna": 37289,
       "Additional_Doses_Pfizer": 51443,
       "Additional_Doses_Janssen": 814,
-      "Additional_Doses_Unk_Manuf": 11
+      "Additional_Doses_Unk_Manuf": 11,
+      "Administered_Dose1_Recip_5Plus": 450746,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 66.2,
+      "Series_Complete_5PlusPop_Pct": 57.8,
+      "Series_Complete_5Plus": 393226,
+      "Administered_5Plus": 930840,
+      "Admin_Per_100k_5Plus": 136795,
+      "Distributed_Per_100k_5Plus": 184279,
+      "Series_Complete_Moderna_5Plus": 147567,
+      "Series_Complete_Pfizer_5Plus": 210079,
+      "Series_Complete_Janssen_5Plus": 35498,
+      "Series_Complete_Unk_Manuf_5Plus": 82
     },
     {
       "Date": "2021-11-18",
@@ -286,7 +308,18 @@
       "Additional_Doses_Moderna": 159554,
       "Additional_Doses_Pfizer": 185717,
       "Additional_Doses_Janssen": 4852,
-      "Additional_Doses_Unk_Manuf": 10
+      "Additional_Doses_Unk_Manuf": 10,
+      "Administered_Dose1_Recip_5Plus": 2730752,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 59.3,
+      "Series_Complete_5PlusPop_Pct": 48.6,
+      "Series_Complete_5Plus": 2237771,
+      "Administered_5Plus": 5105268,
+      "Admin_Per_100k_5Plus": 110772,
+      "Distributed_Per_100k_5Plus": 168172,
+      "Series_Complete_Moderna_5Plus": 951318,
+      "Series_Complete_Pfizer_5Plus": 1137243,
+      "Series_Complete_Janssen_5Plus": 148709,
+      "Series_Complete_Unk_Manuf_5Plus": 501
     },
     {
       "Date": "2021-11-18",
@@ -368,7 +401,18 @@
       "Additional_Doses_Moderna": 107799,
       "Additional_Doses_Pfizer": 141410,
       "Additional_Doses_Janssen": 2238,
-      "Additional_Doses_Unk_Manuf": 384
+      "Additional_Doses_Unk_Manuf": 384,
+      "Administered_Dose1_Recip_5Plus": 1791145,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 63.3,
+      "Series_Complete_5PlusPop_Pct": 52.1,
+      "Series_Complete_5Plus": 1472895,
+      "Administered_5Plus": 3415068,
+      "Admin_Per_100k_5Plus": 120702,
+      "Distributed_Per_100k_5Plus": 169146,
+      "Series_Complete_Moderna_5Plus": 621076,
+      "Series_Complete_Pfizer_5Plus": 748435,
+      "Series_Complete_Janssen_5Plus": 102597,
+      "Series_Complete_Unk_Manuf_5Plus": 787
     },
     {
       "Date": "2021-11-18",
@@ -450,7 +494,18 @@
       "Additional_Doses_Moderna": 285,
       "Additional_Doses_Pfizer": 565,
       "Additional_Doses_Janssen": 0,
-      "Additional_Doses_Unk_Manuf": 0
+      "Additional_Doses_Unk_Manuf": 0,
+      "Administered_Dose1_Recip_5Plus": 35397,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 82.1,
+      "Series_Complete_5PlusPop_Pct": 72.5,
+      "Series_Complete_5Plus": 31274,
+      "Administered_5Plus": 66939,
+      "Admin_Per_100k_5Plus": 155275,
+      "Distributed_Per_100k_5Plus": 174252,
+      "Series_Complete_Moderna_5Plus": 8472,
+      "Series_Complete_Pfizer_5Plus": 22247,
+      "Series_Complete_Janssen_5Plus": 555,
+      "Series_Complete_Unk_Manuf_5Plus": 0
     },
     {
       "Date": "2021-11-18",
@@ -532,7 +587,18 @@
       "Additional_Doses_Moderna": 226765,
       "Additional_Doses_Pfizer": 380480,
       "Additional_Doses_Janssen": 5443,
-      "Additional_Doses_Unk_Manuf": 256
+      "Additional_Doses_Unk_Manuf": 256,
+      "Administered_Dose1_Recip_5Plus": 4581758,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 66.9,
+      "Series_Complete_5PlusPop_Pct": 57.5,
+      "Series_Complete_5Plus": 3938905,
+      "Administered_5Plus": 9273741,
+      "Admin_Per_100k_5Plus": 135404,
+      "Distributed_Per_100k_5Plus": 168672,
+      "Series_Complete_Moderna_5Plus": 1516565,
+      "Series_Complete_Pfizer_5Plus": 2117511,
+      "Series_Complete_Janssen_5Plus": 299700,
+      "Series_Complete_Unk_Manuf_5Plus": 5129
     },
     {
       "Date": "2021-11-18",
@@ -614,7 +680,18 @@
       "Additional_Doses_Moderna": 4768,
       "Additional_Doses_Pfizer": 4930,
       "Additional_Doses_Janssen": 205,
-      "Additional_Doses_Unk_Manuf": 20
+      "Additional_Doses_Unk_Manuf": 20,
+      "Administered_Dose1_Recip_5Plus": 129982,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 0,
+      "Series_Complete_5PlusPop_Pct": 0,
+      "Series_Complete_5Plus": 124495,
+      "Administered_5Plus": 252260,
+      "Admin_Per_100k_5Plus": 0,
+      "Distributed_Per_100k_5Plus": 0,
+      "Series_Complete_Moderna_5Plus": 47984,
+      "Series_Complete_Pfizer_5Plus": 63853,
+      "Series_Complete_Janssen_5Plus": 12658,
+      "Series_Complete_Unk_Manuf_5Plus": 0
     },
     {
       "Date": "2021-11-18",
@@ -696,7 +773,18 @@
       "Additional_Doses_Moderna": 1620888,
       "Additional_Doses_Pfizer": 2291294,
       "Additional_Doses_Janssen": 58108,
-      "Additional_Doses_Unk_Manuf": 257
+      "Additional_Doses_Unk_Manuf": 257,
+      "Administered_Dose1_Recip_5Plus": 30495176,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 82.1,
+      "Series_Complete_5PlusPop_Pct": 66.5,
+      "Series_Complete_5Plus": 24691225,
+      "Administered_5Plus": 57547799,
+      "Admin_Per_100k_5Plus": 154996,
+      "Distributed_Per_100k_5Plus": 185200,
+      "Series_Complete_Moderna_5Plus": 8903121,
+      "Series_Complete_Pfizer_5Plus": 13821420,
+      "Series_Complete_Janssen_5Plus": 1962449,
+      "Series_Complete_Unk_Manuf_5Plus": 4235
     },
     {
       "Date": "2021-11-18",
@@ -778,7 +866,18 @@
       "Additional_Doses_Moderna": 336476,
       "Additional_Doses_Pfizer": 448494,
       "Additional_Doses_Janssen": 9734,
-      "Additional_Doses_Unk_Manuf": 90
+      "Additional_Doses_Unk_Manuf": 90,
+      "Administered_Dose1_Recip_5Plus": 4028794,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 74.2,
+      "Series_Complete_5PlusPop_Pct": 66.4,
+      "Series_Complete_5Plus": 3605306,
+      "Administered_5Plus": 8283895,
+      "Admin_Per_100k_5Plus": 152655,
+      "Distributed_Per_100k_5Plus": 180635,
+      "Series_Complete_Moderna_5Plus": 1351255,
+      "Series_Complete_Pfizer_5Plus": 1967011,
+      "Series_Complete_Janssen_5Plus": 285241,
+      "Series_Complete_Unk_Manuf_5Plus": 1799
     },
     {
       "Date": "2021-11-18",
@@ -860,7 +959,18 @@
       "Additional_Doses_Moderna": 190107,
       "Additional_Doses_Pfizer": 274066,
       "Additional_Doses_Janssen": 4664,
-      "Additional_Doses_Unk_Manuf": 14
+      "Additional_Doses_Unk_Manuf": 14,
+      "Administered_Dose1_Recip_5Plus": 2924349,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 86.4,
+      "Series_Complete_5PlusPop_Pct": 75.4,
+      "Series_Complete_5Plus": 2549628,
+      "Administered_5Plus": 5765101,
+      "Admin_Per_100k_5Plus": 170385,
+      "Distributed_Per_100k_5Plus": 197213,
+      "Series_Complete_Moderna_5Plus": 902293,
+      "Series_Complete_Pfizer_5Plus": 1432176,
+      "Series_Complete_Janssen_5Plus": 214740,
+      "Series_Complete_Unk_Manuf_5Plus": 419
     },
     {
       "Date": "2021-11-18",
@@ -942,7 +1052,18 @@
       "Additional_Doses_Moderna": 23202,
       "Additional_Doses_Pfizer": 36298,
       "Additional_Doses_Janssen": 336,
-      "Additional_Doses_Unk_Manuf": 9
+      "Additional_Doses_Unk_Manuf": 9,
+      "Administered_Dose1_Recip_5Plus": 554967,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 84,
+      "Series_Complete_5PlusPop_Pct": 68.1,
+      "Series_Complete_5Plus": 449476,
+      "Administered_5Plus": 1131930,
+      "Admin_Per_100k_5Plus": 171406,
+      "Distributed_Per_100k_5Plus": 215788,
+      "Series_Complete_Moderna_5Plus": 161169,
+      "Series_Complete_Pfizer_5Plus": 251833,
+      "Series_Complete_Janssen_5Plus": 36152,
+      "Series_Complete_Unk_Manuf_5Plus": 322
     },
     {
       "Date": "2021-11-18",
@@ -1024,7 +1145,18 @@
       "Additional_Doses_Moderna": 191,
       "Additional_Doses_Pfizer": 552,
       "Additional_Doses_Janssen": 10,
-      "Additional_Doses_Unk_Manuf": 0
+      "Additional_Doses_Unk_Manuf": 0,
+      "Administered_Dose1_Recip_5Plus": 3553210,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 0,
+      "Series_Complete_5PlusPop_Pct": 0,
+      "Series_Complete_5Plus": 2742585,
+      "Administered_5Plus": 6482827,
+      "Admin_Per_100k_5Plus": 0,
+      "Distributed_Per_100k_5Plus": 0,
+      "Series_Complete_Moderna_5Plus": 874296,
+      "Series_Complete_Pfizer_5Plus": 1612790,
+      "Series_Complete_Janssen_5Plus": 255363,
+      "Series_Complete_Unk_Manuf_5Plus": 136
     },
     {
       "Date": "2021-11-18",
@@ -1106,7 +1238,18 @@
       "Additional_Doses_Moderna": 42576,
       "Additional_Doses_Pfizer": 63810,
       "Additional_Doses_Janssen": 1053,
-      "Additional_Doses_Unk_Manuf": 6
+      "Additional_Doses_Unk_Manuf": 6,
+      "Administered_Dose1_Recip_5Plus": 693643,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 75.5,
+      "Series_Complete_5PlusPop_Pct": 64.5,
+      "Series_Complete_5Plus": 593212,
+      "Administered_5Plus": 1386035,
+      "Admin_Per_100k_5Plus": 150813,
+      "Distributed_Per_100k_5Plus": 200029,
+      "Series_Complete_Moderna_5Plus": 215821,
+      "Series_Complete_Pfizer_5Plus": 324495,
+      "Series_Complete_Janssen_5Plus": 52362,
+      "Series_Complete_Unk_Manuf_5Plus": 534
     },
     {
       "Date": "2021-11-18",
@@ -1188,7 +1331,18 @@
       "Additional_Doses_Moderna": 911690,
       "Additional_Doses_Pfizer": 1175487,
       "Additional_Doses_Janssen": 26614,
-      "Additional_Doses_Unk_Manuf": 2639
+      "Additional_Doses_Unk_Manuf": 2639,
+      "Administered_Dose1_Recip_5Plus": 15189158,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 74.7,
+      "Series_Complete_5PlusPop_Pct": 64.1,
+      "Series_Complete_5Plus": 13040436,
+      "Administered_5Plus": 30010030,
+      "Admin_Per_100k_5Plus": 147556,
+      "Distributed_Per_100k_5Plus": 186538,
+      "Series_Complete_Moderna_5Plus": 4574172,
+      "Series_Complete_Pfizer_5Plus": 7178543,
+      "Series_Complete_Janssen_5Plus": 1255294,
+      "Series_Complete_Unk_Manuf_5Plus": 32427
     },
     {
       "Date": "2021-11-18",
@@ -1270,7 +1424,18 @@
       "Additional_Doses_Moderna": 784,
       "Additional_Doses_Pfizer": 7,
       "Additional_Doses_Janssen": 15,
-      "Additional_Doses_Unk_Manuf": 0
+      "Additional_Doses_Unk_Manuf": 0,
+      "Administered_Dose1_Recip_5Plus": 47468,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 51.1,
+      "Series_Complete_5PlusPop_Pct": 45,
+      "Series_Complete_5Plus": 41742,
+      "Administered_5Plus": 78708,
+      "Admin_Per_100k_5Plus": 84795,
+      "Distributed_Per_100k_5Plus": 111667,
+      "Series_Complete_Moderna_5Plus": 29353,
+      "Series_Complete_Pfizer_5Plus": 700,
+      "Series_Complete_Janssen_5Plus": 11688,
+      "Series_Complete_Unk_Manuf_5Plus": 1
     },
     {
       "Date": "2021-11-18",
@@ -1352,7 +1517,18 @@
       "Additional_Doses_Moderna": 330152,
       "Additional_Doses_Pfizer": 405664,
       "Additional_Doses_Janssen": 6440,
-      "Additional_Doses_Unk_Manuf": 278
+      "Additional_Doses_Unk_Manuf": 278,
+      "Administered_Dose1_Recip_5Plus": 6177490,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 62,
+      "Series_Complete_5PlusPop_Pct": 52.4,
+      "Series_Complete_5Plus": 5216699,
+      "Administered_5Plus": 12025633,
+      "Admin_Per_100k_5Plus": 120729,
+      "Distributed_Per_100k_5Plus": 171036,
+      "Series_Complete_Moderna_5Plus": 2022536,
+      "Series_Complete_Pfizer_5Plus": 2901368,
+      "Series_Complete_Janssen_5Plus": 288904,
+      "Series_Complete_Unk_Manuf_5Plus": 3891
     },
     {
       "Date": "2021-11-18",
@@ -1434,7 +1610,18 @@
       "Additional_Doses_Moderna": 5061,
       "Additional_Doses_Pfizer": 11634,
       "Additional_Doses_Janssen": 70,
-      "Additional_Doses_Unk_Manuf": 0
+      "Additional_Doses_Unk_Manuf": 0,
+      "Administered_Dose1_Recip_5Plus": 133677,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 87.5,
+      "Series_Complete_5PlusPop_Pct": 80.3,
+      "Series_Complete_5Plus": 122624,
+      "Administered_5Plus": 265952,
+      "Admin_Per_100k_5Plus": 174097,
+      "Distributed_Per_100k_5Plus": 170469,
+      "Series_Complete_Moderna_5Plus": 37393,
+      "Series_Complete_Pfizer_5Plus": 75256,
+      "Series_Complete_Janssen_5Plus": 9975,
+      "Series_Complete_Unk_Manuf_5Plus": 0
     },
     {
       "Date": "2021-11-18",
@@ -1516,7 +1703,18 @@
       "Additional_Doses_Moderna": 26084,
       "Additional_Doses_Pfizer": 80425,
       "Additional_Doses_Janssen": 640,
-      "Additional_Doses_Unk_Manuf": 12
+      "Additional_Doses_Unk_Manuf": 12,
+      "Administered_Dose1_Recip_5Plus": 1144002,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 86,
+      "Series_Complete_5PlusPop_Pct": 64.4,
+      "Series_Complete_5Plus": 856781,
+      "Administered_5Plus": 2046195,
+      "Admin_Per_100k_5Plus": 153774,
+      "Distributed_Per_100k_5Plus": 207448,
+      "Series_Complete_Moderna_5Plus": 274730,
+      "Series_Complete_Pfizer_5Plus": 509588,
+      "Series_Complete_Janssen_5Plus": 54332,
+      "Series_Complete_Unk_Manuf_5Plus": 18131
     },
     {
       "Date": "2021-11-18",
@@ -1598,7 +1796,18 @@
       "Additional_Doses_Moderna": 191904,
       "Additional_Doses_Pfizer": 234510,
       "Additional_Doses_Janssen": 3949,
-      "Additional_Doses_Unk_Manuf": 2
+      "Additional_Doses_Unk_Manuf": 2,
+      "Administered_Dose1_Recip_5Plus": 1942670,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 65.6,
+      "Series_Complete_5PlusPop_Pct": 60,
+      "Series_Complete_5Plus": 1776152,
+      "Administered_5Plus": 4039378,
+      "Admin_Per_100k_5Plus": 136492,
+      "Distributed_Per_100k_5Plus": 173796,
+      "Series_Complete_Moderna_5Plus": 683150,
+      "Series_Complete_Pfizer_5Plus": 941888,
+      "Series_Complete_Janssen_5Plus": 150865,
+      "Series_Complete_Unk_Manuf_5Plus": 249
     },
     {
       "Date": "2021-11-18",
@@ -1680,7 +1889,18 @@
       "Additional_Doses_Moderna": 68456,
       "Additional_Doses_Pfizer": 106120,
       "Additional_Doses_Janssen": 1900,
-      "Additional_Doses_Unk_Manuf": 40
+      "Additional_Doses_Unk_Manuf": 40,
+      "Administered_Dose1_Recip_5Plus": 0,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 0,
+      "Series_Complete_5PlusPop_Pct": 0,
+      "Series_Complete_5Plus": 0,
+      "Administered_5Plus": 0,
+      "Admin_Per_100k_5Plus": 0,
+      "Distributed_Per_100k_5Plus": 0,
+      "Series_Complete_Moderna_5Plus": 0,
+      "Series_Complete_Pfizer_5Plus": 0,
+      "Series_Complete_Janssen_5Plus": 0,
+      "Series_Complete_Unk_Manuf_5Plus": 0
     },
     {
       "Date": "2021-11-18",
@@ -1762,7 +1982,18 @@
       "Additional_Doses_Moderna": 41006,
       "Additional_Doses_Pfizer": 60570,
       "Additional_Doses_Janssen": 369,
-      "Additional_Doses_Unk_Manuf": 118
+      "Additional_Doses_Unk_Manuf": 118,
+      "Administered_Dose1_Recip_5Plus": 958613,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 0,
+      "Series_Complete_5PlusPop_Pct": 0,
+      "Series_Complete_5Plus": 781064,
+      "Administered_5Plus": 1815732,
+      "Admin_Per_100k_5Plus": 0,
+      "Distributed_Per_100k_5Plus": 0,
+      "Series_Complete_Moderna_5Plus": 373133,
+      "Series_Complete_Pfizer_5Plus": 373242,
+      "Series_Complete_Janssen_5Plus": 34683,
+      "Series_Complete_Unk_Manuf_5Plus": 6
     },
     {
       "Date": "2021-11-18",
@@ -1844,7 +2075,18 @@
       "Additional_Doses_Moderna": 568291,
       "Additional_Doses_Pfizer": 875470,
       "Additional_Doses_Janssen": 13339,
-      "Additional_Doses_Unk_Manuf": 439
+      "Additional_Doses_Unk_Manuf": 439,
+      "Administered_Dose1_Recip_5Plus": 8415239,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 70.6,
+      "Series_Complete_5PlusPop_Pct": 64.6,
+      "Series_Complete_5Plus": 7699993,
+      "Administered_5Plus": 16982289,
+      "Admin_Per_100k_5Plus": 142410,
+      "Distributed_Per_100k_5Plus": 175800,
+      "Series_Complete_Moderna_5Plus": 2673687,
+      "Series_Complete_Pfizer_5Plus": 4447880,
+      "Series_Complete_Janssen_5Plus": 571932,
+      "Series_Complete_Unk_Manuf_5Plus": 6494
     },
     {
       "Date": "2021-11-18",
@@ -1926,7 +2168,18 @@
       "Additional_Doses_Moderna": 198828,
       "Additional_Doses_Pfizer": 376453,
       "Additional_Doses_Janssen": 6343,
-      "Additional_Doses_Unk_Manuf": 325
+      "Additional_Doses_Unk_Manuf": 325,
+      "Administered_Dose1_Recip_5Plus": 3696023,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 58.5,
+      "Series_Complete_5PlusPop_Pct": 53.7,
+      "Series_Complete_5Plus": 3388058,
+      "Administered_5Plus": 7555670,
+      "Admin_Per_100k_5Plus": 119668,
+      "Distributed_Per_100k_5Plus": 156802,
+      "Series_Complete_Moderna_5Plus": 1201694,
+      "Series_Complete_Pfizer_5Plus": 1916423,
+      "Series_Complete_Janssen_5Plus": 262320,
+      "Series_Complete_Unk_Manuf_5Plus": 7621
     },
     {
       "Date": "2021-11-18",
@@ -2008,7 +2261,18 @@
       "Additional_Doses_Moderna": 111407,
       "Additional_Doses_Pfizer": 162352,
       "Additional_Doses_Janssen": 2989,
-      "Additional_Doses_Unk_Manuf": 77
+      "Additional_Doses_Unk_Manuf": 77,
+      "Administered_Dose1_Recip_5Plus": 1887203,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 69.2,
+      "Series_Complete_5PlusPop_Pct": 57.8,
+      "Series_Complete_5Plus": 1575772,
+      "Administered_5Plus": 3562407,
+      "Admin_Per_100k_5Plus": 130588,
+      "Distributed_Per_100k_5Plus": 171056,
+      "Series_Complete_Moderna_5Plus": 592970,
+      "Series_Complete_Pfizer_5Plus": 869646,
+      "Series_Complete_Janssen_5Plus": 112627,
+      "Series_Complete_Unk_Manuf_5Plus": 529
     },
     {
       "Date": "2021-11-18",
@@ -2090,7 +2354,18 @@
       "Additional_Doses_Moderna": 192320,
       "Additional_Doses_Pfizer": 260441,
       "Additional_Doses_Janssen": 7420,
-      "Additional_Doses_Unk_Manuf": 48
+      "Additional_Doses_Unk_Manuf": 48,
+      "Administered_Dose1_Recip_5Plus": 2643600,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 63,
+      "Series_Complete_5PlusPop_Pct": 55,
+      "Series_Complete_5Plus": 2305674,
+      "Administered_5Plus": 5231867,
+      "Admin_Per_100k_5Plus": 124715,
+      "Distributed_Per_100k_5Plus": 164949,
+      "Series_Complete_Moderna_5Plus": 916859,
+      "Series_Complete_Pfizer_5Plus": 1192064,
+      "Series_Complete_Janssen_5Plus": 195305,
+      "Series_Complete_Unk_Manuf_5Plus": 1446
     },
     {
       "Date": "2021-11-18",
@@ -2172,7 +2447,18 @@
       "Additional_Doses_Moderna": 131550,
       "Additional_Doses_Pfizer": 229621,
       "Additional_Doses_Janssen": 3382,
-      "Additional_Doses_Unk_Manuf": 14
+      "Additional_Doses_Unk_Manuf": 14,
+      "Administered_Dose1_Recip_5Plus": 2549008,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 58.6,
+      "Series_Complete_5PlusPop_Pct": 51.8,
+      "Series_Complete_5Plus": 2250944,
+      "Administered_5Plus": 5080848,
+      "Admin_Per_100k_5Plus": 116873,
+      "Distributed_Per_100k_5Plus": 153433,
+      "Series_Complete_Moderna_5Plus": 903938,
+      "Series_Complete_Pfizer_5Plus": 1184228,
+      "Series_Complete_Janssen_5Plus": 161799,
+      "Series_Complete_Unk_Manuf_5Plus": 979
     },
     {
       "Date": "2021-11-18",
@@ -2254,7 +2540,18 @@
       "Additional_Doses_Moderna": 352618,
       "Additional_Doses_Pfizer": 492537,
       "Additional_Doses_Janssen": 7098,
-      "Additional_Doses_Unk_Manuf": 3
+      "Additional_Doses_Unk_Manuf": 3,
+      "Administered_Dose1_Recip_5Plus": 5761979,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 88.2,
+      "Series_Complete_5PlusPop_Pct": 74.4,
+      "Series_Complete_5Plus": 4863755,
+      "Administered_5Plus": 11152329,
+      "Admin_Per_100k_5Plus": 170652,
+      "Distributed_Per_100k_5Plus": 200416,
+      "Series_Complete_Moderna_5Plus": 1789101,
+      "Series_Complete_Pfizer_5Plus": 2719272,
+      "Series_Complete_Janssen_5Plus": 355232,
+      "Series_Complete_Unk_Manuf_5Plus": 150
     },
     {
       "Date": "2021-11-18",
@@ -2336,7 +2633,18 @@
       "Additional_Doses_Moderna": 330892,
       "Additional_Doses_Pfizer": 439955,
       "Additional_Doses_Janssen": 13299,
-      "Additional_Doses_Unk_Manuf": 167
+      "Additional_Doses_Unk_Manuf": 167,
+      "Administered_Dose1_Recip_5Plus": 4487567,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 79,
+      "Series_Complete_5PlusPop_Pct": 71.1,
+      "Series_Complete_5Plus": 4042259,
+      "Administered_5Plus": 9046131,
+      "Admin_Per_100k_5Plus": 159158,
+      "Distributed_Per_100k_5Plus": 208606,
+      "Series_Complete_Moderna_5Plus": 1428019,
+      "Series_Complete_Pfizer_5Plus": 2306065,
+      "Series_Complete_Janssen_5Plus": 304652,
+      "Series_Complete_Unk_Manuf_5Plus": 3523
     },
     {
       "Date": "2021-11-18",
@@ -2418,7 +2726,18 @@
       "Additional_Doses_Moderna": 88826,
       "Additional_Doses_Pfizer": 118554,
       "Additional_Doses_Janssen": 3025,
-      "Additional_Doses_Unk_Manuf": 177
+      "Additional_Doses_Unk_Manuf": 177,
+      "Administered_Dose1_Recip_5Plus": 1074379,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 83.9,
+      "Series_Complete_5PlusPop_Pct": 75.3,
+      "Series_Complete_5Plus": 963978,
+      "Administered_5Plus": 2138485,
+      "Admin_Per_100k_5Plus": 166981,
+      "Distributed_Per_100k_5Plus": 201288,
+      "Series_Complete_Moderna_5Plus": 362936,
+      "Series_Complete_Pfizer_5Plus": 477487,
+      "Series_Complete_Janssen_5Plus": 123139,
+      "Series_Complete_Unk_Manuf_5Plus": 416
     },
     {
       "Date": "2021-11-18",
@@ -2500,7 +2819,18 @@
       "Additional_Doses_Moderna": 371,
       "Additional_Doses_Pfizer": 4,
       "Additional_Doses_Janssen": 0,
-      "Additional_Doses_Unk_Manuf": 0
+      "Additional_Doses_Unk_Manuf": 0,
+      "Administered_Dose1_Recip_5Plus": 24675,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 35.7,
+      "Series_Complete_5PlusPop_Pct": 31.2,
+      "Series_Complete_5Plus": 21568,
+      "Administered_5Plus": 44619,
+      "Admin_Per_100k_5Plus": 64480,
+      "Distributed_Per_100k_5Plus": 95248,
+      "Series_Complete_Moderna_5Plus": 18483,
+      "Series_Complete_Pfizer_5Plus": 814,
+      "Series_Complete_Janssen_5Plus": 2270,
+      "Series_Complete_Unk_Manuf_5Plus": 1
     },
     {
       "Date": "2021-11-18",
@@ -2582,7 +2912,18 @@
       "Additional_Doses_Moderna": 475796,
       "Additional_Doses_Pfizer": 702830,
       "Additional_Doses_Janssen": 13619,
-      "Additional_Doses_Unk_Manuf": 26
+      "Additional_Doses_Unk_Manuf": 26,
+      "Administered_Dose1_Recip_5Plus": 5995459,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 63.6,
+      "Series_Complete_5PlusPop_Pct": 57.5,
+      "Series_Complete_5Plus": 5412412,
+      "Administered_5Plus": 12261448,
+      "Admin_Per_100k_5Plus": 130158,
+      "Distributed_Per_100k_5Plus": 170928,
+      "Series_Complete_Moderna_5Plus": 2046559,
+      "Series_Complete_Pfizer_5Plus": 2975818,
+      "Series_Complete_Janssen_5Plus": 389080,
+      "Series_Complete_Unk_Manuf_5Plus": 955
     },
     {
       "Date": "2021-11-18",
@@ -2664,7 +3005,18 @@
       "Additional_Doses_Moderna": 298142,
       "Additional_Doses_Pfizer": 538255,
       "Additional_Doses_Janssen": 10027,
-      "Additional_Doses_Unk_Manuf": 126
+      "Additional_Doses_Unk_Manuf": 126,
+      "Administered_Dose1_Recip_5Plus": 3805299,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 72,
+      "Series_Complete_5PlusPop_Pct": 66.1,
+      "Series_Complete_5Plus": 3494917,
+      "Administered_5Plus": 7879004,
+      "Admin_Per_100k_5Plus": 148998,
+      "Distributed_Per_100k_5Plus": 178442,
+      "Series_Complete_Moderna_5Plus": 1241996,
+      "Series_Complete_Pfizer_5Plus": 1942441,
+      "Series_Complete_Janssen_5Plus": 309726,
+      "Series_Complete_Unk_Manuf_5Plus": 754
     },
     {
       "Date": "2021-11-18",
@@ -2746,7 +3098,18 @@
       "Additional_Doses_Moderna": 192988,
       "Additional_Doses_Pfizer": 359681,
       "Additional_Doses_Janssen": 4972,
-      "Additional_Doses_Unk_Manuf": 29
+      "Additional_Doses_Unk_Manuf": 29,
+      "Administered_Dose1_Recip_5Plus": 3597724,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 62.4,
+      "Series_Complete_5PlusPop_Pct": 53.8,
+      "Series_Complete_5Plus": 3101219,
+      "Administered_5Plus": 7183973,
+      "Admin_Per_100k_5Plus": 124520,
+      "Distributed_Per_100k_5Plus": 158335,
+      "Series_Complete_Moderna_5Plus": 1091566,
+      "Series_Complete_Pfizer_5Plus": 1790023,
+      "Series_Complete_Janssen_5Plus": 219117,
+      "Series_Complete_Unk_Manuf_5Plus": 513
     },
     {
       "Date": "2021-11-18",
@@ -2828,7 +3191,18 @@
       "Additional_Doses_Moderna": 489,
       "Additional_Doses_Pfizer": 5125,
       "Additional_Doses_Janssen": 13,
-      "Additional_Doses_Unk_Manuf": 0
+      "Additional_Doses_Unk_Manuf": 0,
+      "Administered_Dose1_Recip_5Plus": 38483,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 80,
+      "Series_Complete_5PlusPop_Pct": 73.3,
+      "Series_Complete_5Plus": 35238,
+      "Administered_5Plus": 78374,
+      "Admin_Per_100k_5Plus": 162933,
+      "Distributed_Per_100k_5Plus": 197455,
+      "Series_Complete_Moderna_5Plus": 4684,
+      "Series_Complete_Pfizer_5Plus": 29631,
+      "Series_Complete_Janssen_5Plus": 923,
+      "Series_Complete_Unk_Manuf_5Plus": 0
     },
     {
       "Date": "2021-11-18",
@@ -2910,7 +3284,18 @@
       "Additional_Doses_Moderna": 93857,
       "Additional_Doses_Pfizer": 111482,
       "Additional_Doses_Janssen": 1872,
-      "Additional_Doses_Unk_Manuf": 226
+      "Additional_Doses_Unk_Manuf": 226,
+      "Administered_Dose1_Recip_5Plus": 1583104,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 56.7,
+      "Series_Complete_5PlusPop_Pct": 49.7,
+      "Series_Complete_5Plus": 1387409,
+      "Administered_5Plus": 3125223,
+      "Admin_Per_100k_5Plus": 111908,
+      "Distributed_Per_100k_5Plus": 157847,
+      "Series_Complete_Moderna_5Plus": 548375,
+      "Series_Complete_Pfizer_5Plus": 761417,
+      "Series_Complete_Janssen_5Plus": 77021,
+      "Series_Complete_Unk_Manuf_5Plus": 596
     },
     {
       "Date": "2021-11-18",
@@ -2992,7 +3377,18 @@
       "Additional_Doses_Moderna": 56946,
       "Additional_Doses_Pfizer": 75902,
       "Additional_Doses_Janssen": 1809,
-      "Additional_Doses_Unk_Manuf": 176
+      "Additional_Doses_Unk_Manuf": 176,
+      "Administered_Dose1_Recip_5Plus": 627521,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 62.3,
+      "Series_Complete_5PlusPop_Pct": 54.6,
+      "Series_Complete_5Plus": 549929,
+      "Administered_5Plus": 1282314,
+      "Admin_Per_100k_5Plus": 127261,
+      "Distributed_Per_100k_5Plus": 159926,
+      "Series_Complete_Moderna_5Plus": 223783,
+      "Series_Complete_Pfizer_5Plus": 276122,
+      "Series_Complete_Janssen_5Plus": 49675,
+      "Series_Complete_Unk_Manuf_5Plus": 349
     },
     {
       "Date": "2021-11-18",
@@ -3074,7 +3470,18 @@
       "Additional_Doses_Moderna": 242229,
       "Additional_Doses_Pfizer": 378285,
       "Additional_Doses_Janssen": 9060,
-      "Additional_Doses_Unk_Manuf": 7
+      "Additional_Doses_Unk_Manuf": 7,
+      "Administered_Dose1_Recip_5Plus": 7141556,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 72.3,
+      "Series_Complete_5PlusPop_Pct": 57,
+      "Series_Complete_5Plus": 5630268,
+      "Administered_5Plus": 13141736,
+      "Admin_Per_100k_5Plus": 133036,
+      "Distributed_Per_100k_5Plus": 176064,
+      "Series_Complete_Moderna_5Plus": 2025225,
+      "Series_Complete_Pfizer_5Plus": 3169851,
+      "Series_Complete_Janssen_5Plus": 435077,
+      "Series_Complete_Unk_Manuf_5Plus": 115
     },
     {
       "Date": "2021-11-18",
@@ -3156,7 +3563,18 @@
       "Additional_Doses_Moderna": 33762,
       "Additional_Doses_Pfizer": 46462,
       "Additional_Doses_Janssen": 910,
-      "Additional_Doses_Unk_Manuf": 1
+      "Additional_Doses_Unk_Manuf": 1,
+      "Administered_Dose1_Recip_5Plus": 433284,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 61.2,
+      "Series_Complete_5PlusPop_Pct": 52,
+      "Series_Complete_5Plus": 368402,
+      "Administered_5Plus": 866872,
+      "Admin_Per_100k_5Plus": 122446,
+      "Distributed_Per_100k_5Plus": 157978,
+      "Series_Complete_Moderna_5Plus": 138169,
+      "Series_Complete_Pfizer_5Plus": 197034,
+      "Series_Complete_Janssen_5Plus": 33196,
+      "Series_Complete_Unk_Manuf_5Plus": 3
     },
     {
       "Date": "2021-11-18",
@@ -3238,7 +3656,18 @@
       "Additional_Doses_Moderna": 82090,
       "Additional_Doses_Pfizer": 149051,
       "Additional_Doses_Janssen": 1760,
-      "Additional_Doses_Unk_Manuf": 126
+      "Additional_Doses_Unk_Manuf": 126,
+      "Administered_Dose1_Recip_5Plus": 1217792,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 67.5,
+      "Series_Complete_5PlusPop_Pct": 61.1,
+      "Series_Complete_5Plus": 1102081,
+      "Administered_5Plus": 2500194,
+      "Admin_Per_100k_5Plus": 138628,
+      "Distributed_Per_100k_5Plus": 170122,
+      "Series_Complete_Moderna_5Plus": 395099,
+      "Series_Complete_Pfizer_5Plus": 623496,
+      "Series_Complete_Janssen_5Plus": 82120,
+      "Series_Complete_Unk_Manuf_5Plus": 1366
     },
     {
       "Date": "2021-11-18",
@@ -3320,7 +3749,18 @@
       "Additional_Doses_Moderna": 15222,
       "Additional_Doses_Pfizer": 24540,
       "Additional_Doses_Janssen": 620,
-      "Additional_Doses_Unk_Manuf": 7
+      "Additional_Doses_Unk_Manuf": 7,
+      "Administered_Dose1_Recip_5Plus": 1127872,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 87,
+      "Series_Complete_5PlusPop_Pct": 66.9,
+      "Series_Complete_5Plus": 867613,
+      "Administered_5Plus": 2049055,
+      "Admin_Per_100k_5Plus": 158095,
+      "Distributed_Per_100k_5Plus": 199181,
+      "Series_Complete_Moderna_5Plus": 328968,
+      "Series_Complete_Pfizer_5Plus": 463649,
+      "Series_Complete_Janssen_5Plus": 74927,
+      "Series_Complete_Unk_Manuf_5Plus": 69
     },
     {
       "Date": "2021-11-18",
@@ -3402,7 +3842,18 @@
       "Additional_Doses_Moderna": 407646,
       "Additional_Doses_Pfizer": 547141,
       "Additional_Doses_Janssen": 17313,
-      "Additional_Doses_Unk_Manuf": 9
+      "Additional_Doses_Unk_Manuf": 9,
+      "Administered_Dose1_Recip_5Plus": 6892104,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 82.4,
+      "Series_Complete_5PlusPop_Pct": 71.4,
+      "Series_Complete_5Plus": 5977054,
+      "Administered_5Plus": 13060267,
+      "Admin_Per_100k_5Plus": 156083,
+      "Distributed_Per_100k_5Plus": 198143,
+      "Series_Complete_Moderna_5Plus": 2172084,
+      "Series_Complete_Pfizer_5Plus": 3332764,
+      "Series_Complete_Janssen_5Plus": 471977,
+      "Series_Complete_Unk_Manuf_5Plus": 229
     },
     {
       "Date": "2021-11-18",
@@ -3484,7 +3935,18 @@
       "Additional_Doses_Moderna": 99070,
       "Additional_Doses_Pfizer": 186336,
       "Additional_Doses_Janssen": 2111,
-      "Additional_Doses_Unk_Manuf": 36
+      "Additional_Doses_Unk_Manuf": 36,
+      "Administered_Dose1_Recip_5Plus": 1567322,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 79.3,
+      "Series_Complete_5PlusPop_Pct": 66.9,
+      "Series_Complete_5Plus": 1321624,
+      "Administered_5Plus": 3014539,
+      "Admin_Per_100k_5Plus": 152570,
+      "Distributed_Per_100k_5Plus": 178639,
+      "Series_Complete_Moderna_5Plus": 521350,
+      "Series_Complete_Pfizer_5Plus": 698396,
+      "Series_Complete_Janssen_5Plus": 100111,
+      "Series_Complete_Unk_Manuf_5Plus": 1767
     },
     {
       "Date": "2021-11-18",
@@ -3566,7 +4028,18 @@
       "Additional_Doses_Moderna": 91257,
       "Additional_Doses_Pfizer": 148088,
       "Additional_Doses_Janssen": 3001,
-      "Additional_Doses_Unk_Manuf": 0
+      "Additional_Doses_Unk_Manuf": 0,
+      "Administered_Dose1_Recip_5Plus": 2010647,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 69.5,
+      "Series_Complete_5PlusPop_Pct": 57.4,
+      "Series_Complete_5Plus": 1662083,
+      "Administered_5Plus": 3842279,
+      "Admin_Per_100k_5Plus": 132740,
+      "Distributed_Per_100k_5Plus": 162068,
+      "Series_Complete_Moderna_5Plus": 569871,
+      "Series_Complete_Pfizer_5Plus": 932628,
+      "Series_Complete_Janssen_5Plus": 159538,
+      "Series_Complete_Unk_Manuf_5Plus": 46
     },
     {
       "Date": "2021-11-18",
@@ -3648,7 +4121,18 @@
       "Additional_Doses_Moderna": 548948,
       "Additional_Doses_Pfizer": 848362,
       "Additional_Doses_Janssen": 17560,
-      "Additional_Doses_Unk_Manuf": 32
+      "Additional_Doses_Unk_Manuf": 32,
+      "Administered_Dose1_Recip_5Plus": 14883573,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 81.2,
+      "Series_Complete_5PlusPop_Pct": 72,
+      "Series_Complete_5Plus": 13198095,
+      "Administered_5Plus": 28894584,
+      "Admin_Per_100k_5Plus": 157665,
+      "Distributed_Per_100k_5Plus": 190202,
+      "Series_Complete_Moderna_5Plus": 4661794,
+      "Series_Complete_Pfizer_5Plus": 7386555,
+      "Series_Complete_Janssen_5Plus": 1146802,
+      "Series_Complete_Unk_Manuf_5Plus": 2944
     },
     {
       "Date": "2021-11-18",
@@ -3730,7 +4214,18 @@
       "Additional_Doses_Moderna": 502280,
       "Additional_Doses_Pfizer": 735722,
       "Additional_Doses_Janssen": 18613,
-      "Additional_Doses_Unk_Manuf": 235
+      "Additional_Doses_Unk_Manuf": 235,
+      "Administered_Dose1_Recip_5Plus": 6702957,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 60.9,
+      "Series_Complete_5PlusPop_Pct": 55.9,
+      "Series_Complete_5Plus": 6148733,
+      "Administered_5Plus": 13873829,
+      "Admin_Per_100k_5Plus": 126146,
+      "Distributed_Per_100k_5Plus": 162597,
+      "Series_Complete_Moderna_5Plus": 2264317,
+      "Series_Complete_Pfizer_5Plus": 3370576,
+      "Series_Complete_Janssen_5Plus": 509116,
+      "Series_Complete_Unk_Manuf_5Plus": 4724
     },
     {
       "Date": "2021-11-18",
@@ -3812,7 +4307,18 @@
       "Additional_Doses_Moderna": 137509,
       "Additional_Doses_Pfizer": 191769,
       "Additional_Doses_Janssen": 3278,
-      "Additional_Doses_Unk_Manuf": 15
+      "Additional_Doses_Unk_Manuf": 15,
+      "Administered_Dose1_Recip_5Plus": 2435204,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 65.8,
+      "Series_Complete_5PlusPop_Pct": 54.6,
+      "Series_Complete_5Plus": 2019289,
+      "Administered_5Plus": 4737398,
+      "Admin_Per_100k_5Plus": 127988,
+      "Distributed_Per_100k_5Plus": 160201,
+      "Series_Complete_Moderna_5Plus": 794816,
+      "Series_Complete_Pfizer_5Plus": 1095760,
+      "Series_Complete_Janssen_5Plus": 128574,
+      "Series_Complete_Unk_Manuf_5Plus": 139
     },
     {
       "Date": "2021-11-18",
@@ -3894,7 +4400,18 @@
       "Additional_Doses_Moderna": 194505,
       "Additional_Doses_Pfizer": 318682,
       "Additional_Doses_Janssen": 7003,
-      "Additional_Doses_Unk_Manuf": 185
+      "Additional_Doses_Unk_Manuf": 185,
+      "Administered_Dose1_Recip_5Plus": 2961134,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 74.2,
+      "Series_Complete_5PlusPop_Pct": 67.2,
+      "Series_Complete_5Plus": 2681370,
+      "Administered_5Plus": 5977903,
+      "Admin_Per_100k_5Plus": 149825,
+      "Distributed_Per_100k_5Plus": 195880,
+      "Series_Complete_Moderna_5Plus": 956583,
+      "Series_Complete_Pfizer_5Plus": 1492155,
+      "Series_Complete_Janssen_5Plus": 231197,
+      "Series_Complete_Unk_Manuf_5Plus": 1435
     },
     {
       "Date": "2021-11-18",
@@ -3976,7 +4493,18 @@
       "Additional_Doses_Moderna": 378133,
       "Additional_Doses_Pfizer": 513257,
       "Additional_Doses_Janssen": 7695,
-      "Additional_Doses_Unk_Manuf": 25
+      "Additional_Doses_Unk_Manuf": 25,
+      "Administered_Dose1_Recip_5Plus": 10623709,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 87.8,
+      "Series_Complete_5PlusPop_Pct": 65.4,
+      "Series_Complete_5Plus": 7917822,
+      "Administered_5Plus": 18845120,
+      "Admin_Per_100k_5Plus": 155692,
+      "Distributed_Per_100k_5Plus": 191727,
+      "Series_Complete_Moderna_5Plus": 2960074,
+      "Series_Complete_Pfizer_5Plus": 4256024,
+      "Series_Complete_Janssen_5Plus": 701146,
+      "Series_Complete_Unk_Manuf_5Plus": 578
     },
     {
       "Date": "2021-11-18",
@@ -4058,7 +4586,18 @@
       "Additional_Doses_Moderna": 100858,
       "Additional_Doses_Pfizer": 214911,
       "Additional_Doses_Janssen": 2439,
-      "Additional_Doses_Unk_Manuf": 5
+      "Additional_Doses_Unk_Manuf": 5,
+      "Administered_Dose1_Recip_5Plus": 2684285,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 87.3,
+      "Series_Complete_5PlusPop_Pct": 77.1,
+      "Series_Complete_5Plus": 2373140,
+      "Administered_5Plus": 5254902,
+      "Admin_Per_100k_5Plus": 170824,
+      "Distributed_Per_100k_5Plus": 192533,
+      "Series_Complete_Moderna_5Plus": 907285,
+      "Series_Complete_Pfizer_5Plus": 1330154,
+      "Series_Complete_Janssen_5Plus": 135614,
+      "Series_Complete_Unk_Manuf_5Plus": 87
     },
     {
       "Date": "2021-11-18",
@@ -4140,7 +4679,18 @@
       "Additional_Doses_Moderna": 59344,
       "Additional_Doses_Pfizer": 85035,
       "Additional_Doses_Janssen": 1391,
-      "Additional_Doses_Unk_Manuf": 5
+      "Additional_Doses_Unk_Manuf": 5,
+      "Administered_Dose1_Recip_5Plus": 861054,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 85.7,
+      "Series_Complete_5PlusPop_Pct": 75.8,
+      "Series_Complete_5Plus": 761783,
+      "Administered_5Plus": 1673069,
+      "Admin_Per_100k_5Plus": 166501,
+      "Distributed_Per_100k_5Plus": 197236,
+      "Series_Complete_Moderna_5Plus": 273310,
+      "Series_Complete_Pfizer_5Plus": 432452,
+      "Series_Complete_Janssen_5Plus": 55750,
+      "Series_Complete_Unk_Manuf_5Plus": 271
     },
     {
       "Date": "2021-11-18",
@@ -4222,7 +4772,18 @@
       "Additional_Doses_Moderna": 2533,
       "Additional_Doses_Pfizer": 6,
       "Additional_Doses_Janssen": 0,
-      "Additional_Doses_Unk_Manuf": 0
+      "Additional_Doses_Unk_Manuf": 0,
+      "Administered_Dose1_Recip_5Plus": 18050,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 88.6,
+      "Series_Complete_5PlusPop_Pct": 77.5,
+      "Series_Complete_5Plus": 15780,
+      "Administered_5Plus": 33752,
+      "Admin_Per_100k_5Plus": 165670,
+      "Distributed_Per_100k_5Plus": 167820,
+      "Series_Complete_Moderna_5Plus": 11680,
+      "Series_Complete_Pfizer_5Plus": 1761,
+      "Series_Complete_Janssen_5Plus": 2339,
+      "Series_Complete_Unk_Manuf_5Plus": 0
     },
     {
       "Date": "2021-11-18",
@@ -4304,7 +4865,18 @@
       "Additional_Doses_Moderna": 158450,
       "Additional_Doses_Pfizer": 291672,
       "Additional_Doses_Janssen": 7045,
-      "Additional_Doses_Unk_Manuf": 281
+      "Additional_Doses_Unk_Manuf": 281,
+      "Administered_Dose1_Recip_5Plus": 3049899,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 62.8,
+      "Series_Complete_5PlusPop_Pct": 54,
+      "Series_Complete_5Plus": 2620647,
+      "Administered_5Plus": 6019068,
+      "Admin_Per_100k_5Plus": 123945,
+      "Distributed_Per_100k_5Plus": 169100,
+      "Series_Complete_Moderna_5Plus": 970056,
+      "Series_Complete_Pfizer_5Plus": 1461402,
+      "Series_Complete_Janssen_5Plus": 188871,
+      "Series_Complete_Unk_Manuf_5Plus": 318
     },
     {
       "Date": "2021-11-18",
@@ -4386,7 +4958,18 @@
       "Additional_Doses_Moderna": 39677,
       "Additional_Doses_Pfizer": 54549,
       "Additional_Doses_Janssen": 898,
-      "Additional_Doses_Unk_Manuf": 1
+      "Additional_Doses_Unk_Manuf": 1,
+      "Administered_Dose1_Recip_5Plus": 573061,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 69.6,
+      "Series_Complete_5PlusPop_Pct": 57.9,
+      "Series_Complete_5Plus": 476967,
+      "Administered_5Plus": 1105396,
+      "Admin_Per_100k_5Plus": 134233,
+      "Distributed_Per_100k_5Plus": 177755,
+      "Series_Complete_Moderna_5Plus": 184580,
+      "Series_Complete_Pfizer_5Plus": 257748,
+      "Series_Complete_Janssen_5Plus": 34615,
+      "Series_Complete_Unk_Manuf_5Plus": 24
     },
     {
       "Date": "2021-11-18",
@@ -4468,7 +5051,18 @@
       "Additional_Doses_Moderna": 256631,
       "Additional_Doses_Pfizer": 387859,
       "Additional_Doses_Janssen": 7387,
-      "Additional_Doses_Unk_Manuf": 1465
+      "Additional_Doses_Unk_Manuf": 1465,
+      "Administered_Dose1_Recip_5Plus": 3824572,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 59.6,
+      "Series_Complete_5PlusPop_Pct": 52.3,
+      "Series_Complete_5Plus": 3355820,
+      "Administered_5Plus": 7940127,
+      "Admin_Per_100k_5Plus": 123667,
+      "Distributed_Per_100k_5Plus": 157239,
+      "Series_Complete_Moderna_5Plus": 1230864,
+      "Series_Complete_Pfizer_5Plus": 1901318,
+      "Series_Complete_Janssen_5Plus": 214350,
+      "Series_Complete_Unk_Manuf_5Plus": 9288
     },
     {
       "Date": "2021-11-18",
@@ -4550,7 +5144,18 @@
       "Additional_Doses_Moderna": 1008584,
       "Additional_Doses_Pfizer": 1307806,
       "Additional_Doses_Janssen": 27920,
-      "Additional_Doses_Unk_Manuf": 69
+      "Additional_Doses_Unk_Manuf": 69,
+      "Administered_Dose1_Recip_5Plus": 18112594,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 67.1,
+      "Series_Complete_5PlusPop_Pct": 58.2,
+      "Series_Complete_5Plus": 15717542,
+      "Administered_5Plus": 36074782,
+      "Admin_Per_100k_5Plus": 133586,
+      "Distributed_Per_100k_5Plus": 178512,
+      "Series_Complete_Moderna_5Plus": 5713183,
+      "Series_Complete_Pfizer_5Plus": 8782468,
+      "Series_Complete_Janssen_5Plus": 1221570,
+      "Series_Complete_Unk_Manuf_5Plus": 321
     },
     {
       "Date": "2021-11-18",
@@ -4632,7 +5237,18 @@
       "Additional_Doses_Moderna": 81379,
       "Additional_Doses_Pfizer": 171625,
       "Additional_Doses_Janssen": 2842,
-      "Additional_Doses_Unk_Manuf": 1
+      "Additional_Doses_Unk_Manuf": 1,
+      "Administered_Dose1_Recip_5Plus": 2016547,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 68.2,
+      "Series_Complete_5PlusPop_Pct": 59.6,
+      "Series_Complete_5Plus": 1762301,
+      "Administered_5Plus": 3935409,
+      "Admin_Per_100k_5Plus": 133036,
+      "Distributed_Per_100k_5Plus": 164716,
+      "Series_Complete_Moderna_5Plus": 612528,
+      "Series_Complete_Pfizer_5Plus": 996071,
+      "Series_Complete_Janssen_5Plus": 153693,
+      "Series_Complete_Unk_Manuf_5Plus": 9
     },
     {
       "Date": "2021-11-18",
@@ -4714,7 +5330,18 @@
       "Additional_Doses_Moderna": 420387,
       "Additional_Doses_Pfizer": 583589,
       "Additional_Doses_Janssen": 14812,
-      "Additional_Doses_Unk_Manuf": 177
+      "Additional_Doses_Unk_Manuf": 177,
+      "Administered_Dose1_Recip_5Plus": 6302009,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 78.5,
+      "Series_Complete_5PlusPop_Pct": 68.3,
+      "Series_Complete_5Plus": 5480906,
+      "Administered_5Plus": 12586945,
+      "Admin_Per_100k_5Plus": 156748,
+      "Distributed_Per_100k_5Plus": 189736,
+      "Series_Complete_Moderna_5Plus": 1891489,
+      "Series_Complete_Pfizer_5Plus": 3173193,
+      "Series_Complete_Janssen_5Plus": 413470,
+      "Series_Complete_Unk_Manuf_5Plus": 2754
     },
     {
       "Date": "2021-11-18",
@@ -4796,7 +5423,18 @@
       "Additional_Doses_Moderna": 209146,
       "Additional_Doses_Pfizer": 285607,
       "Additional_Doses_Janssen": 4646,
-      "Additional_Doses_Unk_Manuf": 0
+      "Additional_Doses_Unk_Manuf": 0,
+      "Administered_Dose1_Recip_5Plus": 3177812,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 0,
+      "Series_Complete_5PlusPop_Pct": 0,
+      "Series_Complete_5Plus": 2880240,
+      "Administered_5Plus": 6343297,
+      "Admin_Per_100k_5Plus": 0,
+      "Distributed_Per_100k_5Plus": 0,
+      "Series_Complete_Moderna_5Plus": 1414485,
+      "Series_Complete_Pfizer_5Plus": 1242724,
+      "Series_Complete_Janssen_5Plus": 223021,
+      "Series_Complete_Unk_Manuf_5Plus": 10
     },
     {
       "Date": "2021-11-18",
@@ -4878,7 +5516,18 @@
       "Additional_Doses_Moderna": 1547,
       "Additional_Doses_Pfizer": 3544,
       "Additional_Doses_Janssen": 24,
-      "Additional_Doses_Unk_Manuf": 1
+      "Additional_Doses_Unk_Manuf": 1,
+      "Administered_Dose1_Recip_5Plus": 57163,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 57.4,
+      "Series_Complete_5PlusPop_Pct": 50.3,
+      "Series_Complete_5Plus": 50148,
+      "Administered_5Plus": 113583,
+      "Admin_Per_100k_5Plus": 114012,
+      "Distributed_Per_100k_5Plus": 124428,
+      "Series_Complete_Moderna_5Plus": 13319,
+      "Series_Complete_Pfizer_5Plus": 35286,
+      "Series_Complete_Janssen_5Plus": 1538,
+      "Series_Complete_Unk_Manuf_5Plus": 5
     },
     {
       "Date": "2021-11-18",
@@ -4960,7 +5609,18 @@
       "Additional_Doses_Moderna": 49806,
       "Additional_Doses_Pfizer": 74613,
       "Additional_Doses_Janssen": 1813,
-      "Additional_Doses_Unk_Manuf": 10
+      "Additional_Doses_Unk_Manuf": 10,
+      "Administered_Dose1_Recip_5Plus": 516434,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 86.8,
+      "Series_Complete_5PlusPop_Pct": 75.8,
+      "Series_Complete_5Plus": 450741,
+      "Administered_5Plus": 1067185,
+      "Admin_Per_100k_5Plus": 179375,
+      "Distributed_Per_100k_5Plus": 212697,
+      "Series_Complete_Moderna_5Plus": 167955,
+      "Series_Complete_Pfizer_5Plus": 238228,
+      "Series_Complete_Janssen_5Plus": 44300,
+      "Series_Complete_Unk_Manuf_5Plus": 258
     },
     {
       "Date": "2021-11-18",
@@ -5042,7 +5702,18 @@
       "Additional_Doses_Moderna": 372475,
       "Additional_Doses_Pfizer": 551505,
       "Additional_Doses_Janssen": 11298,
-      "Additional_Doses_Unk_Manuf": 226
+      "Additional_Doses_Unk_Manuf": 226,
+      "Administered_Dose1_Recip_5Plus": 5442221,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 76,
+      "Series_Complete_5PlusPop_Pct": 68.6,
+      "Series_Complete_5Plus": 4910748,
+      "Administered_5Plus": 10992719,
+      "Admin_Per_100k_5Plus": 153564,
+      "Distributed_Per_100k_5Plus": 190510,
+      "Series_Complete_Moderna_5Plus": 1783017,
+      "Series_Complete_Pfizer_5Plus": 2706752,
+      "Series_Complete_Janssen_5Plus": 418346,
+      "Series_Complete_Unk_Manuf_5Plus": 2633
     },
     {
       "Date": "2021-11-18",
@@ -5124,7 +5795,18 @@
       "Additional_Doses_Moderna": 288513,
       "Additional_Doses_Pfizer": 503091,
       "Additional_Doses_Janssen": 7579,
-      "Additional_Doses_Unk_Manuf": 25
+      "Additional_Doses_Unk_Manuf": 25,
+      "Administered_Dose1_Recip_5Plus": 3763617,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 68.5,
+      "Series_Complete_5PlusPop_Pct": 62.6,
+      "Series_Complete_5Plus": 3440235,
+      "Administered_5Plus": 7894302,
+      "Admin_Per_100k_5Plus": 143743,
+      "Distributed_Per_100k_5Plus": 165786,
+      "Series_Complete_Moderna_5Plus": 1273172,
+      "Series_Complete_Pfizer_5Plus": 1885313,
+      "Series_Complete_Janssen_5Plus": 281263,
+      "Series_Complete_Unk_Manuf_5Plus": 487
     },
     {
       "Date": "2021-11-18",
@@ -5206,7 +5888,18 @@
       "Additional_Doses_Moderna": 16095,
       "Additional_Doses_Pfizer": 37558,
       "Additional_Doses_Janssen": 406,
-      "Additional_Doses_Unk_Manuf": 13
+      "Additional_Doses_Unk_Manuf": 13,
+      "Administered_Dose1_Recip_5Plus": 961878,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 56.6,
+      "Series_Complete_5PlusPop_Pct": 43.7,
+      "Series_Complete_5Plus": 743075,
+      "Administered_5Plus": 1686438,
+      "Admin_Per_100k_5Plus": 99253,
+      "Distributed_Per_100k_5Plus": 197914,
+      "Series_Complete_Moderna_5Plus": 322848,
+      "Series_Complete_Pfizer_5Plus": 373892,
+      "Series_Complete_Janssen_5Plus": 46066,
+      "Series_Complete_Unk_Manuf_5Plus": 269
     },
     {
       "Date": "2021-11-18",
@@ -5288,7 +5981,18 @@
       "Additional_Doses_Moderna": 23926,
       "Additional_Doses_Pfizer": 33534,
       "Additional_Doses_Janssen": 636,
-      "Additional_Doses_Unk_Manuf": 28
+      "Additional_Doses_Unk_Manuf": 28,
+      "Administered_Dose1_Recip_5Plus": 304716,
+      "Administered_Dose1_Recip_5PlusPop_Pct": 56,
+      "Series_Complete_5PlusPop_Pct": 48,
+      "Series_Complete_5Plus": 260992,
+      "Administered_5Plus": 613806,
+      "Admin_Per_100k_5Plus": 112868,
+      "Distributed_Per_100k_5Plus": 147428,
+      "Series_Complete_Moderna_5Plus": 109586,
+      "Series_Complete_Pfizer_5Plus": 127386,
+      "Series_Complete_Janssen_5Plus": 23920,
+      "Series_Complete_Unk_Manuf_5Plus": 100
     }
   ]
 }
