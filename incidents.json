@@ -1,5 +1,5 @@
 {
-  "runid": 2579,
+  "runid": 2580,
   "vaccination_data": [
     {
       "Date": "2022-05-19",
@@ -141,7 +141,16 @@
       "Booster_Eligible_NotBoosted_65Plus_Pct": 31.9,
       "Additional_Doses_12Plus": 102489866,
       "Additional_Doses_12Plus_Vax_Pct": 48.2,
-      "Second_Booster": 12380807
+      "Second_Booster": 12380807,
+      "Second_Booster_50plus": 11835302,
+      "Second_Booster_65plus": 8481218,
+      "Second_Booster_Vax_Pct": 12.1,
+      "Second_Booster_50plus_Vax_Pct": 19,
+      "Second_Booster_65plus_Vax_Pct": 24.6,
+      "Second_Booster_Moderna": 5928389,
+      "Second_Booster_Pfizer": 6427144,
+      "Second_Booster_Janssen": 14446,
+      "Second_Booster_Unk_Manuf": 10828
     },
     {
       "Date": "2022-05-19",
@@ -233,7 +242,15 @@
       "Series_Complete_Janssen_5Plus": 41826,
       "Series_Complete_Unk_Manuf_5Plus": 133,
       "Additional_Doses_12Plus": 200542,
-      "Additional_Doses_12Plus_Vax_Pct": 45.7
+      "Additional_Doses_12Plus_Vax_Pct": 45.7,
+      "Second_Booster_50plus": 23855,
+      "Second_Booster_65plus": 15543,
+      "Second_Booster_50plus_Vax_Pct": 20.7,
+      "Second_Booster_65plus_Vax_Pct": 26.4,
+      "Second_Booster_Moderna": 13218,
+      "Second_Booster_Pfizer": 11882,
+      "Second_Booster_Janssen": 45,
+      "Second_Booster_Unk_Manuf": 7
     },
     {
       "Date": "2022-05-19",
@@ -325,7 +342,15 @@
       "Series_Complete_Janssen_5Plus": 166342,
       "Series_Complete_Unk_Manuf_5Plus": 726,
       "Additional_Doses_12Plus": 902404,
-      "Additional_Doses_12Plus_Vax_Pct": 36.5
+      "Additional_Doses_12Plus_Vax_Pct": 36.5,
+      "Second_Booster_50plus": 78248,
+      "Second_Booster_65plus": 59971,
+      "Second_Booster_50plus_Vax_Pct": 11.7,
+      "Second_Booster_65plus_Vax_Pct": 14.6,
+      "Second_Booster_Moderna": 45055,
+      "Second_Booster_Pfizer": 36250,
+      "Second_Booster_Janssen": 205,
+      "Second_Booster_Unk_Manuf": 8
     },
     {
       "Date": "2022-05-19",
@@ -417,7 +442,15 @@
       "Series_Complete_Janssen_5Plus": 113199,
       "Series_Complete_Unk_Manuf_5Plus": 1366,
       "Additional_Doses_12Plus": 659066,
-      "Additional_Doses_12Plus_Vax_Pct": 41.1
+      "Additional_Doses_12Plus_Vax_Pct": 41.1,
+      "Second_Booster_50plus": 76956,
+      "Second_Booster_65plus": 59660,
+      "Second_Booster_50plus_Vax_Pct": 17,
+      "Second_Booster_65plus_Vax_Pct": 21.6,
+      "Second_Booster_Moderna": 41630,
+      "Second_Booster_Pfizer": 37601,
+      "Second_Booster_Janssen": 66,
+      "Second_Booster_Unk_Manuf": 38
     },
     {
       "Date": "2022-05-19",
@@ -509,7 +542,15 @@
       "Series_Complete_Janssen_5Plus": 585,
       "Series_Complete_Unk_Manuf_5Plus": 587,
       "Additional_Doses_12Plus": 23140,
-      "Additional_Doses_12Plus_Vax_Pct": 64.4
+      "Additional_Doses_12Plus_Vax_Pct": 64.4,
+      "Second_Booster_50plus": 728,
+      "Second_Booster_65plus": 349,
+      "Second_Booster_50plus_Vax_Pct": 9.1,
+      "Second_Booster_65plus_Vax_Pct": 15.4,
+      "Second_Booster_Moderna": 169,
+      "Second_Booster_Pfizer": 606,
+      "Second_Booster_Janssen": 0,
+      "Second_Booster_Unk_Manuf": 0
     },
     {
       "Date": "2022-05-19",
@@ -601,7 +642,15 @@
       "Series_Complete_Janssen_5Plus": 334265,
       "Series_Complete_Unk_Manuf_5Plus": 8664,
       "Additional_Doses_12Plus": 1907366,
-      "Additional_Doses_12Plus_Vax_Pct": 44
+      "Additional_Doses_12Plus_Vax_Pct": 44,
+      "Second_Booster_50plus": 240189,
+      "Second_Booster_65plus": 180228,
+      "Second_Booster_50plus_Vax_Pct": 19.8,
+      "Second_Booster_65plus_Vax_Pct": 25.2,
+      "Second_Booster_Moderna": 110262,
+      "Second_Booster_Pfizer": 141703,
+      "Second_Booster_Janssen": 466,
+      "Second_Booster_Unk_Manuf": 735
     },
     {
       "Date": "2022-05-19",
@@ -693,7 +742,15 @@
       "Series_Complete_Janssen_5Plus": 13492,
       "Series_Complete_Unk_Manuf_5Plus": 0,
       "Additional_Doses_12Plus": 48938,
-      "Additional_Doses_12Plus_Vax_Pct": 36.2
+      "Additional_Doses_12Plus_Vax_Pct": 36.2,
+      "Second_Booster_50plus": 1269,
+      "Second_Booster_65plus": 362,
+      "Second_Booster_50plus_Vax_Pct": 8.1,
+      "Second_Booster_65plus_Vax_Pct": 14.1,
+      "Second_Booster_Moderna": 920,
+      "Second_Booster_Pfizer": 538,
+      "Second_Booster_Janssen": 3,
+      "Second_Booster_Unk_Manuf": 2
     },
     {
       "Date": "2022-05-19",
@@ -785,7 +842,15 @@
       "Series_Complete_Janssen_5Plus": 2087439,
       "Series_Complete_Unk_Manuf_5Plus": 4777,
       "Additional_Doses_12Plus": 15091074,
-      "Additional_Doses_12Plus_Vax_Pct": 55.2
+      "Additional_Doses_12Plus_Vax_Pct": 55.2,
+      "Second_Booster_50plus": 1717038,
+      "Second_Booster_65plus": 1137294,
+      "Second_Booster_50plus_Vax_Pct": 21.5,
+      "Second_Booster_65plus_Vax_Pct": 28.1,
+      "Second_Booster_Moderna": 921892,
+      "Second_Booster_Pfizer": 889852,
+      "Second_Booster_Janssen": 1687,
+      "Second_Booster_Unk_Manuf": 54
     },
     {
       "Date": "2022-05-19",
@@ -877,7 +942,15 @@
       "Series_Complete_Janssen_5Plus": 312828,
       "Series_Complete_Unk_Manuf_5Plus": 2941,
       "Additional_Doses_12Plus": 2121131,
-      "Additional_Doses_12Plus_Vax_Pct": 54.6
+      "Additional_Doses_12Plus_Vax_Pct": 54.6,
+      "Second_Booster_50plus": 257508,
+      "Second_Booster_65plus": 182147,
+      "Second_Booster_50plus_Vax_Pct": 22.4,
+      "Second_Booster_65plus_Vax_Pct": 30.2,
+      "Second_Booster_Moderna": 125599,
+      "Second_Booster_Pfizer": 146090,
+      "Second_Booster_Janssen": 276,
+      "Second_Booster_Unk_Manuf": 192
     },
     {
       "Date": "2022-05-19",
@@ -969,7 +1042,15 @@
       "Series_Complete_Janssen_5Plus": 231460,
       "Series_Complete_Unk_Manuf_5Plus": 455,
       "Additional_Doses_12Plus": 1472780,
-      "Additional_Doses_12Plus_Vax_Pct": 54.2
+      "Additional_Doses_12Plus_Vax_Pct": 54.2,
+      "Second_Booster_50plus": 199402,
+      "Second_Booster_65plus": 142258,
+      "Second_Booster_50plus_Vax_Pct": 22.4,
+      "Second_Booster_65plus_Vax_Pct": 30.8,
+      "Second_Booster_Moderna": 93818,
+      "Second_Booster_Pfizer": 110705,
+      "Second_Booster_Janssen": 69,
+      "Second_Booster_Unk_Manuf": 4
     },
     {
       "Date": "2022-05-19",
@@ -1061,7 +1142,15 @@
       "Series_Complete_Janssen_5Plus": 42109,
       "Series_Complete_Unk_Manuf_5Plus": 580,
       "Additional_Doses_12Plus": 223181,
-      "Additional_Doses_12Plus_Vax_Pct": 42.1
+      "Additional_Doses_12Plus_Vax_Pct": 42.1,
+      "Second_Booster_50plus": 26578,
+      "Second_Booster_65plus": 17408,
+      "Second_Booster_50plus_Vax_Pct": 24.7,
+      "Second_Booster_65plus_Vax_Pct": 30.8,
+      "Second_Booster_Moderna": 15039,
+      "Second_Booster_Pfizer": 15037,
+      "Second_Booster_Janssen": 41,
+      "Second_Booster_Unk_Manuf": 32
     },
     {
       "Date": "2022-05-19",
@@ -1153,7 +1242,15 @@
       "Series_Complete_Janssen_5Plus": 294106,
       "Series_Complete_Unk_Manuf_5Plus": 239,
       "Additional_Doses_12Plus": 1874,
-      "Additional_Doses_12Plus_Vax_Pct": 0.1
+      "Additional_Doses_12Plus_Vax_Pct": 0.1,
+      "Second_Booster_50plus": 0,
+      "Second_Booster_65plus": 0,
+      "Second_Booster_50plus_Vax_Pct": 0,
+      "Second_Booster_65plus_Vax_Pct": 0,
+      "Second_Booster_Moderna": 1,
+      "Second_Booster_Pfizer": 6,
+      "Second_Booster_Janssen": 0,
+      "Second_Booster_Unk_Manuf": 0
     },
     {
       "Date": "2022-05-19",
@@ -1245,7 +1342,15 @@
       "Series_Complete_Janssen_5Plus": 57252,
       "Series_Complete_Unk_Manuf_5Plus": 727,
       "Additional_Doses_12Plus": 311504,
-      "Additional_Doses_12Plus_Vax_Pct": 47.7
+      "Additional_Doses_12Plus_Vax_Pct": 47.7,
+      "Second_Booster_50plus": 46036,
+      "Second_Booster_65plus": 35371,
+      "Second_Booster_50plus_Vax_Pct": 21.6,
+      "Second_Booster_65plus_Vax_Pct": 27.9,
+      "Second_Booster_Moderna": 22757,
+      "Second_Booster_Pfizer": 24397,
+      "Second_Booster_Janssen": 45,
+      "Second_Booster_Unk_Manuf": 10
     },
     {
       "Date": "2022-05-19",
@@ -1337,7 +1442,15 @@
       "Series_Complete_Janssen_5Plus": 1364103,
       "Series_Complete_Unk_Manuf_5Plus": 41085,
       "Additional_Doses_12Plus": 5863326,
-      "Additional_Doses_12Plus_Vax_Pct": 41.6
+      "Additional_Doses_12Plus_Vax_Pct": 41.6,
+      "Second_Booster_50plus": 754949,
+      "Second_Booster_65plus": 582030,
+      "Second_Booster_50plus_Vax_Pct": 18,
+      "Second_Booster_65plus_Vax_Pct": 22.5,
+      "Second_Booster_Moderna": 403835,
+      "Second_Booster_Pfizer": 378251,
+      "Second_Booster_Janssen": 1481,
+      "Second_Booster_Unk_Manuf": 3017
     },
     {
       "Date": "2022-05-19",
@@ -1429,7 +1542,15 @@
       "Series_Complete_Janssen_5Plus": 12538,
       "Series_Complete_Unk_Manuf_5Plus": 22,
       "Additional_Doses_12Plus": 17117,
-      "Additional_Doses_12Plus_Vax_Pct": 33.5
+      "Additional_Doses_12Plus_Vax_Pct": 33.5,
+      "Second_Booster_50plus": 319,
+      "Second_Booster_65plus": 86,
+      "Second_Booster_50plus_Vax_Pct": 5.4,
+      "Second_Booster_65plus_Vax_Pct": 5.5,
+      "Second_Booster_Moderna": 391,
+      "Second_Booster_Pfizer": 266,
+      "Second_Booster_Janssen": 1,
+      "Second_Booster_Unk_Manuf": 0
     },
     {
       "Date": "2022-05-19",
@@ -1521,7 +1642,15 @@
       "Series_Complete_Janssen_5Plus": 321401,
       "Series_Complete_Unk_Manuf_5Plus": 12476,
       "Additional_Doses_12Plus": 2223924,
-      "Additional_Doses_12Plus_Vax_Pct": 39.2
+      "Additional_Doses_12Plus_Vax_Pct": 39.2,
+      "Second_Booster_50plus": 201933,
+      "Second_Booster_65plus": 140838,
+      "Second_Booster_50plus_Vax_Pct": 14.3,
+      "Second_Booster_65plus_Vax_Pct": 18.6,
+      "Second_Booster_Moderna": 110956,
+      "Second_Booster_Pfizer": 102533,
+      "Second_Booster_Janssen": 276,
+      "Second_Booster_Unk_Manuf": 323
     },
     {
       "Date": "2022-05-19",
@@ -1613,7 +1742,15 @@
       "Series_Complete_Janssen_5Plus": 11189,
       "Series_Complete_Unk_Manuf_5Plus": 115,
       "Additional_Doses_12Plus": 62337,
-      "Additional_Doses_12Plus_Vax_Pct": 46.9
+      "Additional_Doses_12Plus_Vax_Pct": 46.9,
+      "Second_Booster_50plus": 5025,
+      "Second_Booster_65plus": 2845,
+      "Second_Booster_50plus_Vax_Pct": 16.1,
+      "Second_Booster_65plus_Vax_Pct": 22.9,
+      "Second_Booster_Moderna": 2252,
+      "Second_Booster_Pfizer": 2924,
+      "Second_Booster_Janssen": 3,
+      "Second_Booster_Unk_Manuf": 0
     },
     {
       "Date": "2022-05-19",
@@ -1705,7 +1842,15 @@
       "Series_Complete_Janssen_5Plus": 65458,
       "Series_Complete_Unk_Manuf_5Plus": 19,
       "Additional_Doses_12Plus": 573838,
-      "Additional_Doses_12Plus_Vax_Pct": 54.2
+      "Additional_Doses_12Plus_Vax_Pct": 54.2,
+      "Second_Booster_50plus": 83809,
+      "Second_Booster_65plus": 59959,
+      "Second_Booster_50plus_Vax_Pct": 23.7,
+      "Second_Booster_65plus_Vax_Pct": 30.3,
+      "Second_Booster_Moderna": 40660,
+      "Second_Booster_Pfizer": 45448,
+      "Second_Booster_Janssen": 48,
+      "Second_Booster_Unk_Manuf": 2
     },
     {
       "Date": "2022-05-19",
@@ -1797,7 +1942,15 @@
       "Series_Complete_Janssen_5Plus": 163589,
       "Series_Complete_Unk_Manuf_5Plus": 420,
       "Additional_Doses_12Plus": 1044260,
-      "Additional_Doses_12Plus_Vax_Pct": 55.3
+      "Additional_Doses_12Plus_Vax_Pct": 55.3,
+      "Second_Booster_50plus": 144942,
+      "Second_Booster_65plus": 112522,
+      "Second_Booster_50plus_Vax_Pct": 20.9,
+      "Second_Booster_65plus_Vax_Pct": 27.4,
+      "Second_Booster_Moderna": 72528,
+      "Second_Booster_Pfizer": 75641,
+      "Second_Booster_Janssen": 59,
+      "Second_Booster_Unk_Manuf": 3
     },
     {
       "Date": "2022-05-19",
@@ -1889,7 +2042,15 @@
       "Series_Complete_Janssen_5Plus": 81674,
       "Series_Complete_Unk_Manuf_5Plus": 864,
       "Additional_Doses_12Plus": 411816,
-      "Additional_Doses_12Plus_Vax_Pct": 43
+      "Additional_Doses_12Plus_Vax_Pct": 43,
+      "Second_Booster_50plus": 50156,
+      "Second_Booster_65plus": 39160,
+      "Second_Booster_50plus_Vax_Pct": 17.7,
+      "Second_Booster_65plus_Vax_Pct": 22.6,
+      "Second_Booster_Moderna": 22973,
+      "Second_Booster_Pfizer": 28686,
+      "Second_Booster_Janssen": 64,
+      "Second_Booster_Unk_Manuf": 25
     },
     {
       "Date": "2022-05-19",
@@ -1981,7 +2142,15 @@
       "Series_Complete_Janssen_5Plus": 38722,
       "Series_Complete_Unk_Manuf_5Plus": 6,
       "Additional_Doses_12Plus": 278714,
-      "Additional_Doses_12Plus_Vax_Pct": 33.3
+      "Additional_Doses_12Plus_Vax_Pct": 33.3,
+      "Second_Booster_50plus": 22376,
+      "Second_Booster_65plus": 13049,
+      "Second_Booster_50plus_Vax_Pct": 14.1,
+      "Second_Booster_65plus_Vax_Pct": 18.2,
+      "Second_Booster_Moderna": 11456,
+      "Second_Booster_Pfizer": 11786,
+      "Second_Booster_Janssen": 9,
+      "Second_Booster_Unk_Manuf": 21
     },
     {
       "Date": "2022-05-19",
@@ -2073,7 +2242,15 @@
       "Series_Complete_Janssen_5Plus": 630400,
       "Series_Complete_Unk_Manuf_5Plus": 9514,
       "Additional_Doses_12Plus": 4561658,
-      "Additional_Doses_12Plus_Vax_Pct": 54.6
+      "Additional_Doses_12Plus_Vax_Pct": 54.6,
+      "Second_Booster_50plus": 541773,
+      "Second_Booster_65plus": 378035,
+      "Second_Booster_50plus_Vax_Pct": 20.3,
+      "Second_Booster_65plus_Vax_Pct": 26.4,
+      "Second_Booster_Moderna": 258911,
+      "Second_Booster_Pfizer": 311208,
+      "Second_Booster_Janssen": 778,
+      "Second_Booster_Unk_Manuf": 926
     },
     {
       "Date": "2022-05-19",
@@ -2165,7 +2342,15 @@
       "Series_Complete_Janssen_5Plus": 282124,
       "Series_Complete_Unk_Manuf_5Plus": 8603,
       "Additional_Doses_12Plus": 1709084,
-      "Additional_Doses_12Plus_Vax_Pct": 47.5
+      "Additional_Doses_12Plus_Vax_Pct": 47.5,
+      "Second_Booster_50plus": 181666,
+      "Second_Booster_65plus": 135640,
+      "Second_Booster_50plus_Vax_Pct": 16.1,
+      "Second_Booster_65plus_Vax_Pct": 20.6,
+      "Second_Booster_Moderna": 78180,
+      "Second_Booster_Pfizer": 112709,
+      "Second_Booster_Janssen": 280,
+      "Second_Booster_Unk_Manuf": 582
     },
     {
       "Date": "2022-05-19",
@@ -2257,7 +2442,15 @@
       "Series_Complete_Janssen_5Plus": 126765,
       "Series_Complete_Unk_Manuf_5Plus": 799,
       "Additional_Doses_12Plus": 773074,
-      "Additional_Doses_12Plus_Vax_Pct": 44.7
+      "Additional_Doses_12Plus_Vax_Pct": 44.7,
+      "Second_Booster_50plus": 86989,
+      "Second_Booster_65plus": 66295,
+      "Second_Booster_50plus_Vax_Pct": 17.6,
+      "Second_Booster_65plus_Vax_Pct": 22.9,
+      "Second_Booster_Moderna": 39946,
+      "Second_Booster_Pfizer": 51029,
+      "Second_Booster_Janssen": 98,
+      "Second_Booster_Unk_Manuf": 37
     },
     {
       "Date": "2022-05-19",
@@ -2349,7 +2542,15 @@
       "Series_Complete_Janssen_5Plus": 211433,
       "Series_Complete_Unk_Manuf_5Plus": 1849,
       "Additional_Doses_12Plus": 1144525,
-      "Additional_Doses_12Plus_Vax_Pct": 45.8
+      "Additional_Doses_12Plus_Vax_Pct": 45.8,
+      "Second_Booster_50plus": 110657,
+      "Second_Booster_65plus": 82424,
+      "Second_Booster_50plus_Vax_Pct": 14.3,
+      "Second_Booster_65plus_Vax_Pct": 18.4,
+      "Second_Booster_Moderna": 50558,
+      "Second_Booster_Pfizer": 63747,
+      "Second_Booster_Janssen": 179,
+      "Second_Booster_Unk_Manuf": 17
     },
     {
       "Date": "2022-05-19",
@@ -2441,7 +2642,15 @@
       "Series_Complete_Janssen_5Plus": 181261,
       "Series_Complete_Unk_Manuf_5Plus": 1150,
       "Additional_Doses_12Plus": 990266,
-      "Additional_Doses_12Plus_Vax_Pct": 40.6
+      "Additional_Doses_12Plus_Vax_Pct": 40.6,
+      "Second_Booster_50plus": 79342,
+      "Second_Booster_65plus": 59631,
+      "Second_Booster_50plus_Vax_Pct": 11.3,
+      "Second_Booster_65plus_Vax_Pct": 14.3,
+      "Second_Booster_Moderna": 36128,
+      "Second_Booster_Pfizer": 46679,
+      "Second_Booster_Janssen": 95,
+      "Second_Booster_Unk_Manuf": 1
     },
     {
       "Date": "2022-05-19",
@@ -2533,7 +2742,15 @@
       "Series_Complete_Janssen_5Plus": 382157,
       "Series_Complete_Unk_Manuf_5Plus": 212,
       "Additional_Doses_12Plus": 2822192,
-      "Additional_Doses_12Plus_Vax_Pct": 54.2
+      "Additional_Doses_12Plus_Vax_Pct": 54.2,
+      "Second_Booster_50plus": 354762,
+      "Second_Booster_65plus": 244816,
+      "Second_Booster_50plus_Vax_Pct": 22.5,
+      "Second_Booster_65plus_Vax_Pct": 30.1,
+      "Second_Booster_Moderna": 186567,
+      "Second_Booster_Pfizer": 182427,
+      "Second_Booster_Janssen": 175,
+      "Second_Booster_Unk_Manuf": 5
     },
     {
       "Date": "2022-05-19",
@@ -2625,7 +2842,15 @@
       "Series_Complete_Janssen_5Plus": 327331,
       "Series_Complete_Unk_Manuf_5Plus": 4660,
       "Additional_Doses_12Plus": 2349336,
-      "Additional_Doses_12Plus_Vax_Pct": 53.8
+      "Additional_Doses_12Plus_Vax_Pct": 53.8,
+      "Second_Booster_50plus": 318711,
+      "Second_Booster_65plus": 217623,
+      "Second_Booster_50plus_Vax_Pct": 23.4,
+      "Second_Booster_65plus_Vax_Pct": 31.2,
+      "Second_Booster_Moderna": 164331,
+      "Second_Booster_Pfizer": 173261,
+      "Second_Booster_Janssen": 515,
+      "Second_Booster_Unk_Manuf": 496
     },
     {
       "Date": "2022-05-19",
@@ -2717,7 +2942,15 @@
       "Series_Complete_Janssen_5Plus": 131950,
       "Series_Complete_Unk_Manuf_5Plus": 877,
       "Additional_Doses_12Plus": 605121,
-      "Additional_Doses_12Plus_Vax_Pct": 58.6
+      "Additional_Doses_12Plus_Vax_Pct": 58.6,
+      "Second_Booster_50plus": 110636,
+      "Second_Booster_65plus": 81379,
+      "Second_Booster_50plus_Vax_Pct": 27.9,
+      "Second_Booster_65plus_Vax_Pct": 35.9,
+      "Second_Booster_Moderna": 55576,
+      "Second_Booster_Pfizer": 57145,
+      "Second_Booster_Janssen": 67,
+      "Second_Booster_Unk_Manuf": 147
     },
     {
       "Date": "2022-05-19",
@@ -2809,7 +3042,15 @@
       "Series_Complete_Janssen_5Plus": 2821,
       "Series_Complete_Unk_Manuf_5Plus": 3,
       "Additional_Doses_12Plus": 8139,
-      "Additional_Doses_12Plus_Vax_Pct": 31.2
+      "Additional_Doses_12Plus_Vax_Pct": 31.2,
+      "Second_Booster_50plus": 74,
+      "Second_Booster_65plus": 28,
+      "Second_Booster_50plus_Vax_Pct": 3,
+      "Second_Booster_65plus_Vax_Pct": 4.3,
+      "Second_Booster_Moderna": 96,
+      "Second_Booster_Pfizer": 6,
+      "Second_Booster_Janssen": 0,
+      "Second_Booster_Unk_Manuf": 0
     },
     {
       "Date": "2022-05-19",
@@ -2901,7 +3142,15 @@
       "Series_Complete_Janssen_5Plus": 422178,
       "Series_Complete_Unk_Manuf_5Plus": 1166,
       "Additional_Doses_12Plus": 3286835,
-      "Additional_Doses_12Plus_Vax_Pct": 56.5
+      "Additional_Doses_12Plus_Vax_Pct": 56.5,
+      "Second_Booster_50plus": 435826,
+      "Second_Booster_65plus": 318240,
+      "Second_Booster_50plus_Vax_Pct": 20.5,
+      "Second_Booster_65plus_Vax_Pct": 26.5,
+      "Second_Booster_Moderna": 211743,
+      "Second_Booster_Pfizer": 237759,
+      "Second_Booster_Janssen": 352,
+      "Second_Booster_Unk_Manuf": 16
     },
     {
       "Date": "2022-05-19",
@@ -2993,7 +3242,15 @@
       "Series_Complete_Janssen_5Plus": 328742,
       "Series_Complete_Unk_Manuf_5Plus": 1814,
       "Additional_Doses_12Plus": 2265509,
-      "Additional_Doses_12Plus_Vax_Pct": 61.1
+      "Additional_Doses_12Plus_Vax_Pct": 61.1,
+      "Second_Booster_50plus": 342059,
+      "Second_Booster_65plus": 245071,
+      "Second_Booster_50plus_Vax_Pct": 25.5,
+      "Second_Booster_65plus_Vax_Pct": 33.2,
+      "Second_Booster_Moderna": 147467,
+      "Second_Booster_Pfizer": 206145,
+      "Second_Booster_Janssen": 184,
+      "Second_Booster_Unk_Manuf": 91
     },
     {
       "Date": "2022-05-19",
@@ -3085,7 +3342,15 @@
       "Series_Complete_Janssen_5Plus": 238480,
       "Series_Complete_Unk_Manuf_5Plus": 782,
       "Additional_Doses_12Plus": 1475170,
-      "Additional_Doses_12Plus_Vax_Pct": 44.1
+      "Additional_Doses_12Plus_Vax_Pct": 44.1,
+      "Second_Booster_50plus": 165204,
+      "Second_Booster_65plus": 126308,
+      "Second_Booster_50plus_Vax_Pct": 16.6,
+      "Second_Booster_65plus_Vax_Pct": 21.1,
+      "Second_Booster_Moderna": 72848,
+      "Second_Booster_Pfizer": 97330,
+      "Second_Booster_Janssen": 97,
+      "Second_Booster_Unk_Manuf": 5
     },
     {
       "Date": "2022-05-19",
@@ -3177,7 +3442,15 @@
       "Series_Complete_Janssen_5Plus": 1168,
       "Series_Complete_Unk_Manuf_5Plus": 3,
       "Additional_Doses_12Plus": 21096,
-      "Additional_Doses_12Plus_Vax_Pct": 53.7
+      "Additional_Doses_12Plus_Vax_Pct": 53.7,
+      "Second_Booster_50plus": 473,
+      "Second_Booster_65plus": 232,
+      "Second_Booster_50plus_Vax_Pct": 5,
+      "Second_Booster_65plus_Vax_Pct": 9.8,
+      "Second_Booster_Moderna": 92,
+      "Second_Booster_Pfizer": 491,
+      "Second_Booster_Janssen": 0,
+      "Second_Booster_Unk_Manuf": 0
     },
     {
       "Date": "2022-05-19",
@@ -3269,7 +3542,15 @@
       "Series_Complete_Janssen_5Plus": 86457,
       "Series_Complete_Unk_Manuf_5Plus": 1378,
       "Additional_Doses_12Plus": 580287,
-      "Additional_Doses_12Plus_Vax_Pct": 38.4
+      "Additional_Doses_12Plus_Vax_Pct": 38.4,
+      "Second_Booster_50plus": 46354,
+      "Second_Booster_65plus": 34995,
+      "Second_Booster_50plus_Vax_Pct": 10.7,
+      "Second_Booster_65plus_Vax_Pct": 13.6,
+      "Second_Booster_Moderna": 26088,
+      "Second_Booster_Pfizer": 22203,
+      "Second_Booster_Janssen": 65,
+      "Second_Booster_Unk_Manuf": 164
     },
     {
       "Date": "2022-05-19",
@@ -3361,7 +3642,15 @@
       "Series_Complete_Janssen_5Plus": 55157,
       "Series_Complete_Unk_Manuf_5Plus": 527,
       "Additional_Doses_12Plus": 292148,
-      "Additional_Doses_12Plus_Vax_Pct": 49.5
+      "Additional_Doses_12Plus_Vax_Pct": 49.5,
+      "Second_Booster_50plus": 35995,
+      "Second_Booster_65plus": 28300,
+      "Second_Booster_50plus_Vax_Pct": 18,
+      "Second_Booster_65plus_Vax_Pct": 22.5,
+      "Second_Booster_Moderna": 17175,
+      "Second_Booster_Pfizer": 20044,
+      "Second_Booster_Janssen": 82,
+      "Second_Booster_Unk_Manuf": 55
     },
     {
       "Date": "2022-05-19",
@@ -3453,7 +3742,15 @@
       "Series_Complete_Janssen_5Plus": 485874,
       "Series_Complete_Unk_Manuf_5Plus": 162,
       "Additional_Doses_12Plus": 1726630,
-      "Additional_Doses_12Plus_Vax_Pct": 27.6
+      "Additional_Doses_12Plus_Vax_Pct": 27.6,
+      "Second_Booster_50plus": 140291,
+      "Second_Booster_65plus": 99623,
+      "Second_Booster_50plus_Vax_Pct": 12.5,
+      "Second_Booster_65plus_Vax_Pct": 15.6,
+      "Second_Booster_Moderna": 72963,
+      "Second_Booster_Pfizer": 71957,
+      "Second_Booster_Janssen": 112,
+      "Second_Booster_Unk_Manuf": 4
     },
     {
       "Date": "2022-05-19",
@@ -3545,7 +3842,15 @@
       "Series_Complete_Janssen_5Plus": 36613,
       "Series_Complete_Unk_Manuf_5Plus": 14,
       "Additional_Doses_12Plus": 183113,
-      "Additional_Doses_12Plus_Vax_Pct": 44.6
+      "Additional_Doses_12Plus_Vax_Pct": 44.6,
+      "Second_Booster_50plus": 11723,
+      "Second_Booster_65plus": 8944,
+      "Second_Booster_50plus_Vax_Pct": 9.8,
+      "Second_Booster_65plus_Vax_Pct": 12.4,
+      "Second_Booster_Moderna": 5587,
+      "Second_Booster_Pfizer": 6665,
+      "Second_Booster_Janssen": 4,
+      "Second_Booster_Unk_Manuf": 0
     },
     {
       "Date": "2022-05-19",
@@ -3637,7 +3942,15 @@
       "Series_Complete_Janssen_5Plus": 88812,
       "Series_Complete_Unk_Manuf_5Plus": 1746,
       "Additional_Doses_12Plus": 625760,
-      "Additional_Doses_12Plus_Vax_Pct": 53
+      "Additional_Doses_12Plus_Vax_Pct": 53,
+      "Second_Booster_50plus": 64576,
+      "Second_Booster_65plus": 48011,
+      "Second_Booster_50plus_Vax_Pct": 16.7,
+      "Second_Booster_65plus_Vax_Pct": 21.5,
+      "Second_Booster_Moderna": 24449,
+      "Second_Booster_Pfizer": 43126,
+      "Second_Booster_Janssen": 81,
+      "Second_Booster_Unk_Manuf": 78
     },
     {
       "Date": "2022-05-19",
@@ -3729,7 +4042,15 @@
       "Series_Complete_Janssen_5Plus": 79384,
       "Series_Complete_Unk_Manuf_5Plus": 110,
       "Additional_Doses_12Plus": 443683,
-      "Additional_Doses_12Plus_Vax_Pct": 47.6
+      "Additional_Doses_12Plus_Vax_Pct": 47.6,
+      "Second_Booster_50plus": 52154,
+      "Second_Booster_65plus": 37222,
+      "Second_Booster_50plus_Vax_Pct": 18.3,
+      "Second_Booster_65plus_Vax_Pct": 24.7,
+      "Second_Booster_Moderna": 24668,
+      "Second_Booster_Pfizer": 28707,
+      "Second_Booster_Janssen": 52,
+      "Second_Booster_Unk_Manuf": 19
     },
     {
       "Date": "2022-05-19",
@@ -3821,7 +4142,15 @@
       "Series_Complete_Janssen_5Plus": 517139,
       "Series_Complete_Unk_Manuf_5Plus": 1719,
       "Additional_Doses_12Plus": 3230139,
-      "Additional_Doses_12Plus_Vax_Pct": 49.9
+      "Additional_Doses_12Plus_Vax_Pct": 49.9,
+      "Second_Booster_50plus": 337582,
+      "Second_Booster_65plus": 234027,
+      "Second_Booster_50plus_Vax_Pct": 18.1,
+      "Second_Booster_65plus_Vax_Pct": 24.7,
+      "Second_Booster_Moderna": 171734,
+      "Second_Booster_Pfizer": 179392,
+      "Second_Booster_Janssen": 605,
+      "Second_Booster_Unk_Manuf": 12
     },
     {
       "Date": "2022-05-19",
@@ -3913,7 +4242,15 @@
       "Series_Complete_Janssen_5Plus": 110314,
       "Series_Complete_Unk_Manuf_5Plus": 2350,
       "Additional_Doses_12Plus": 748562,
-      "Additional_Doses_12Plus_Vax_Pct": 52.2
+      "Additional_Doses_12Plus_Vax_Pct": 52.2,
+      "Second_Booster_50plus": 106573,
+      "Second_Booster_65plus": 77014,
+      "Second_Booster_50plus_Vax_Pct": 23.8,
+      "Second_Booster_65plus_Vax_Pct": 30.9,
+      "Second_Booster_Moderna": 51671,
+      "Second_Booster_Pfizer": 59714,
+      "Second_Booster_Janssen": 213,
+      "Second_Booster_Unk_Manuf": 113
     },
     {
       "Date": "2022-05-19",
@@ -4005,7 +4342,15 @@
       "Series_Complete_Janssen_5Plus": 172911,
       "Series_Complete_Unk_Manuf_5Plus": 69,
       "Additional_Doses_12Plus": 731855,
-      "Additional_Doses_12Plus_Vax_Pct": 40
+      "Additional_Doses_12Plus_Vax_Pct": 40,
+      "Second_Booster_50plus": 81681,
+      "Second_Booster_65plus": 60657,
+      "Second_Booster_50plus_Vax_Pct": 17.4,
+      "Second_Booster_65plus_Vax_Pct": 22.8,
+      "Second_Booster_Moderna": 38477,
+      "Second_Booster_Pfizer": 45278,
+      "Second_Booster_Janssen": 33,
+      "Second_Booster_Unk_Manuf": 3
     },
     {
       "Date": "2022-05-19",
@@ -4097,7 +4442,15 @@
       "Series_Complete_Janssen_5Plus": 1255884,
       "Series_Complete_Unk_Manuf_5Plus": 6785,
       "Additional_Doses_12Plus": 6886330,
-      "Additional_Doses_12Plus_Vax_Pct": 47.7
+      "Additional_Doses_12Plus_Vax_Pct": 47.7,
+      "Second_Booster_50plus": 740254,
+      "Second_Booster_65plus": 529102,
+      "Second_Booster_50plus_Vax_Pct": 18.6,
+      "Second_Booster_65plus_Vax_Pct": 25.5,
+      "Second_Booster_Moderna": 375338,
+      "Second_Booster_Pfizer": 398286,
+      "Second_Booster_Janssen": 1337,
+      "Second_Booster_Unk_Manuf": 138
     },
     {
       "Date": "2022-05-19",
@@ -4189,7 +4542,15 @@
       "Series_Complete_Janssen_5Plus": 556222,
       "Series_Complete_Unk_Manuf_5Plus": 5561,
       "Additional_Doses_12Plus": 3601344,
-      "Additional_Doses_12Plus_Vax_Pct": 54.1
+      "Additional_Doses_12Plus_Vax_Pct": 54.1,
+      "Second_Booster_50plus": 434870,
+      "Second_Booster_65plus": 325000,
+      "Second_Booster_50plus_Vax_Pct": 18.3,
+      "Second_Booster_65plus_Vax_Pct": 23.7,
+      "Second_Booster_Moderna": 209174,
+      "Second_Booster_Pfizer": 243145,
+      "Second_Booster_Janssen": 781,
+      "Second_Booster_Unk_Manuf": 359
     },
     {
       "Date": "2022-05-19",
@@ -4281,7 +4642,15 @@
       "Series_Complete_Janssen_5Plus": 144558,
       "Series_Complete_Unk_Manuf_5Plus": 471,
       "Additional_Doses_12Plus": 858059,
-      "Additional_Doses_12Plus_Vax_Pct": 38.7
+      "Additional_Doses_12Plus_Vax_Pct": 38.7,
+      "Second_Booster_50plus": 81924,
+      "Second_Booster_65plus": 63810,
+      "Second_Booster_50plus_Vax_Pct": 14,
+      "Second_Booster_65plus_Vax_Pct": 18.2,
+      "Second_Booster_Moderna": 43476,
+      "Second_Booster_Pfizer": 40753,
+      "Second_Booster_Janssen": 86,
+      "Second_Booster_Unk_Manuf": 185
     },
     {
       "Date": "2022-05-19",
@@ -4373,7 +4742,15 @@
       "Series_Complete_Janssen_5Plus": 247843,
       "Series_Complete_Unk_Manuf_5Plus": 5856,
       "Additional_Doses_12Plus": 1585963,
-      "Additional_Doses_12Plus_Vax_Pct": 56
+      "Additional_Doses_12Plus_Vax_Pct": 56,
+      "Second_Booster_50plus": 252773,
+      "Second_Booster_65plus": 184942,
+      "Second_Booster_50plus_Vax_Pct": 27.5,
+      "Second_Booster_65plus_Vax_Pct": 34.3,
+      "Second_Booster_Moderna": 120312,
+      "Second_Booster_Pfizer": 141696,
+      "Second_Booster_Janssen": 237,
+      "Second_Booster_Unk_Manuf": 51
     },
     {
       "Date": "2022-05-19",
@@ -4465,7 +4842,15 @@
       "Series_Complete_Janssen_5Plus": 726283,
       "Series_Complete_Unk_Manuf_5Plus": 691,
       "Additional_Doses_12Plus": 3782256,
-      "Additional_Doses_12Plus_Vax_Pct": 44.5
+      "Additional_Doses_12Plus_Vax_Pct": 44.5,
+      "Second_Booster_50plus": 443345,
+      "Second_Booster_65plus": 331561,
+      "Second_Booster_50plus_Vax_Pct": 17.6,
+      "Second_Booster_65plus_Vax_Pct": 22.6,
+      "Second_Booster_Moderna": 228537,
+      "Second_Booster_Pfizer": 229514,
+      "Second_Booster_Janssen": 284,
+      "Second_Booster_Unk_Manuf": 8
     },
     {
       "Date": "2022-05-19",
@@ -4557,7 +4942,15 @@
       "Series_Complete_Janssen_5Plus": 139597,
       "Series_Complete_Unk_Manuf_5Plus": 119,
       "Additional_Doses_12Plus": 1561600,
-      "Additional_Doses_12Plus_Vax_Pct": 62.2
+      "Additional_Doses_12Plus_Vax_Pct": 62.2,
+      "Second_Booster_50plus": 108820,
+      "Second_Booster_65plus": 69596,
+      "Second_Booster_50plus_Vax_Pct": 13.3,
+      "Second_Booster_65plus_Vax_Pct": 16.4,
+      "Second_Booster_Moderna": 51760,
+      "Second_Booster_Pfizer": 60591,
+      "Second_Booster_Janssen": 133,
+      "Second_Booster_Unk_Manuf": 0
     },
     {
       "Date": "2022-05-19",
@@ -4649,7 +5042,15 @@
       "Series_Complete_Janssen_5Plus": 2354,
       "Series_Complete_Unk_Manuf_5Plus": 61,
       "Additional_Doses_12Plus": 11418,
-      "Additional_Doses_12Plus_Vax_Pct": 66.7
+      "Additional_Doses_12Plus_Vax_Pct": 66.7,
+      "Second_Booster_50plus": 347,
+      "Second_Booster_65plus": 161,
+      "Second_Booster_50plus_Vax_Pct": 7.5,
+      "Second_Booster_65plus_Vax_Pct": 10.5,
+      "Second_Booster_Moderna": 354,
+      "Second_Booster_Pfizer": 6,
+      "Second_Booster_Janssen": 0,
+      "Second_Booster_Unk_Manuf": 0
     },
     {
       "Date": "2022-05-19",
@@ -4741,7 +5142,15 @@
       "Series_Complete_Janssen_5Plus": 60677,
       "Series_Complete_Unk_Manuf_5Plus": 480,
       "Additional_Doses_12Plus": 473950,
-      "Additional_Doses_12Plus_Vax_Pct": 56.5
+      "Additional_Doses_12Plus_Vax_Pct": 56.5,
+      "Second_Booster_50plus": 58250,
+      "Second_Booster_65plus": 41063,
+      "Second_Booster_50plus_Vax_Pct": 20.7,
+      "Second_Booster_65plus_Vax_Pct": 27.6,
+      "Second_Booster_Moderna": 28930,
+      "Second_Booster_Pfizer": 32526,
+      "Second_Booster_Janssen": 122,
+      "Second_Booster_Unk_Manuf": 25
     },
     {
       "Date": "2022-05-19",
@@ -4833,7 +5242,15 @@
       "Series_Complete_Janssen_5Plus": 208834,
       "Series_Complete_Unk_Manuf_5Plus": 404,
       "Additional_Doses_12Plus": 1185986,
-      "Additional_Doses_12Plus_Vax_Pct": 41.4
+      "Additional_Doses_12Plus_Vax_Pct": 41.4,
+      "Second_Booster_50plus": 111937,
+      "Second_Booster_65plus": 87367,
+      "Second_Booster_50plus_Vax_Pct": 13.1,
+      "Second_Booster_65plus_Vax_Pct": 16.6,
+      "Second_Booster_Moderna": 50334,
+      "Second_Booster_Pfizer": 64683,
+      "Second_Booster_Janssen": 114,
+      "Second_Booster_Unk_Manuf": 11
     },
     {
       "Date": "2022-05-19",
@@ -4925,7 +5342,15 @@
       "Series_Complete_Janssen_5Plus": 39268,
       "Series_Complete_Unk_Manuf_5Plus": 40,
       "Additional_Doses_12Plus": 230006,
-      "Additional_Doses_12Plus_Vax_Pct": 43.7
+      "Additional_Doses_12Plus_Vax_Pct": 43.7,
+      "Second_Booster_50plus": 28453,
+      "Second_Booster_65plus": 22597,
+      "Second_Booster_50plus_Vax_Pct": 18.2,
+      "Second_Booster_65plus_Vax_Pct": 23.9,
+      "Second_Booster_Moderna": 13092,
+      "Second_Booster_Pfizer": 15990,
+      "Second_Booster_Janssen": 15,
+      "Second_Booster_Unk_Manuf": 1
     },
     {
       "Date": "2022-05-19",
@@ -5017,7 +5442,15 @@
       "Series_Complete_Janssen_5Plus": 236725,
       "Series_Complete_Unk_Manuf_5Plus": 12879,
       "Additional_Doses_12Plus": 1654274,
-      "Additional_Doses_12Plus_Vax_Pct": 45.4
+      "Additional_Doses_12Plus_Vax_Pct": 45.4,
+      "Second_Booster_50plus": 198064,
+      "Second_Booster_65plus": 146641,
+      "Second_Booster_50plus_Vax_Pct": 17.5,
+      "Second_Booster_65plus_Vax_Pct": 21.9,
+      "Second_Booster_Moderna": 94695,
+      "Second_Booster_Pfizer": 113388,
+      "Second_Booster_Janssen": 527,
+      "Second_Booster_Unk_Manuf": 2396
     },
     {
       "Date": "2022-05-19",
@@ -5109,7 +5542,15 @@
       "Series_Complete_Janssen_5Plus": 1366295,
       "Series_Complete_Unk_Manuf_5Plus": 1211,
       "Additional_Doses_12Plus": 6886128,
-      "Additional_Doses_12Plus_Vax_Pct": 40.1
+      "Additional_Doses_12Plus_Vax_Pct": 40.1,
+      "Second_Booster_50plus": 574214,
+      "Second_Booster_65plus": 399931,
+      "Second_Booster_50plus_Vax_Pct": 14.1,
+      "Second_Booster_65plus_Vax_Pct": 18.7,
+      "Second_Booster_Moderna": 311887,
+      "Second_Booster_Pfizer": 295223,
+      "Second_Booster_Janssen": 290,
+      "Second_Booster_Unk_Manuf": 19
     },
     {
       "Date": "2022-05-19",
@@ -5201,7 +5642,15 @@
       "Series_Complete_Janssen_5Plus": 170511,
       "Series_Complete_Unk_Manuf_5Plus": 15,
       "Additional_Doses_12Plus": 928426,
-      "Additional_Doses_12Plus_Vax_Pct": 47.3
+      "Additional_Doses_12Plus_Vax_Pct": 47.3,
+      "Second_Booster_50plus": 62959,
+      "Second_Booster_65plus": 44610,
+      "Second_Booster_50plus_Vax_Pct": 13.1,
+      "Second_Booster_65plus_Vax_Pct": 17.3,
+      "Second_Booster_Moderna": 26784,
+      "Second_Booster_Pfizer": 42214,
+      "Second_Booster_Janssen": 276,
+      "Second_Booster_Unk_Manuf": 1
     },
     {
       "Date": "2022-05-19",
@@ -5293,7 +5742,15 @@
       "Series_Complete_Janssen_5Plus": 456641,
       "Series_Complete_Unk_Manuf_5Plus": 3892,
       "Additional_Doses_12Plus": 2982868,
-      "Additional_Doses_12Plus_Vax_Pct": 49.9
+      "Additional_Doses_12Plus_Vax_Pct": 49.9,
+      "Second_Booster_50plus": 363011,
+      "Second_Booster_65plus": 253471,
+      "Second_Booster_50plus_Vax_Pct": 20.7,
+      "Second_Booster_65plus_Vax_Pct": 27,
+      "Second_Booster_Moderna": 180483,
+      "Second_Booster_Pfizer": 201029,
+      "Second_Booster_Janssen": 570,
+      "Second_Booster_Unk_Manuf": 204
     },
     {
       "Date": "2022-05-19",
@@ -5385,7 +5842,15 @@
       "Series_Complete_Janssen_5Plus": 233678,
       "Series_Complete_Unk_Manuf_5Plus": 12,
       "Additional_Doses_12Plus": 1158963,
-      "Additional_Doses_12Plus_Vax_Pct": 39.2
+      "Additional_Doses_12Plus_Vax_Pct": 39.2,
+      "Second_Booster_50plus": 128165,
+      "Second_Booster_65plus": 104374,
+      "Second_Booster_50plus_Vax_Pct": 12.2,
+      "Second_Booster_65plus_Vax_Pct": 13.8,
+      "Second_Booster_Moderna": 66951,
+      "Second_Booster_Pfizer": 62200,
+      "Second_Booster_Janssen": 40,
+      "Second_Booster_Unk_Manuf": 0
     },
     {
       "Date": "2022-05-19",
@@ -5477,7 +5942,15 @@
       "Series_Complete_Janssen_5Plus": 2109,
       "Series_Complete_Unk_Manuf_5Plus": 6,
       "Additional_Doses_12Plus": 17934,
-      "Additional_Doses_12Plus_Vax_Pct": 32.1
+      "Additional_Doses_12Plus_Vax_Pct": 32.1,
+      "Second_Booster_50plus": 1424,
+      "Second_Booster_65plus": 926,
+      "Second_Booster_50plus_Vax_Pct": 10.7,
+      "Second_Booster_65plus_Vax_Pct": 12.4,
+      "Second_Booster_Moderna": 567,
+      "Second_Booster_Pfizer": 907,
+      "Second_Booster_Janssen": 1,
+      "Second_Booster_Unk_Manuf": 0
     },
     {
       "Date": "2022-05-19",
@@ -5569,7 +6042,15 @@
       "Series_Complete_Janssen_5Plus": 47447,
       "Series_Complete_Unk_Manuf_5Plus": 270,
       "Additional_Doses_12Plus": 308844,
-      "Additional_Doses_12Plus_Vax_Pct": 64.1
+      "Additional_Doses_12Plus_Vax_Pct": 64.1,
+      "Second_Booster_50plus": 44886,
+      "Second_Booster_65plus": 32930,
+      "Second_Booster_50plus_Vax_Pct": 23.9,
+      "Second_Booster_65plus_Vax_Pct": 31.6,
+      "Second_Booster_Moderna": 21373,
+      "Second_Booster_Pfizer": 24853,
+      "Second_Booster_Janssen": 37,
+      "Second_Booster_Unk_Manuf": 0
     },
     {
       "Date": "2022-05-19",
@@ -5661,7 +6142,15 @@
       "Series_Complete_Janssen_5Plus": 453645,
       "Series_Complete_Unk_Manuf_5Plus": 4438,
       "Additional_Doses_12Plus": 2915003,
-      "Additional_Doses_12Plus_Vax_Pct": 54.9
+      "Additional_Doses_12Plus_Vax_Pct": 54.9,
+      "Second_Booster_50plus": 427132,
+      "Second_Booster_65plus": 301344,
+      "Second_Booster_50plus_Vax_Pct": 26.3,
+      "Second_Booster_65plus_Vax_Pct": 34,
+      "Second_Booster_Moderna": 212740,
+      "Second_Booster_Pfizer": 235966,
+      "Second_Booster_Janssen": 513,
+      "Second_Booster_Unk_Manuf": 166
     },
     {
       "Date": "2022-05-19",
@@ -5753,7 +6242,15 @@
       "Series_Complete_Janssen_5Plus": 300925,
       "Series_Complete_Unk_Manuf_5Plus": 962,
       "Additional_Doses_12Plus": 2163018,
-      "Additional_Doses_12Plus_Vax_Pct": 58.8
+      "Additional_Doses_12Plus_Vax_Pct": 58.8,
+      "Second_Booster_50plus": 305210,
+      "Second_Booster_65plus": 229123,
+      "Second_Booster_50plus_Vax_Pct": 22,
+      "Second_Booster_65plus_Vax_Pct": 28.8,
+      "Second_Booster_Moderna": 138673,
+      "Second_Booster_Pfizer": 175123,
+      "Second_Booster_Janssen": 162,
+      "Second_Booster_Unk_Manuf": 26
     },
     {
       "Date": "2022-05-19",
@@ -5845,7 +6342,15 @@
       "Series_Complete_Janssen_5Plus": 61128,
       "Series_Complete_Unk_Manuf_5Plus": 479,
       "Additional_Doses_12Plus": 476642,
-      "Additional_Doses_12Plus_Vax_Pct": 47
+      "Additional_Doses_12Plus_Vax_Pct": 47,
+      "Second_Booster_50plus": 58194,
+      "Second_Booster_65plus": 44326,
+      "Second_Booster_50plus_Vax_Pct": 17,
+      "Second_Booster_65plus_Vax_Pct": 21.1,
+      "Second_Booster_Moderna": 28215,
+      "Second_Booster_Pfizer": 32304,
+      "Second_Booster_Janssen": 45,
+      "Second_Booster_Unk_Manuf": 6
     },
     {
       "Date": "2022-05-19",
@@ -5937,7 +6442,15 @@
       "Series_Complete_Janssen_5Plus": 26673,
       "Series_Complete_Unk_Manuf_5Plus": 149,
       "Additional_Doses_12Plus": 128149,
-      "Additional_Doses_12Plus_Vax_Pct": 44.5
+      "Additional_Doses_12Plus_Vax_Pct": 44.5,
+      "Second_Booster_50plus": 14608,
+      "Second_Booster_65plus": 11604,
+      "Second_Booster_50plus_Vax_Pct": 16.2,
+      "Second_Booster_65plus_Vax_Pct": 20.3,
+      "Second_Booster_Moderna": 7436,
+      "Second_Booster_Pfizer": 7547,
+      "Second_Booster_Janssen": 12,
+      "Second_Booster_Unk_Manuf": 11
     }
   ]
 }
