@@ -1,5 +1,5 @@
 {
-  "runid": 2661,
+  "runid": 2662,
   "vaccination_data": [
     {
       "Date": "2022-07-06",
@@ -152,7 +152,8 @@
       "Second_Booster_Moderna": 8892942,
       "Second_Booster_Pfizer": 9751669,
       "Second_Booster_Janssen": 17545,
-      "Second_Booster_Unk_Manuf": 13469
+      "Second_Booster_Unk_Manuf": 13469,
+      "Administered_Dose1_<5": 267178
     },
     {
       "Date": "2022-07-06",
