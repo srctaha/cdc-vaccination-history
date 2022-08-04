@@ -1,5 +1,5 @@
 {
-  "runid": 2691,
+  "runid": 2692,
   "vaccination_data": [
     {
       "Date": "2022-08-03",
@@ -113,7 +113,10 @@
       "Second_Booster_Pfizer": 11397364,
       "Second_Booster_Janssen": 19194,
       "Second_Booster_Unk_Manuf": 14924,
-      "Administered_Dose1_<5": 755725
+      "Administered_Dose1_<5": 755725,
+      "Administered_Novavax": 7381,
+      "Distributed_Novavax": 332000,
+      "Series_Complete_Novavax": 2365
     },
     {
       "Date": "2022-08-03",
