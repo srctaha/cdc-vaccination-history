@@ -1,5 +1,5 @@
 {
-  "runid": 2697,
+  "runid": 2698,
   "vaccination_data": [
     {
       "Date": "2022-08-10",
@@ -218,7 +218,10 @@
       "Second_Booster_Moderna": 22552,
       "Second_Booster_Pfizer": 19934,
       "Second_Booster_Janssen": 56,
-      "Second_Booster_Unk_Manuf": 14
+      "Second_Booster_Unk_Manuf": 14,
+      "Administered_Novavax": 14,
+      "Distributed_Novavax": 1400,
+      "Series_Complete_Novavax": 4
     },
     {
       "Date": "2022-08-10",
@@ -320,7 +323,10 @@
       "Second_Booster_Moderna": 91925,
       "Second_Booster_Pfizer": 77669,
       "Second_Booster_Janssen": 267,
-      "Second_Booster_Unk_Manuf": 14
+      "Second_Booster_Unk_Manuf": 14,
+      "Administered_Novavax": 38,
+      "Distributed_Novavax": 12100,
+      "Series_Complete_Novavax": 6
     },
     {
       "Date": "2022-08-10",
@@ -422,7 +428,10 @@
       "Second_Booster_Moderna": 77742,
       "Second_Booster_Pfizer": 67873,
       "Second_Booster_Janssen": 83,
-      "Second_Booster_Unk_Manuf": 92
+      "Second_Booster_Unk_Manuf": 92,
+      "Administered_Novavax": 416,
+      "Distributed_Novavax": 21000,
+      "Series_Complete_Novavax": 392
     },
     {
       "Date": "2022-08-10",
@@ -524,7 +533,10 @@
       "Second_Booster_Moderna": 424,
       "Second_Booster_Pfizer": 1364,
       "Second_Booster_Janssen": 0,
-      "Second_Booster_Unk_Manuf": 0
+      "Second_Booster_Unk_Manuf": 0,
+      "Administered_Novavax": 0,
+      "Distributed_Novavax": 0,
+      "Series_Complete_Novavax": 0
     },
     {
       "Date": "2022-08-10",
@@ -626,7 +638,10 @@
       "Second_Booster_Moderna": 201057,
       "Second_Booster_Pfizer": 249380,
       "Second_Booster_Janssen": 608,
-      "Second_Booster_Unk_Manuf": 1352
+      "Second_Booster_Unk_Manuf": 1352,
+      "Administered_Novavax": 361,
+      "Distributed_Novavax": 4000,
+      "Series_Complete_Novavax": 82
     },
     {
       "Date": "2022-08-10",
@@ -728,7 +743,10 @@
       "Second_Booster_Moderna": 1991,
       "Second_Booster_Pfizer": 1445,
       "Second_Booster_Janssen": 3,
-      "Second_Booster_Unk_Manuf": 2
+      "Second_Booster_Unk_Manuf": 2,
+      "Administered_Novavax": 0,
+      "Distributed_Novavax": 0,
+      "Series_Complete_Novavax": 0
     },
     {
       "Date": "2022-08-10",
@@ -830,7 +848,10 @@
       "Second_Booster_Moderna": 1706012,
       "Second_Booster_Pfizer": 1682027,
       "Second_Booster_Janssen": 2298,
-      "Second_Booster_Unk_Manuf": 64
+      "Second_Booster_Unk_Manuf": 64,
+      "Administered_Novavax": 1176,
+      "Distributed_Novavax": 58700,
+      "Series_Complete_Novavax": 203
     },
     {
       "Date": "2022-08-10",
@@ -932,7 +953,10 @@
       "Second_Booster_Moderna": 243694,
       "Second_Booster_Pfizer": 301955,
       "Second_Booster_Janssen": 383,
-      "Second_Booster_Unk_Manuf": 471
+      "Second_Booster_Unk_Manuf": 471,
+      "Administered_Novavax": 729,
+      "Distributed_Novavax": 9200,
+      "Series_Complete_Novavax": 252
     },
     {
       "Date": "2022-08-10",
@@ -1034,7 +1058,10 @@
       "Second_Booster_Moderna": 150736,
       "Second_Booster_Pfizer": 179439,
       "Second_Booster_Janssen": 102,
-      "Second_Booster_Unk_Manuf": 5
+      "Second_Booster_Unk_Manuf": 5,
+      "Administered_Novavax": 40,
+      "Distributed_Novavax": 4600,
+      "Series_Complete_Novavax": 2
     },
     {
       "Date": "2022-08-10",
@@ -1136,7 +1163,10 @@
       "Second_Booster_Moderna": 24649,
       "Second_Booster_Pfizer": 25522,
       "Second_Booster_Janssen": 52,
-      "Second_Booster_Unk_Manuf": 50
+      "Second_Booster_Unk_Manuf": 50,
+      "Administered_Novavax": 49,
+      "Distributed_Novavax": 1300,
+      "Series_Complete_Novavax": 8
     },
     {
       "Date": "2022-08-10",
@@ -1238,7 +1268,10 @@
       "Second_Booster_Moderna": 19108,
       "Second_Booster_Pfizer": 42693,
       "Second_Booster_Janssen": 46,
-      "Second_Booster_Unk_Manuf": 129
+      "Second_Booster_Unk_Manuf": 129,
+      "Administered_Novavax": 578,
+      "Distributed_Novavax": 14600,
+      "Series_Complete_Novavax": 198
     },
     {
       "Date": "2022-08-10",
@@ -1340,7 +1373,10 @@
       "Second_Booster_Moderna": 37464,
       "Second_Booster_Pfizer": 42703,
       "Second_Booster_Janssen": 84,
-      "Second_Booster_Unk_Manuf": 12
+      "Second_Booster_Unk_Manuf": 12,
+      "Administered_Novavax": 36,
+      "Distributed_Novavax": 1600,
+      "Series_Complete_Novavax": 8
     },
     {
       "Date": "2022-08-10",
@@ -1442,7 +1478,10 @@
       "Second_Booster_Moderna": 673653,
       "Second_Booster_Pfizer": 671341,
       "Second_Booster_Janssen": 1993,
-      "Second_Booster_Unk_Manuf": 3720
+      "Second_Booster_Unk_Manuf": 3720,
+      "Administered_Novavax": 829,
+      "Distributed_Novavax": 19300,
+      "Series_Complete_Novavax": 191
     },
     {
       "Date": "2022-08-10",
@@ -1544,7 +1583,10 @@
       "Second_Booster_Moderna": 3005,
       "Second_Booster_Pfizer": 1119,
       "Second_Booster_Janssen": 2,
-      "Second_Booster_Unk_Manuf": 0
+      "Second_Booster_Unk_Manuf": 0,
+      "Administered_Novavax": 0,
+      "Distributed_Novavax": 0,
+      "Series_Complete_Novavax": 0
     },
     {
       "Date": "2022-08-10",
@@ -1646,7 +1688,10 @@
       "Second_Booster_Moderna": 188086,
       "Second_Booster_Pfizer": 182036,
       "Second_Booster_Janssen": 348,
-      "Second_Booster_Unk_Manuf": 436
+      "Second_Booster_Unk_Manuf": 436,
+      "Administered_Novavax": 36,
+      "Distributed_Novavax": 11000,
+      "Series_Complete_Novavax": 15
     },
     {
       "Date": "2022-08-10",
@@ -1748,7 +1793,10 @@
       "Second_Booster_Moderna": 4869,
       "Second_Booster_Pfizer": 6671,
       "Second_Booster_Janssen": 5,
-      "Second_Booster_Unk_Manuf": 0
+      "Second_Booster_Unk_Manuf": 0,
+      "Administered_Novavax": 0,
+      "Distributed_Novavax": 100,
+      "Series_Complete_Novavax": 0
     },
     {
       "Date": "2022-08-10",
@@ -1850,7 +1898,10 @@
       "Second_Booster_Moderna": 84328,
       "Second_Booster_Pfizer": 88338,
       "Second_Booster_Janssen": 120,
-      "Second_Booster_Unk_Manuf": 12
+      "Second_Booster_Unk_Manuf": 12,
+      "Administered_Novavax": 1,
+      "Distributed_Novavax": 2400,
+      "Series_Complete_Novavax": 0
     },
     {
       "Date": "2022-08-10",
@@ -1952,7 +2003,10 @@
       "Second_Booster_Moderna": 125747,
       "Second_Booster_Pfizer": 137119,
       "Second_Booster_Janssen": 94,
-      "Second_Booster_Unk_Manuf": 9
+      "Second_Booster_Unk_Manuf": 9,
+      "Administered_Novavax": 71,
+      "Distributed_Novavax": 7100,
+      "Series_Complete_Novavax": 7
     },
     {
       "Date": "2022-08-10",
@@ -2054,7 +2108,10 @@
       "Second_Booster_Moderna": 43692,
       "Second_Booster_Pfizer": 52258,
       "Second_Booster_Janssen": 87,
-      "Second_Booster_Unk_Manuf": 34
+      "Second_Booster_Unk_Manuf": 34,
+      "Administered_Novavax": 43,
+      "Distributed_Novavax": 11200,
+      "Series_Complete_Novavax": 12
     },
     {
       "Date": "2022-08-10",
@@ -2156,7 +2213,10 @@
       "Second_Booster_Moderna": 23197,
       "Second_Booster_Pfizer": 23368,
       "Second_Booster_Janssen": 18,
-      "Second_Booster_Unk_Manuf": 22
+      "Second_Booster_Unk_Manuf": 22,
+      "Administered_Novavax": 6,
+      "Distributed_Novavax": 4700,
+      "Series_Complete_Novavax": 1
     },
     {
       "Date": "2022-08-10",
@@ -2258,7 +2318,10 @@
       "Second_Booster_Moderna": 460200,
       "Second_Booster_Pfizer": 579345,
       "Second_Booster_Janssen": 1045,
-      "Second_Booster_Unk_Manuf": 1091
+      "Second_Booster_Unk_Manuf": 1091,
+      "Administered_Novavax": 760,
+      "Distributed_Novavax": 8800,
+      "Series_Complete_Novavax": 180
     },
     {
       "Date": "2022-08-10",
@@ -2360,7 +2423,10 @@
       "Second_Booster_Moderna": 141032,
       "Second_Booster_Pfizer": 198190,
       "Second_Booster_Janssen": 411,
-      "Second_Booster_Unk_Manuf": 822
+      "Second_Booster_Unk_Manuf": 822,
+      "Administered_Novavax": 132,
+      "Distributed_Novavax": 2200,
+      "Series_Complete_Novavax": 22
     },
     {
       "Date": "2022-08-10",
@@ -2462,7 +2528,10 @@
       "Second_Booster_Moderna": 81077,
       "Second_Booster_Pfizer": 97288,
       "Second_Booster_Janssen": 189,
-      "Second_Booster_Unk_Manuf": 98
+      "Second_Booster_Unk_Manuf": 98,
+      "Administered_Novavax": 60,
+      "Distributed_Novavax": 15000,
+      "Series_Complete_Novavax": 9
     },
     {
       "Date": "2022-08-10",
@@ -2564,7 +2633,10 @@
       "Second_Booster_Moderna": 106139,
       "Second_Booster_Pfizer": 128806,
       "Second_Booster_Janssen": 270,
-      "Second_Booster_Unk_Manuf": 26
+      "Second_Booster_Unk_Manuf": 26,
+      "Administered_Novavax": 76,
+      "Distributed_Novavax": 5300,
+      "Series_Complete_Novavax": 30
     },
     {
       "Date": "2022-08-10",
@@ -2666,7 +2738,10 @@
       "Second_Booster_Moderna": 85243,
       "Second_Booster_Pfizer": 102496,
       "Second_Booster_Janssen": 156,
-      "Second_Booster_Unk_Manuf": 11
+      "Second_Booster_Unk_Manuf": 11,
+      "Administered_Novavax": 131,
+      "Distributed_Novavax": 4900,
+      "Series_Complete_Novavax": 23
     },
     {
       "Date": "2022-08-10",
@@ -2768,7 +2843,10 @@
       "Second_Booster_Moderna": 299542,
       "Second_Booster_Pfizer": 303335,
       "Second_Booster_Janssen": 244,
-      "Second_Booster_Unk_Manuf": 9
+      "Second_Booster_Unk_Manuf": 9,
+      "Administered_Novavax": 48,
+      "Distributed_Novavax": 3200,
+      "Series_Complete_Novavax": 7
     },
     {
       "Date": "2022-08-10",
@@ -2870,7 +2948,10 @@
       "Second_Booster_Moderna": 304007,
       "Second_Booster_Pfizer": 329326,
       "Second_Booster_Janssen": 735,
-      "Second_Booster_Unk_Manuf": 720
+      "Second_Booster_Unk_Manuf": 720,
+      "Administered_Novavax": 110,
+      "Distributed_Novavax": 17800,
+      "Series_Complete_Novavax": 8
     },
     {
       "Date": "2022-08-10",
@@ -2972,7 +3053,10 @@
       "Second_Booster_Moderna": 85104,
       "Second_Booster_Pfizer": 88306,
       "Second_Booster_Janssen": 98,
-      "Second_Booster_Unk_Manuf": 179
+      "Second_Booster_Unk_Manuf": 179,
+      "Administered_Novavax": 26,
+      "Distributed_Novavax": 3400,
+      "Series_Complete_Novavax": 2
     },
     {
       "Date": "2022-08-10",
@@ -3074,7 +3158,10 @@
       "Second_Booster_Moderna": 1201,
       "Second_Booster_Pfizer": 47,
       "Second_Booster_Janssen": 0,
-      "Second_Booster_Unk_Manuf": 0
+      "Second_Booster_Unk_Manuf": 0,
+      "Administered_Novavax": 0,
+      "Distributed_Novavax": 1100,
+      "Series_Complete_Novavax": 0
     },
     {
       "Date": "2022-08-10",
@@ -3176,7 +3263,10 @@
       "Second_Booster_Moderna": 349366,
       "Second_Booster_Pfizer": 385752,
       "Second_Booster_Janssen": 455,
-      "Second_Booster_Unk_Manuf": 29
+      "Second_Booster_Unk_Manuf": 29,
+      "Administered_Novavax": 63,
+      "Distributed_Novavax": 13300,
+      "Series_Complete_Novavax": 3
     },
     {
       "Date": "2022-08-10",
@@ -3278,7 +3368,10 @@
       "Second_Booster_Moderna": 259703,
       "Second_Booster_Pfizer": 361249,
       "Second_Booster_Janssen": 293,
-      "Second_Booster_Unk_Manuf": 137
+      "Second_Booster_Unk_Manuf": 137,
+      "Administered_Novavax": 275,
+      "Distributed_Novavax": 3000,
+      "Series_Complete_Novavax": 93
     },
     {
       "Date": "2022-08-10",
@@ -3380,7 +3473,10 @@
       "Second_Booster_Moderna": 147041,
       "Second_Booster_Pfizer": 187383,
       "Second_Booster_Janssen": 163,
-      "Second_Booster_Unk_Manuf": 13
+      "Second_Booster_Unk_Manuf": 13,
+      "Administered_Novavax": 17,
+      "Distributed_Novavax": 6200,
+      "Series_Complete_Novavax": 13
     },
     {
       "Date": "2022-08-10",
@@ -3482,7 +3578,10 @@
       "Second_Booster_Moderna": 217,
       "Second_Booster_Pfizer": 1142,
       "Second_Booster_Janssen": 1,
-      "Second_Booster_Unk_Manuf": 0
+      "Second_Booster_Unk_Manuf": 0,
+      "Administered_Novavax": 0,
+      "Distributed_Novavax": 200,
+      "Series_Complete_Novavax": 0
     },
     {
       "Date": "2022-08-10",
@@ -3584,7 +3683,10 @@
       "Second_Booster_Moderna": 60085,
       "Second_Booster_Pfizer": 55466,
       "Second_Booster_Janssen": 123,
-      "Second_Booster_Unk_Manuf": 252
+      "Second_Booster_Unk_Manuf": 252,
+      "Administered_Novavax": 18,
+      "Distributed_Novavax": 2400,
+      "Series_Complete_Novavax": 6
     },
     {
       "Date": "2022-08-10",
@@ -3686,7 +3788,10 @@
       "Second_Booster_Moderna": 31808,
       "Second_Booster_Pfizer": 35843,
       "Second_Booster_Janssen": 113,
-      "Second_Booster_Unk_Manuf": 73
+      "Second_Booster_Unk_Manuf": 73,
+      "Administered_Novavax": 19,
+      "Distributed_Novavax": 4400,
+      "Series_Complete_Novavax": 4
     },
     {
       "Date": "2022-08-10",
@@ -3788,7 +3893,10 @@
       "Second_Booster_Moderna": 143709,
       "Second_Booster_Pfizer": 144786,
       "Second_Booster_Janssen": 169,
-      "Second_Booster_Unk_Manuf": 10
+      "Second_Booster_Unk_Manuf": 10,
+      "Administered_Novavax": 210,
+      "Distributed_Novavax": 23200,
+      "Series_Complete_Novavax": 39
     },
     {
       "Date": "2022-08-10",
@@ -3890,7 +3998,10 @@
       "Second_Booster_Moderna": 11959,
       "Second_Booster_Pfizer": 15130,
       "Second_Booster_Janssen": 5,
-      "Second_Booster_Unk_Manuf": 9
+      "Second_Booster_Unk_Manuf": 9,
+      "Administered_Novavax": 7,
+      "Distributed_Novavax": 800,
+      "Series_Complete_Novavax": 2
     },
     {
       "Date": "2022-08-10",
@@ -3992,7 +4103,10 @@
       "Second_Booster_Moderna": 54458,
       "Second_Booster_Pfizer": 86858,
       "Second_Booster_Janssen": 104,
-      "Second_Booster_Unk_Manuf": 250
+      "Second_Booster_Unk_Manuf": 250,
+      "Administered_Novavax": 121,
+      "Distributed_Novavax": 2200,
+      "Series_Complete_Novavax": 36
     },
     {
       "Date": "2022-08-10",
@@ -4094,7 +4208,10 @@
       "Second_Booster_Moderna": 40375,
       "Second_Booster_Pfizer": 50214,
       "Second_Booster_Janssen": 74,
-      "Second_Booster_Unk_Manuf": 33
+      "Second_Booster_Unk_Manuf": 33,
+      "Administered_Novavax": 36,
+      "Distributed_Novavax": 1600,
+      "Series_Complete_Novavax": 2
     },
     {
       "Date": "2022-08-10",
@@ -4196,7 +4313,10 @@
       "Second_Booster_Moderna": 281337,
       "Second_Booster_Pfizer": 304759,
       "Second_Booster_Janssen": 801,
-      "Second_Booster_Unk_Manuf": 40
+      "Second_Booster_Unk_Manuf": 40,
+      "Administered_Novavax": 235,
+      "Distributed_Novavax": 17500,
+      "Series_Complete_Novavax": 46
     },
     {
       "Date": "2022-08-10",
@@ -4298,7 +4418,10 @@
       "Second_Booster_Moderna": 90209,
       "Second_Booster_Pfizer": 105041,
       "Second_Booster_Janssen": 250,
-      "Second_Booster_Unk_Manuf": 146
+      "Second_Booster_Unk_Manuf": 146,
+      "Administered_Novavax": 44,
+      "Distributed_Novavax": 3000,
+      "Series_Complete_Novavax": 8
     },
     {
       "Date": "2022-08-10",
@@ -4400,7 +4523,10 @@
       "Second_Booster_Moderna": 70120,
       "Second_Booster_Pfizer": 85792,
       "Second_Booster_Janssen": 48,
-      "Second_Booster_Unk_Manuf": 5
+      "Second_Booster_Unk_Manuf": 5,
+      "Administered_Novavax": 16,
+      "Distributed_Novavax": 1800,
+      "Series_Complete_Novavax": 1
     },
     {
       "Date": "2022-08-10",
@@ -4502,7 +4628,10 @@
       "Second_Booster_Moderna": 586476,
       "Second_Booster_Pfizer": 628776,
       "Second_Booster_Janssen": 1740,
-      "Second_Booster_Unk_Manuf": 171
+      "Second_Booster_Unk_Manuf": 171,
+      "Administered_Novavax": 347,
+      "Distributed_Novavax": 8600,
+      "Series_Complete_Novavax": 66
     },
     {
       "Date": "2022-08-10",
@@ -4604,7 +4733,10 @@
       "Second_Booster_Moderna": 373212,
       "Second_Booster_Pfizer": 449928,
       "Second_Booster_Janssen": 915,
-      "Second_Booster_Unk_Manuf": 421
+      "Second_Booster_Unk_Manuf": 421,
+      "Administered_Novavax": 451,
+      "Distributed_Novavax": 11700,
+      "Series_Complete_Novavax": 123
     },
     {
       "Date": "2022-08-10",
@@ -4706,7 +4838,10 @@
       "Second_Booster_Moderna": 82218,
       "Second_Booster_Pfizer": 82331,
       "Second_Booster_Janssen": 135,
-      "Second_Booster_Unk_Manuf": 552
+      "Second_Booster_Unk_Manuf": 552,
+      "Administered_Novavax": 42,
+      "Distributed_Novavax": 11200,
+      "Series_Complete_Novavax": 8
     },
     {
       "Date": "2022-08-10",
@@ -4808,7 +4943,10 @@
       "Second_Booster_Moderna": 198429,
       "Second_Booster_Pfizer": 232992,
       "Second_Booster_Janssen": 321,
-      "Second_Booster_Unk_Manuf": 106
+      "Second_Booster_Unk_Manuf": 106,
+      "Administered_Novavax": 220,
+      "Distributed_Novavax": 9100,
+      "Series_Complete_Novavax": 36
     },
     {
       "Date": "2022-08-10",
@@ -4910,7 +5048,10 @@
       "Second_Booster_Moderna": 403138,
       "Second_Booster_Pfizer": 418248,
       "Second_Booster_Janssen": 394,
-      "Second_Booster_Unk_Manuf": 19
+      "Second_Booster_Unk_Manuf": 19,
+      "Administered_Novavax": 178,
+      "Distributed_Novavax": 24400,
+      "Series_Complete_Novavax": 5
     },
     {
       "Date": "2022-08-10",
@@ -5012,7 +5153,10 @@
       "Second_Booster_Moderna": 97888,
       "Second_Booster_Pfizer": 117677,
       "Second_Booster_Janssen": 217,
-      "Second_Booster_Unk_Manuf": 1
+      "Second_Booster_Unk_Manuf": 1,
+      "Administered_Novavax": 18,
+      "Distributed_Novavax": 400,
+      "Series_Complete_Novavax": 8
     },
     {
       "Date": "2022-08-10",
@@ -5114,7 +5258,10 @@
       "Second_Booster_Moderna": 1130,
       "Second_Booster_Pfizer": 20,
       "Second_Booster_Janssen": 0,
-      "Second_Booster_Unk_Manuf": 0
+      "Second_Booster_Unk_Manuf": 0,
+      "Administered_Novavax": 0,
+      "Distributed_Novavax": 0,
+      "Series_Complete_Novavax": 0
     },
     {
       "Date": "2022-08-10",
@@ -5216,7 +5363,10 @@
       "Second_Booster_Moderna": 47926,
       "Second_Booster_Pfizer": 55055,
       "Second_Booster_Janssen": 147,
-      "Second_Booster_Unk_Manuf": 45
+      "Second_Booster_Unk_Manuf": 45,
+      "Administered_Novavax": 185,
+      "Distributed_Novavax": 3200,
+      "Series_Complete_Novavax": 42
     },
     {
       "Date": "2022-08-10",
@@ -5318,7 +5468,10 @@
       "Second_Booster_Moderna": 111777,
       "Second_Booster_Pfizer": 132631,
       "Second_Booster_Janssen": 223,
-      "Second_Booster_Unk_Manuf": 24
+      "Second_Booster_Unk_Manuf": 24,
+      "Administered_Novavax": 35,
+      "Distributed_Novavax": 35200,
+      "Series_Complete_Novavax": 3
     },
     {
       "Date": "2022-08-10",
@@ -5420,7 +5573,10 @@
       "Second_Booster_Moderna": 23664,
       "Second_Booster_Pfizer": 29256,
       "Second_Booster_Janssen": 26,
-      "Second_Booster_Unk_Manuf": 2
+      "Second_Booster_Unk_Manuf": 2,
+      "Administered_Novavax": 0,
+      "Distributed_Novavax": 1500,
+      "Series_Complete_Novavax": 1
     },
     {
       "Date": "2022-08-10",
@@ -5522,7 +5678,10 @@
       "Second_Booster_Moderna": 171264,
       "Second_Booster_Pfizer": 199394,
       "Second_Booster_Janssen": 686,
-      "Second_Booster_Unk_Manuf": 2935
+      "Second_Booster_Unk_Manuf": 2935,
+      "Administered_Novavax": 710,
+      "Distributed_Novavax": 6900,
+      "Series_Complete_Novavax": 156
     },
     {
       "Date": "2022-08-10",
@@ -5624,7 +5783,10 @@
       "Second_Booster_Moderna": 594574,
       "Second_Booster_Pfizer": 601011,
       "Second_Booster_Janssen": 358,
-      "Second_Booster_Unk_Manuf": 1443
+      "Second_Booster_Unk_Manuf": 1443,
+      "Administered_Novavax": 15,
+      "Distributed_Novavax": 44300,
+      "Series_Complete_Novavax": 14
     },
     {
       "Date": "2022-08-10",
@@ -5726,7 +5888,10 @@
       "Second_Booster_Moderna": 55251,
       "Second_Booster_Pfizer": 89996,
       "Second_Booster_Janssen": 327,
-      "Second_Booster_Unk_Manuf": 2
+      "Second_Booster_Unk_Manuf": 2,
+      "Administered_Novavax": 14,
+      "Distributed_Novavax": 2800,
+      "Series_Complete_Novavax": 2
     },
     {
       "Date": "2022-08-10",
@@ -5828,7 +5993,10 @@
       "Second_Booster_Moderna": 317508,
       "Second_Booster_Pfizer": 371617,
       "Second_Booster_Janssen": 760,
-      "Second_Booster_Unk_Manuf": 304
+      "Second_Booster_Unk_Manuf": 304,
+      "Administered_Novavax": 200,
+      "Distributed_Novavax": 3400,
+      "Series_Complete_Novavax": 54
     },
     {
       "Date": "2022-08-10",
@@ -5930,7 +6098,10 @@
       "Second_Booster_Moderna": 128849,
       "Second_Booster_Pfizer": 116895,
       "Second_Booster_Janssen": 51,
-      "Second_Booster_Unk_Manuf": 0
+      "Second_Booster_Unk_Manuf": 0,
+      "Administered_Novavax": 7,
+      "Distributed_Novavax": 4800,
+      "Series_Complete_Novavax": 0
     },
     {
       "Date": "2022-08-10",
@@ -6032,7 +6203,10 @@
       "Second_Booster_Moderna": 757,
       "Second_Booster_Pfizer": 1196,
       "Second_Booster_Janssen": 1,
-      "Second_Booster_Unk_Manuf": 0
+      "Second_Booster_Unk_Manuf": 0,
+      "Administered_Novavax": 0,
+      "Distributed_Novavax": 200,
+      "Series_Complete_Novavax": 0
     },
     {
       "Date": "2022-08-10",
@@ -6134,7 +6308,10 @@
       "Second_Booster_Moderna": 35336,
       "Second_Booster_Pfizer": 41531,
       "Second_Booster_Janssen": 53,
-      "Second_Booster_Unk_Manuf": 1
+      "Second_Booster_Unk_Manuf": 1,
+      "Administered_Novavax": 3,
+      "Distributed_Novavax": 1300,
+      "Series_Complete_Novavax": 0
     },
     {
       "Date": "2022-08-10",
@@ -6236,7 +6413,10 @@
       "Second_Booster_Moderna": 361259,
       "Second_Booster_Pfizer": 400877,
       "Second_Booster_Janssen": 658,
-      "Second_Booster_Unk_Manuf": 344
+      "Second_Booster_Unk_Manuf": 344,
+      "Administered_Novavax": 702,
+      "Distributed_Novavax": 14700,
+      "Series_Complete_Novavax": 177
     },
     {
       "Date": "2022-08-10",
@@ -6338,7 +6518,10 @@
       "Second_Booster_Moderna": 251544,
       "Second_Booster_Pfizer": 313883,
       "Second_Booster_Janssen": 217,
-      "Second_Booster_Unk_Manuf": 48
+      "Second_Booster_Unk_Manuf": 48,
+      "Administered_Novavax": 28,
+      "Distributed_Novavax": 10100,
+      "Series_Complete_Novavax": 7
     },
     {
       "Date": "2022-08-10",
@@ -6440,7 +6623,10 @@
       "Second_Booster_Moderna": 50431,
       "Second_Booster_Pfizer": 55286,
       "Second_Booster_Janssen": 64,
-      "Second_Booster_Unk_Manuf": 32
+      "Second_Booster_Unk_Manuf": 32,
+      "Administered_Novavax": 17,
+      "Distributed_Novavax": 4000,
+      "Series_Complete_Novavax": 2
     },
     {
       "Date": "2022-08-10",
@@ -6542,7 +6728,10 @@
       "Second_Booster_Moderna": 13544,
       "Second_Booster_Pfizer": 13624,
       "Second_Booster_Janssen": 19,
-      "Second_Booster_Unk_Manuf": 14
+      "Second_Booster_Unk_Manuf": 14,
+      "Administered_Novavax": 4,
+      "Distributed_Novavax": 1200,
+      "Series_Complete_Novavax": 2
     }
   ]
 }
