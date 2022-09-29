@@ -1,5 +1,5 @@
 {
-  "runid": 2748,
+  "runid": 2749,
   "vaccination_data": [
     {
       "Date": "2022-09-28",
@@ -14,6 +14,8 @@
       "Administered_Moderna": 232943541,
       "Administered_Pfizer": 367217199,
       "Administered_Janssen": 18902992,
+      "Dist_Bivalent_MOD": 9122700,
+      "Dist_Bivalent_PFR": 27024600,
       "Administered_Unk_Manuf": 671979,
       "Administered_Dose1_Recip": 264112767,
       "Administered_Dose1_Pop_Pct": 79.5,
@@ -63,6 +65,8 @@
       "Additional_Doses_65Plus": 35999184,
       "Additional_Doses_65Plus_Vax_Pct": 71.1,
       "Administered_Bivalent": 7570309,
+      "Admin_Bivalent_MOD": 2683917,
+      "Admin_Bivalent_PFR": 4886392,
       "Administered_Dose1_Recip_5Plus": 262652943,
       "Administered_Dose1_Recip_5PlusPop_Pct": 84.1,
       "Series_Complete_5PlusPop_Pct": 72,
